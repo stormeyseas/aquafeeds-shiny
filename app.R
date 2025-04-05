@@ -281,42 +281,25 @@ server <- function(input, output, session) {
         theme_classic() +
         my_plot_theme()
 
-# # Add salmon requirements if checkbox is checked
-      # if (input$show_requirements) {
-      #   salmon_requirements <- read_app_data("data/salmon_requirements.csv")
-      #   # Add segments for each component's requirements
-      #   for (comp in c("carbohydrate", "lipid", "protein")) {
-      #     req <- salmon_requirements[salmon_requirements$component == comp, ]
-      #     if (!is.na(req$min)) {
-      #       p <- p + geom_segment(
-      #         data = req,
-      #         aes(x = comp, xend = comp,
-      #             y = min * 100, yend = max * 100),
-      #         linetype = "dashed", size = 1
-      #       )
-      #     }
-      #   }
-      # }
-      p
+    # Add salmon requirements if checkbox is checked
+    if (input$show_requirements) {
+      salmon_requirements <- read_app_data("data/salmon_requirements.csv")
+      # Add segments for each component's requirements
+      for (comp in c("carbohydrate", "lipid", "protein")) {
+        req <- salmon_requirements[salmon_requirements$component == comp, ]
+        if (!is.na(req$min)) {
+          p <- p + geom_segment(
+            data = req,
+            aes(x = comp, xend = comp,
+                y = min * 100, yend = max * 100),
+            linetype = "dashed", size = 1
+          )
+        }
+      }
+    }
+    p
     }
   })
-# # Add salmon requirements if checkbox is checked
-      # if (input$show_requirements) {
-      #   salmon_requirements <- read_app_data("data/salmon_requirements.csv")
-      #   # Add segments for each component's requirements
-      #   for (comp in c("carbohydrate", "lipid", "protein")) {
-      #     req <- salmon_requirements[salmon_requirements$component == comp, ]
-      #     if (!is.na(req$min)) {
-      #       p <- p + geom_segment(
-      #         data = req,
-      #         aes(x = comp, xend = comp,
-      #             y = min * 100, yend = max * 100),
-      #         linetype = "dashed", size = 1
-      #       )
-      #     }
-      #   }
-      # }
-}
 
   # Generate sourcing input fields
   output$sourcing_inputs <- renderUI({
