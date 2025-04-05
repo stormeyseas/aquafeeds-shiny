@@ -33,7 +33,8 @@ ui <- fluidPage(
     tabPanel("Feed composition",
       sidebarLayout(
         sidebarPanel(
-          selectInput("preset_diet", "Select preset diet:", choices = c("Custom", "Standard", "Experimental")),
+          selectInput("preset_diet", "Select preset diet:", 
+                      choices = c("Custom", "Past" = "past", "Reference" = "reference", "Future" = "future")),
           # Ingredient inputs will be generated dynamically
           uiOutput("ingredient_inputs"),
           tags$div(
