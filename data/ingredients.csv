@@ -1,0 +1,76 @@
+ingredient,component,composition,digestibility
+Black soldier-fly meal,protein,0.566,0.715
+Canola oil,protein,0,0
+Chicken protein concentrate,protein,0.882,0.876
+Coconut oil,protein,0,0
+Corn gluten meal,protein,0.678,0.938
+Faba beans,protein,0.295,0.86
+Fishmeal forage,protein,0.748,0.902
+Fishmeal trimmings,protein,0.678,0.875
+Fish oil forage,protein,0,0
+Fish oil trimmings,protein,0,0
+Guar meal,protein,0.558,0.6302
+Krill meal,protein,0.623,0.882
+Linseed oil,protein,0,0
+Methanobacterial meal,protein,0.751840168,0.8
+Pea flour,protein,0.233,0.804
+Pea protein concentrate,protein,0.837,0.882
+Soybean meal,protein,0.526,0.861
+Soybean oil,protein,0,0
+Soy protein concentrate,protein,0.583,0.914
+Spirulina meal,protein,0.638,0.81
+Sunflower meal,protein,0.36,0.866
+Wheat,protein,0.126,0.9
+Wheat gluten,protein,0.85,0.938
+Yeast meal,protein,0.476,0.817
+Microingredients,protein,0,0
+Black soldier-fly meal,lipid,0.12,0.96
+Canola oil,lipid,0.996,0.96
+Chicken protein concentrate,lipid,0.013,0.96
+Coconut oil,lipid,1,0.96
+Corn gluten meal,lipid,0.066,0.96
+Faba beans,lipid,0.015,0.96
+Fishmeal forage,lipid,0.098,0.96
+Fishmeal trimmings,lipid,0.103,0.96
+Fish oil forage,lipid,1,0.96
+Fish oil trimmings,lipid,1,0.96
+Guar meal,lipid,0.047,0.96
+Krill meal,lipid,0.093,0.96
+Linseed oil,lipid,1,0.96
+Methanobacterial meal,lipid,0.108307045,0.96
+Pea flour,lipid,0.012,0.96
+Pea protein concentrate,lipid,0.047,0.96
+Soybean meal,lipid,0.018,0.96
+Soybean oil,lipid,1,0.96
+Soy protein concentrate,lipid,0.018,0.96
+Spirulina meal,lipid,0.061,0.96
+Sunflower meal,lipid,0.095,0.96
+Wheat,lipid,0.016,0.96
+Wheat gluten,lipid,0.017,0.96
+Yeast meal,lipid,0.04,0.96
+Microingredients,lipid,0,0
+Black soldier-fly meal,carbohydrate,0.186,0.41
+Canola oil,carbohydrate,0.002,0
+Chicken protein concentrate,carbohydrate,0.05,0.878
+Coconut oil,carbohydrate,0,0
+Corn gluten meal,carbohydrate,0.236,0.8295
+Faba beans,carbohydrate,0.652,0.5992
+Fishmeal forage,carbohydrate,0.002,0
+Fishmeal trimmings,carbohydrate,0.026,0.375
+Fish oil forage,carbohydrate,0,0
+Fish oil trimmings,carbohydrate,0,0
+Guar meal,carbohydrate,0.341,0.6538
+Krill meal,carbohydrate,0.133,0.55
+Linseed oil,carbohydrate,0,0
+Methanobacterial meal,carbohydrate,0.07150368,0.677
+Pea flour,carbohydrate,0.445,0.5818
+Pea protein concentrate,carbohydrate,0.073,0.7714
+Soybean meal,carbohydrate,0.385,0.824
+Soybean oil,carbohydrate,0,0
+Soy protein concentrate,carbohydrate,0.327,0.6818
+Spirulina meal,carbohydrate,0.212,0.716
+Sunflower meal,carbohydrate,0.479,0.6096
+Wheat,carbohydrate,0.84,0.7962
+Wheat gluten,carbohydrate,0.123,0.859
+Yeast meal,carbohydrate,0.414,0.698
+Microingredients,carbohydrate,0,0

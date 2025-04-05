@@ -1,0 +1,2056 @@
+"ingredient","raw_material","processing","dimension","unit_value"
+"Black soldier-fly meal","Turkey","Indonesia","biodiversity",0.634763104152181
+"Black soldier-fly meal","India","Indonesia","biodiversity",0.331484299537206
+"Black soldier-fly meal","Germany","Indonesia","biodiversity",0.410815104003676
+"Black soldier-fly meal","Egypt","Indonesia","biodiversity",0.353509129822354
+"Black soldier-fly meal","China","Indonesia","biodiversity",0.562647363705988
+"Black soldier-fly meal","Turkey","Iran","biodiversity",0.42642313414826
+"Black soldier-fly meal","India","Iran","biodiversity",0.358306195569777
+"Black soldier-fly meal","Germany","Iran","biodiversity",0.293613629296681
+"Black soldier-fly meal","Egypt","Iran","biodiversity",0.50527528803942
+"Black soldier-fly meal","China","Iran","biodiversity",0.648109546298395
+"Black soldier-fly meal","Turkey","Pakistan","biodiversity",0.624692088650565
+"Black soldier-fly meal","India","Pakistan","biodiversity",0.105742372612265
+"Black soldier-fly meal","Germany","Pakistan","biodiversity",0.333483398742644
+"Black soldier-fly meal","Egypt","Pakistan","biodiversity",0.203215170106417
+"Black soldier-fly meal","China","Pakistan","biodiversity",0.695764295036867
+"Canola oil","Philippines","Indonesia","biodiversity",0.265832391987525
+"Canola oil","Nigeria","Indonesia","biodiversity",0.673404110409737
+"Canola oil","Philippines","Philippines","biodiversity",0.448869402819332
+"Canola oil","Nigeria","Philippines","biodiversity",0.570273670432456
+"Canola oil","Philippines","United States","biodiversity",0.733110451002927
+"Canola oil","Nigeria","United States","biodiversity",0.332035803202831
+"Canola oil","Philippines","Turkey","biodiversity",0.469721386691808
+"Canola oil","Nigeria","Turkey","biodiversity",0.739438598727419
+"Chicken protein concentrate","Egypt","Iran","biodiversity",0.418843537130984
+"Chicken protein concentrate","Thailand","Iran","biodiversity",0.790409886283493
+"Chicken protein concentrate","Turkey","Iran","biodiversity",0.399028473819257
+"Chicken protein concentrate","China","Iran","biodiversity",0.439306086692177
+"Chicken protein concentrate","Russia","Iran","biodiversity",0.511385883539196
+"Chicken protein concentrate","Egypt","Congo (DRC)","biodiversity",0.578260146778768
+"Chicken protein concentrate","Thailand","Congo (DRC)","biodiversity",0.0103873451719009
+"Chicken protein concentrate","Turkey","Congo (DRC)","biodiversity",0.406194947775571
+"Chicken protein concentrate","China","Congo (DRC)","biodiversity",0.765366810017257
+"Chicken protein concentrate","Russia","Congo (DRC)","biodiversity",0.573635798640065
+"Chicken protein concentrate","Egypt","Indonesia","biodiversity",0.5910428024222
+"Chicken protein concentrate","Thailand","Indonesia","biodiversity",0.283126336279532
+"Chicken protein concentrate","Turkey","Indonesia","biodiversity",0.536943136796047
+"Chicken protein concentrate","China","Indonesia","biodiversity",0.35795477627627
+"Chicken protein concentrate","Russia","Indonesia","biodiversity",0.308533730248871
+"Chicken protein concentrate","Egypt","Turkey","biodiversity",0.444351398219481
+"Chicken protein concentrate","Thailand","Turkey","biodiversity",0.329733777764766
+"Chicken protein concentrate","Turkey","Turkey","biodiversity",0.704613283117485
+"Chicken protein concentrate","China","Turkey","biodiversity",0.736895500779785
+"Chicken protein concentrate","Russia","Turkey","biodiversity",-0.00439156437296206
+"Chicken protein concentrate","Egypt","Thailand","biodiversity",0.59489716396736
+"Chicken protein concentrate","Thailand","Thailand","biodiversity",0.639603954350584
+"Chicken protein concentrate","Turkey","Thailand","biodiversity",0.226129257742001
+"Chicken protein concentrate","China","Thailand","biodiversity",0.523407942002056
+"Chicken protein concentrate","Russia","Thailand","biodiversity",0.261912179001632
+"Coconut oil","China","Brazil","biodiversity",0.52454074041357
+"Coconut oil","Iran","Brazil","biodiversity",0.383947857239807
+"Coconut oil","Vietnam","Brazil","biodiversity",0.600882497219786
+"Coconut oil","Japan","Brazil","biodiversity",0.522327287774999
+"Coconut oil","United States","Brazil","biodiversity",0.104344480031988
+"Coconut oil","Mexico","Brazil","biodiversity",0.604087676535784
+"Coconut oil","China","Egypt","biodiversity",0.741160198418742
+"Coconut oil","Iran","Egypt","biodiversity",0.332947120692189
+"Coconut oil","Vietnam","Egypt","biodiversity",0.52302621902554
+"Coconut oil","Japan","Egypt","biodiversity",0.286486325102622
+"Coconut oil","United States","Egypt","biodiversity",0.531585792513468
+"Coconut oil","Mexico","Egypt","biodiversity",0.525906607120003
+"Corn gluten meal","Thailand","Mexico","biodiversity",0.510280052149474
+"Corn gluten meal","United States","Mexico","biodiversity",0.361523046954018
+"Corn gluten meal","Germany","Mexico","biodiversity",0.568453899836475
+"Corn gluten meal","Ethiopia","Mexico","biodiversity",0.621187857387364
+"Corn gluten meal","Indonesia","Mexico","biodiversity",0.50351286096396
+"Corn gluten meal","China","Mexico","biodiversity",0.24272229183798
+"Corn gluten meal","Thailand","Brazil","biodiversity",0.0145078021910041
+"Corn gluten meal","United States","Brazil","biodiversity",0.761684044613224
+"Corn gluten meal","Germany","Brazil","biodiversity",0.499611868339291
+"Corn gluten meal","Ethiopia","Brazil","biodiversity",0.482006219045525
+"Corn gluten meal","Indonesia","Brazil","biodiversity",0.537034561192304
+"Corn gluten meal","China","Brazil","biodiversity",0.356556787705325
+"Faba beans","Ethiopia","Mexico","biodiversity",0.207600444457573
+"Faba beans","United States","Mexico","biodiversity",0.498510088810803
+"Faba beans","Bangladesh","Mexico","biodiversity",0.643610247163222
+"Faba beans","China","Mexico","biodiversity",0.545628954166658
+"Faba beans","Ethiopia","Indonesia","biodiversity",0.153895127761569
+"Faba beans","United States","Indonesia","biodiversity",0.671962760801145
+"Faba beans","Bangladesh","Indonesia","biodiversity",0.675039838971214
+"Faba beans","China","Indonesia","biodiversity",0.507176021098491
+"Faba beans","Ethiopia","Bangladesh","biodiversity",-0.0264510291922151
+"Faba beans","United States","Bangladesh","biodiversity",0.571062496225428
+"Faba beans","Bangladesh","Bangladesh","biodiversity",0.172179220917308
+"Faba beans","China","Bangladesh","biodiversity",0.190831477138832
+"Faba beans","Ethiopia","Pakistan","biodiversity",0.604225401927695
+"Faba beans","United States","Pakistan","biodiversity",0.573855541839779
+"Faba beans","Bangladesh","Pakistan","biodiversity",0.693054701637042
+"Faba beans","China","Pakistan","biodiversity",0.883854578155024
+"Faba beans","Ethiopia","United States","biodiversity",0.143957957338716
+"Faba beans","United States","United States","biodiversity",0.222016902649995
+"Faba beans","Bangladesh","United States","biodiversity",0.139778462914211
+"Faba beans","China","United States","biodiversity",0.960342597687734
+"Fishmeal (forage)","Russia","Pakistan","biodiversity",0.497496400479507
+"Fishmeal (forage)","China","Pakistan","biodiversity",0.610569054951878
+"Fishmeal (forage)","Egypt","Pakistan","biodiversity",0.478802313699712
+"Fishmeal (forage)","Pakistan","Pakistan","biodiversity",0.29842145604853
+"Fishmeal (forage)","Japan","Pakistan","biodiversity",0.444682564013949
+"Fishmeal (forage)","Turkey","Pakistan","biodiversity",0.697489361281259
+"Fishmeal (forage)","Russia","Brazil","biodiversity",0.706786867488641
+"Fishmeal (forage)","China","Brazil","biodiversity",0.674035812149568
+"Fishmeal (forage)","Egypt","Brazil","biodiversity",0.281339778918547
+"Fishmeal (forage)","Pakistan","Brazil","biodiversity",0.684281683151905
+"Fishmeal (forage)","Japan","Brazil","biodiversity",0.391728073055751
+"Fishmeal (forage)","Turkey","Brazil","biodiversity",0.570118769976122
+"Fishmeal (forage)","Russia","Ethiopia","biodiversity",0.751053475665501
+"Fishmeal (forage)","China","Ethiopia","biodiversity",0.791982420615962
+"Fishmeal (forage)","Egypt","Ethiopia","biodiversity",0.435556877318242
+"Fishmeal (forage)","Pakistan","Ethiopia","biodiversity",0.642010902430163
+"Fishmeal (forage)","Japan","Ethiopia","biodiversity",0.608226133376517
+"Fishmeal (forage)","Turkey","Ethiopia","biodiversity",0.724008558663492
+"Fishmeal (trimmings)","Pakistan","Germany","biodiversity",0.336056619220837
+"Fishmeal (trimmings)","United States","Germany","biodiversity",0.714713908650801
+"Fishmeal (trimmings)","Philippines","Germany","biodiversity",0.366604444639752
+"Fishmeal (trimmings)","India","Germany","biodiversity",0.802319322432431
+"Fishmeal (trimmings)","Nigeria","Germany","biodiversity",0.497122359239624
+"Fishmeal (trimmings)","Pakistan","Bangladesh","biodiversity",0.238149991883082
+"Fishmeal (trimmings)","United States","Bangladesh","biodiversity",0.626156930905048
+"Fishmeal (trimmings)","Philippines","Bangladesh","biodiversity",0.822284646285838
+"Fishmeal (trimmings)","India","Bangladesh","biodiversity",0.458568179060239
+"Fishmeal (trimmings)","Nigeria","Bangladesh","biodiversity",0.474313883931984
+"Fishmeal (trimmings)","Pakistan","Turkey","biodiversity",1.23343389041856
+"Fishmeal (trimmings)","United States","Turkey","biodiversity",0.399484774262234
+"Fishmeal (trimmings)","Philippines","Turkey","biodiversity",0.335887256443421
+"Fishmeal (trimmings)","India","Turkey","biodiversity",0.594609585733902
+"Fishmeal (trimmings)","Nigeria","Turkey","biodiversity",0.431487708711009
+"Fish oil (forage)","Ethiopia","Mexico","biodiversity",0.609135161699128
+"Fish oil (forage)","Mexico","Mexico","biodiversity",0.459835941112383
+"Fish oil (forage)","Ethiopia","Indonesia","biodiversity",0.675181257463954
+"Fish oil (forage)","Mexico","Indonesia","biodiversity",0.722691432918595
+"Fish oil (forage)","Ethiopia","Brazil","biodiversity",0.435781403041962
+"Fish oil (forage)","Mexico","Brazil","biodiversity",0.342031050783839
+"Fish oil (forage)","Ethiopia","Germany","biodiversity",0.403841133341436
+"Fish oil (forage)","Mexico","Germany","biodiversity",0.6988526657505
+"Fish oil (trimmings)","Congo (DRC)","Brazil","biodiversity",0.328902228222844
+"Fish oil (trimmings)","Indonesia","Brazil","biodiversity",0.581157207721638
+"Fish oil (trimmings)","Congo (DRC)","Iran","biodiversity",0.465866454865429
+"Fish oil (trimmings)","Indonesia","Iran","biodiversity",0.720457929647995
+"Fish oil (trimmings)","Congo (DRC)","Thailand","biodiversity",0.30389453294121
+"Fish oil (trimmings)","Indonesia","Thailand","biodiversity",0.094470534868989
+"Fish oil (trimmings)","Congo (DRC)","Philippines","biodiversity",0.424233166291427
+"Fish oil (trimmings)","Indonesia","Philippines","biodiversity",0.370387137936792
+"Fish oil (trimmings)","Congo (DRC)","Turkey","biodiversity",0.429100780033048
+"Fish oil (trimmings)","Indonesia","Turkey","biodiversity",0.373470826413965
+"Guar meal","United States","Indonesia","biodiversity",0.86198608063617
+"Guar meal","Mexico","Indonesia","biodiversity",0.368912625797774
+"Guar meal","Vietnam","Indonesia","biodiversity",0.351202590383107
+"Guar meal","United States","Bangladesh","biodiversity",0.681719123113678
+"Guar meal","Mexico","Bangladesh","biodiversity",0.561274900939736
+"Guar meal","Vietnam","Bangladesh","biodiversity",0.716734143323411
+"Guar meal","United States","Iran","biodiversity",0.634207354744411
+"Guar meal","Mexico","Iran","biodiversity",0.500941392004819
+"Guar meal","Vietnam","Iran","biodiversity",0.521314398261109
+"Guar meal","United States","Congo (DRC)","biodiversity",0.563821321083725
+"Guar meal","Mexico","Congo (DRC)","biodiversity",0.522119527228394
+"Guar meal","Vietnam","Congo (DRC)","biodiversity",0.215390220711889
+"Guar meal","United States","Ethiopia","biodiversity",0.107100640660042
+"Guar meal","Mexico","Ethiopia","biodiversity",0.515278193262296
+"Guar meal","Vietnam","Ethiopia","biodiversity",0.366833021274482
+"Krill meal","Philippines","Mexico","biodiversity",0.496856501854736
+"Krill meal","Egypt","Mexico","biodiversity",0.634786509052286
+"Krill meal","United States","Mexico","biodiversity",0.512051889313016
+"Krill meal","Iran","Mexico","biodiversity",0.935630376259016
+"Krill meal","Pakistan","Mexico","biodiversity",0.309222027962436
+"Krill meal","Germany","Mexico","biodiversity",0.445484239489671
+"Krill meal","Philippines","Nigeria","biodiversity",0.469091632106637
+"Krill meal","Egypt","Nigeria","biodiversity",0.492167696263121
+"Krill meal","United States","Nigeria","biodiversity",0.102674014482625
+"Krill meal","Iran","Nigeria","biodiversity",0.379514980868953
+"Krill meal","Pakistan","Nigeria","biodiversity",0.399154018327185
+"Krill meal","Germany","Nigeria","biodiversity",0.730963956798749
+"Krill meal","Philippines","United States","biodiversity",0.404181570963695
+"Krill meal","Egypt","United States","biodiversity",0.303410278126714
+"Krill meal","United States","United States","biodiversity",0.590166677923706
+"Krill meal","Iran","United States","biodiversity",0.383275266236652
+"Krill meal","Pakistan","United States","biodiversity",0.365821160897445
+"Krill meal","Germany","United States","biodiversity",0.644629969386313
+"Krill meal","Philippines","Pakistan","biodiversity",0.559637263038308
+"Krill meal","Egypt","Pakistan","biodiversity",0.661134123022659
+"Krill meal","United States","Pakistan","biodiversity",0.580472192126919
+"Krill meal","Iran","Pakistan","biodiversity",0.920335043096365
+"Krill meal","Pakistan","Pakistan","biodiversity",0.424313058537546
+"Krill meal","Germany","Pakistan","biodiversity",0.770442003636804
+"Linseed oil","Indonesia","Thailand","biodiversity",0.548140163662204
+"Linseed oil","United States","Thailand","biodiversity",0.736972608832712
+"Linseed oil","Vietnam","Thailand","biodiversity",0.622466011514936
+"Linseed oil","Indonesia","Iran","biodiversity",0.741910206600207
+"Linseed oil","United States","Iran","biodiversity",0.488831806704761
+"Linseed oil","Vietnam","Iran","biodiversity",0.389787117410167
+"Linseed oil","Indonesia","Ethiopia","biodiversity",0.581932515305519
+"Linseed oil","United States","Ethiopia","biodiversity",0.629495517806961
+"Linseed oil","Vietnam","Ethiopia","biodiversity",1.03014409041592
+"Linseed oil","Indonesia","Japan","biodiversity",0.463969080350773
+"Linseed oil","United States","Japan","biodiversity",0.438486655130027
+"Linseed oil","Vietnam","Japan","biodiversity",0.333304195735372
+"Linseed oil","Indonesia","Mexico","biodiversity",0.893021533221595
+"Linseed oil","United States","Mexico","biodiversity",0.539983992904535
+"Linseed oil","Vietnam","Mexico","biodiversity",0.62983419001678
+"Linseed oil","Indonesia","United States","biodiversity",0.306268708337674
+"Linseed oil","United States","United States","biodiversity",0.445835990123213
+"Linseed oil","Vietnam","United States","biodiversity",0.274367576521601
+"Methanobacterial meal","Japan","Pakistan","biodiversity",0.45221874197988
+"Methanobacterial meal","Nigeria","Pakistan","biodiversity",0.576296229806992
+"Methanobacterial meal","United States","Pakistan","biodiversity",0.577249299792061
+"Methanobacterial meal","Japan","Vietnam","biodiversity",0.805288246542777
+"Methanobacterial meal","Nigeria","Vietnam","biodiversity",0.8091857046566
+"Methanobacterial meal","United States","Vietnam","biodiversity",0.295383167578697
+"Pea flour","Brazil","Vietnam","biodiversity",0.525135220586629
+"Pea flour","Iran","Vietnam","biodiversity",0.551034895380586
+"Pea flour","Vietnam","Vietnam","biodiversity",0.570993063166086
+"Pea flour","Congo (DRC)","Vietnam","biodiversity",0.186920761178616
+"Pea flour","Brazil","Pakistan","biodiversity",0.837792120229768
+"Pea flour","Iran","Pakistan","biodiversity",0.514046307218759
+"Pea flour","Vietnam","Pakistan","biodiversity",0.417214949725316
+"Pea flour","Congo (DRC)","Pakistan","biodiversity",0.408101326216286
+"Pea flour","Brazil","Turkey","biodiversity",0.318054759905521
+"Pea flour","Iran","Turkey","biodiversity",0.708977688116562
+"Pea flour","Vietnam","Turkey","biodiversity",0.833326111761223
+"Pea flour","Congo (DRC)","Turkey","biodiversity",0.541186365975765
+"Pea flour","Brazil","India","biodiversity",0.543272305559876
+"Pea flour","Iran","India","biodiversity",0.600079036522836
+"Pea flour","Vietnam","India","biodiversity",0.611769232016153
+"Pea flour","Congo (DRC)","India","biodiversity",0.516138260749751
+"Pea protein concentrate","Germany","Brazil","biodiversity",0.613476940224266
+"Pea protein concentrate","Pakistan","Brazil","biodiversity",0.558235347917206
+"Pea protein concentrate","Germany","Pakistan","biodiversity",0.645665430247464
+"Pea protein concentrate","Pakistan","Pakistan","biodiversity",0.682590844448043
+"Pea protein concentrate","Germany","China","biodiversity",0.293456721537136
+"Pea protein concentrate","Pakistan","China","biodiversity",0.643934315355432
+"Soybean meal","Philippines","Ethiopia","biodiversity",0.106197742557632
+"Soybean meal","Nigeria","Ethiopia","biodiversity",0.660744216675696
+"Soybean meal","Pakistan","Ethiopia","biodiversity",0.720793929831893
+"Soybean meal","Germany","Ethiopia","biodiversity",0.740113851083433
+"Soybean meal","Japan","Ethiopia","biodiversity",0.467677613543021
+"Soybean meal","India","Ethiopia","biodiversity",0.737682945940824
+"Soybean meal","Philippines","Turkey","biodiversity",0.360920137818979
+"Soybean meal","Nigeria","Turkey","biodiversity",0.567300283076038
+"Soybean meal","Pakistan","Turkey","biodiversity",0.520256739940636
+"Soybean meal","Germany","Turkey","biodiversity",0.0299042550885569
+"Soybean meal","Japan","Turkey","biodiversity",0.158645802615577
+"Soybean meal","India","Turkey","biodiversity",0.474452695233064
+"Soybean meal","Philippines","Philippines","biodiversity",0.462372917125266
+"Soybean meal","Nigeria","Philippines","biodiversity",0.67060006934027
+"Soybean meal","Pakistan","Philippines","biodiversity",0.848770133474406
+"Soybean meal","Germany","Philippines","biodiversity",0.619029399664988
+"Soybean meal","Japan","Philippines","biodiversity",0.349086927754839
+"Soybean meal","India","Philippines","biodiversity",0.460455980629641
+"Soybean meal","Philippines","China","biodiversity",0.210058644342375
+"Soybean meal","Nigeria","China","biodiversity",0.446087970124709
+"Soybean meal","Pakistan","China","biodiversity",0.36308395992155
+"Soybean meal","Germany","China","biodiversity",0.656282157654006
+"Soybean meal","Japan","China","biodiversity",0.308278533648625
+"Soybean meal","India","China","biodiversity",0.440528118935109
+"Soybean oil","Vietnam","Indonesia","biodiversity",0.135318613506149
+"Soybean oil","Ethiopia","Indonesia","biodiversity",0.413251441875498
+"Soybean oil","Iran","Indonesia","biodiversity",0.521083099459456
+"Soybean oil","Pakistan","Indonesia","biodiversity",0.674755388249627
+"Soybean oil","Brazil","Indonesia","biodiversity",0.504578595379337
+"Soybean oil","Vietnam","Philippines","biodiversity",0.43406397656363
+"Soybean oil","Ethiopia","Philippines","biodiversity",0.487182898398525
+"Soybean oil","Iran","Philippines","biodiversity",0.500624951464633
+"Soybean oil","Pakistan","Philippines","biodiversity",0.433134720786082
+"Soybean oil","Brazil","Philippines","biodiversity",0.827739081416762
+"Soy protein concentrate","Nigeria","Germany","biodiversity",0.420164724551538
+"Soy protein concentrate","Congo (DRC)","Germany","biodiversity",0.579762304627069
+"Soy protein concentrate","Iran","Germany","biodiversity",0.385174407310454
+"Soy protein concentrate","Indonesia","Germany","biodiversity",0.289465720324367
+"Soy protein concentrate","Germany","Germany","biodiversity",0.600820764421061
+"Soy protein concentrate","Ethiopia","Germany","biodiversity",0.753552484440324
+"Soy protein concentrate","Nigeria","Egypt","biodiversity",0.586101044994846
+"Soy protein concentrate","Congo (DRC)","Egypt","biodiversity",0.70438261089643
+"Soy protein concentrate","Iran","Egypt","biodiversity",0.0842772526321069
+"Soy protein concentrate","Indonesia","Egypt","biodiversity",0.550580066907182
+"Soy protein concentrate","Germany","Egypt","biodiversity",0.217695747302625
+"Soy protein concentrate","Ethiopia","Egypt","biodiversity",0.97950624761414
+"Soy protein concentrate","Nigeria","Bangladesh","biodiversity",0.704949564690228
+"Soy protein concentrate","Congo (DRC)","Bangladesh","biodiversity",0.601728230951229
+"Soy protein concentrate","Iran","Bangladesh","biodiversity",0.811385415852466
+"Soy protein concentrate","Indonesia","Bangladesh","biodiversity",0.801550656069763
+"Soy protein concentrate","Germany","Bangladesh","biodiversity",0.61074454599241
+"Soy protein concentrate","Ethiopia","Bangladesh","biodiversity",0.790850047279204
+"Soy protein concentrate","Nigeria","Turkey","biodiversity",0.468713621875549
+"Soy protein concentrate","Congo (DRC)","Turkey","biodiversity",0.580833770327468
+"Soy protein concentrate","Iran","Turkey","biodiversity",0.528970097227863
+"Soy protein concentrate","Indonesia","Turkey","biodiversity",0.745409777913281
+"Soy protein concentrate","Germany","Turkey","biodiversity",0.744173620341176
+"Soy protein concentrate","Ethiopia","Turkey","biodiversity",0.325153091981082
+"Soy protein concentrate","Nigeria","Iran","biodiversity",0.48110132241517
+"Soy protein concentrate","Congo (DRC)","Iran","biodiversity",0.802151583698851
+"Soy protein concentrate","Iran","Iran","biodiversity",0.342292974231397
+"Soy protein concentrate","Indonesia","Iran","biodiversity",0.230626834845802
+"Soy protein concentrate","Germany","Iran","biodiversity",0.574427301109619
+"Soy protein concentrate","Ethiopia","Iran","biodiversity",0.531673290020556
+"Soy protein concentrate","Nigeria","India","biodiversity",0.169052194025379
+"Soy protein concentrate","Congo (DRC)","India","biodiversity",0.624149987703651
+"Soy protein concentrate","Iran","India","biodiversity",0.832911004997862
+"Soy protein concentrate","Indonesia","India","biodiversity",0.116123736483626
+"Soy protein concentrate","Germany","India","biodiversity",0.367982455985733
+"Soy protein concentrate","Ethiopia","India","biodiversity",0.476449554447944
+"Spirulina meal","China","Vietnam","biodiversity",0.678702082651611
+"Spirulina meal","Thailand","Vietnam","biodiversity",0.367573202106483
+"Spirulina meal","China","Turkey","biodiversity",0.384600114612676
+"Spirulina meal","Thailand","Turkey","biodiversity",0.714874104679437
+"Spirulina meal","China","Germany","biodiversity",0.222423667517151
+"Spirulina meal","Thailand","Germany","biodiversity",0.598480664162154
+"Spirulina meal","China","Brazil","biodiversity",0.581685611579043
+"Spirulina meal","Thailand","Brazil","biodiversity",0.220176825562291
+"Sunflower meal","Nigeria","Iran","biodiversity",-0.0852692882541656
+"Sunflower meal","Pakistan","Iran","biodiversity",0.863141004160996
+"Sunflower meal","Germany","Iran","biodiversity",0.536221883918416
+"Sunflower meal","Japan","Iran","biodiversity",0.346581562876411
+"Sunflower meal","Mexico","Iran","biodiversity",0.5095839992789
+"Sunflower meal","Nigeria","Russia","biodiversity",0.50737061728605
+"Sunflower meal","Pakistan","Russia","biodiversity",0.531611190849428
+"Sunflower meal","Germany","Russia","biodiversity",0.712001755315321
+"Sunflower meal","Japan","Russia","biodiversity",0.335131783093304
+"Sunflower meal","Mexico","Russia","biodiversity",0.359413843189901
+"Sunflower meal","Nigeria","Mexico","biodiversity",0.416395782204814
+"Sunflower meal","Pakistan","Mexico","biodiversity",0.4389346574018
+"Sunflower meal","Germany","Mexico","biodiversity",0.532439784088775
+"Sunflower meal","Japan","Mexico","biodiversity",0.419433507103916
+"Sunflower meal","Mexico","Mexico","biodiversity",0.837670735178059
+"Sunflower meal","Nigeria","Bangladesh","biodiversity",0.297046600893419
+"Sunflower meal","Pakistan","Bangladesh","biodiversity",0.655590584096684
+"Sunflower meal","Germany","Bangladesh","biodiversity",0.32361175789911
+"Sunflower meal","Japan","Bangladesh","biodiversity",0.523261788249831
+"Sunflower meal","Mexico","Bangladesh","biodiversity",0.632892726855018
+"Wheat","Japan","Nigeria","biodiversity",0.689814397142488
+"Wheat","Ethiopia","Nigeria","biodiversity",0.524291397773827
+"Wheat","Vietnam","Nigeria","biodiversity",0.490663362853151
+"Wheat","United States","Nigeria","biodiversity",0.600736789827881
+"Wheat","Philippines","Nigeria","biodiversity",0.522527643555025
+"Wheat","Russia","Nigeria","biodiversity",0.446938511571298
+"Wheat","Japan","Turkey","biodiversity",0.271622440430666
+"Wheat","Ethiopia","Turkey","biodiversity",0.510459365784623
+"Wheat","Vietnam","Turkey","biodiversity",0.658504122806757
+"Wheat","United States","Turkey","biodiversity",0.762100421255918
+"Wheat","Philippines","Turkey","biodiversity",0.0970426506370013
+"Wheat","Russia","Turkey","biodiversity",0.330989352867024
+"Wheat","Japan","Russia","biodiversity",0.433852536639647
+"Wheat","Ethiopia","Russia","biodiversity",0.910719349572017
+"Wheat","Vietnam","Russia","biodiversity",0.547600799972799
+"Wheat","United States","Russia","biodiversity",0.650766138497433
+"Wheat","Philippines","Russia","biodiversity",0.695473690836402
+"Wheat","Russia","Russia","biodiversity",0.564512252480881
+"Wheat","Japan","Mexico","biodiversity",0.932776472322666
+"Wheat","Ethiopia","Mexico","biodiversity",0.585682908741165
+"Wheat","Vietnam","Mexico","biodiversity",0.670506611735226
+"Wheat","United States","Mexico","biodiversity",0.4448200700973
+"Wheat","Philippines","Mexico","biodiversity",0.640269512789334
+"Wheat","Russia","Mexico","biodiversity",0.565073352388886
+"Wheat","Japan","Brazil","biodiversity",0.649958523181568
+"Wheat","Ethiopia","Brazil","biodiversity",0.227905411080013
+"Wheat","Vietnam","Brazil","biodiversity",0.593405318796714
+"Wheat","United States","Brazil","biodiversity",0.712922625838318
+"Wheat","Philippines","Brazil","biodiversity",0.355052380577562
+"Wheat","Russia","Brazil","biodiversity",0.528053700380593
+"Wheat","Japan","Bangladesh","biodiversity",0.53507484656484
+"Wheat","Ethiopia","Bangladesh","biodiversity",0.373064845631413
+"Wheat","Vietnam","Bangladesh","biodiversity",0.416819328216936
+"Wheat","United States","Bangladesh","biodiversity",0.215328578057647
+"Wheat","Philippines","Bangladesh","biodiversity",0.229997792932312
+"Wheat","Russia","Bangladesh","biodiversity",0.661462768281196
+"Wheat gluten","Egypt","Russia","biodiversity",0.743826322359579
+"Wheat gluten","Thailand","Russia","biodiversity",0.0459487507035782
+"Wheat gluten","Turkey","Russia","biodiversity",0.956723855917845
+"Wheat gluten","Congo (DRC)","Russia","biodiversity",0.84393511570747
+"Wheat gluten","Egypt","China","biodiversity",0.386939365267867
+"Wheat gluten","Thailand","China","biodiversity",0.532879195845089
+"Wheat gluten","Turkey","China","biodiversity",0.190851431645045
+"Wheat gluten","Congo (DRC)","China","biodiversity",0.477285102383719
+"Wheat gluten","Egypt","Philippines","biodiversity",0.632205565468884
+"Wheat gluten","Thailand","Philippines","biodiversity",0.683197079557413
+"Wheat gluten","Turkey","Philippines","biodiversity",0.0358835427096112
+"Wheat gluten","Congo (DRC)","Philippines","biodiversity",0.186456708135867
+"Wheat gluten","Egypt","Iran","biodiversity",0.487310346379369
+"Wheat gluten","Thailand","Iran","biodiversity",0.860080638019498
+"Wheat gluten","Turkey","Iran","biodiversity",0.587213180164095
+"Wheat gluten","Congo (DRC)","Iran","biodiversity",0.536728621101743
+"Yeast meal","Pakistan","Russia","biodiversity",0.390717837347471
+"Yeast meal","China","Russia","biodiversity",0.533217567525477
+"Yeast meal","Thailand","Russia","biodiversity",0.383761570153628
+"Yeast meal","Ethiopia","Russia","biodiversity",0.580518435432254
+"Yeast meal","Japan","Russia","biodiversity",0.961487559027329
+"Yeast meal","United States","Russia","biodiversity",0.515844493599572
+"Yeast meal","Pakistan","Ethiopia","biodiversity",0.519432264724068
+"Yeast meal","China","Ethiopia","biodiversity",0.296581381704542
+"Yeast meal","Thailand","Ethiopia","biodiversity",0.343268925980295
+"Yeast meal","Ethiopia","Ethiopia","biodiversity",0.156486776201388
+"Yeast meal","Japan","Ethiopia","biodiversity",0.503982158521808
+"Yeast meal","United States","Ethiopia","biodiversity",0.278929376840259
+"Yeast meal","Pakistan","Philippines","biodiversity",0.519298948079878
+"Yeast meal","China","Philippines","biodiversity",0.408220324950095
+"Yeast meal","Thailand","Philippines","biodiversity",0.291500504513574
+"Yeast meal","Ethiopia","Philippines","biodiversity",0.559847114013391
+"Yeast meal","Japan","Philippines","biodiversity",0.676561806352796
+"Yeast meal","United States","Philippines","biodiversity",0.357746960084202
+"Microingredients","Indonesia","Ethiopia","biodiversity",0.495083843320294
+"Microingredients","Iran","Ethiopia","biodiversity",0.54350233834556
+"Microingredients","Egypt","Ethiopia","biodiversity",0.230733153202024
+"Microingredients","Turkey","Ethiopia","biodiversity",0.648229689553068
+"Microingredients","Vietnam","Ethiopia","biodiversity",0.766324949575604
+"Microingredients","Indonesia","United States","biodiversity",0.482756371603697
+"Microingredients","Iran","United States","biodiversity",0.292409400968571
+"Microingredients","Egypt","United States","biodiversity",0.419994387110767
+"Microingredients","Turkey","United States","biodiversity",0.657297980878028
+"Microingredients","Vietnam","United States","biodiversity",0.833741109240012
+"Microingredients","Indonesia","Germany","biodiversity",0.613369049140971
+"Microingredients","Iran","Germany","biodiversity",0.266087149105235
+"Microingredients","Egypt","Germany","biodiversity",0.483535187513237
+"Microingredients","Turkey","Germany","biodiversity",0.207627854167976
+"Microingredients","Vietnam","Germany","biodiversity",0.632357555456035
+"Black soldier-fly meal","Turkey","Indonesia","disturbance",0.507884921949943
+"Black soldier-fly meal","India","Indonesia","disturbance",0.612059641825825
+"Black soldier-fly meal","Germany","Indonesia","disturbance",0.589145885741877
+"Black soldier-fly meal","Egypt","Indonesia","disturbance",0.557847444980578
+"Black soldier-fly meal","China","Indonesia","disturbance",0.405118851748875
+"Black soldier-fly meal","Turkey","Iran","disturbance",0.61686136073527
+"Black soldier-fly meal","India","Iran","disturbance",0.554927406240321
+"Black soldier-fly meal","Germany","Iran","disturbance",0.769219310412447
+"Black soldier-fly meal","Egypt","Iran","disturbance",0.617949888889348
+"Black soldier-fly meal","China","Iran","disturbance",0.627629231520891
+"Black soldier-fly meal","Turkey","Pakistan","disturbance",0.619016290306582
+"Black soldier-fly meal","India","Pakistan","disturbance",0.311154275465371
+"Black soldier-fly meal","Germany","Pakistan","disturbance",0.226614556739848
+"Black soldier-fly meal","Egypt","Pakistan","disturbance",0.546659865054281
+"Black soldier-fly meal","China","Pakistan","disturbance",0.34578568900922
+"Canola oil","Philippines","Indonesia","disturbance",0.772628812413007
+"Canola oil","Nigeria","Indonesia","disturbance",0.380345405955516
+"Canola oil","Philippines","Philippines","disturbance",0.503405704406859
+"Canola oil","Nigeria","Philippines","disturbance",0.416001249598452
+"Canola oil","Philippines","United States","disturbance",0.662456248734228
+"Canola oil","Nigeria","United States","disturbance",0.13689694527333
+"Canola oil","Philippines","Turkey","disturbance",0.634361518590494
+"Canola oil","Nigeria","Turkey","disturbance",0.42496746036591
+"Chicken protein concentrate","Egypt","Iran","disturbance",0.677531270012328
+"Chicken protein concentrate","Thailand","Iran","disturbance",0.586466717680423
+"Chicken protein concentrate","Turkey","Iran","disturbance",0.648139604519723
+"Chicken protein concentrate","China","Iran","disturbance",0.471635904999377
+"Chicken protein concentrate","Russia","Iran","disturbance",0.536354839771701
+"Chicken protein concentrate","Egypt","Congo (DRC)","disturbance",0.490195044245348
+"Chicken protein concentrate","Thailand","Congo (DRC)","disturbance",0.448690090963991
+"Chicken protein concentrate","Turkey","Congo (DRC)","disturbance",0.615351395750453
+"Chicken protein concentrate","China","Congo (DRC)","disturbance",0.452247995305698
+"Chicken protein concentrate","Russia","Congo (DRC)","disturbance",0.479576689211993
+"Chicken protein concentrate","Egypt","Indonesia","disturbance",0.726224916194656
+"Chicken protein concentrate","Thailand","Indonesia","disturbance",0.564401692893902
+"Chicken protein concentrate","Turkey","Indonesia","disturbance",0.669485984149359
+"Chicken protein concentrate","China","Indonesia","disturbance",0.18351217174236
+"Chicken protein concentrate","Russia","Indonesia","disturbance",0.501327702169279
+"Chicken protein concentrate","Egypt","Turkey","disturbance",0.6995405263991
+"Chicken protein concentrate","Thailand","Turkey","disturbance",0.673918367259406
+"Chicken protein concentrate","Turkey","Turkey","disturbance",0.350178171447412
+"Chicken protein concentrate","China","Turkey","disturbance",0.75652106525048
+"Chicken protein concentrate","Russia","Turkey","disturbance",0.15380955064327
+"Chicken protein concentrate","Egypt","Thailand","disturbance",0.422086587028462
+"Chicken protein concentrate","Thailand","Thailand","disturbance",0.350124981138432
+"Chicken protein concentrate","Turkey","Thailand","disturbance",0.603345372293645
+"Chicken protein concentrate","China","Thailand","disturbance",-0.00675801433729306
+"Chicken protein concentrate","Russia","Thailand","disturbance",0.623545238966213
+"Coconut oil","China","Brazil","disturbance",0.393129677831887
+"Coconut oil","Iran","Brazil","disturbance",0.64167357722881
+"Coconut oil","Vietnam","Brazil","disturbance",0.692825730645733
+"Coconut oil","Japan","Brazil","disturbance",0.928425631639989
+"Coconut oil","United States","Brazil","disturbance",0.359691661053181
+"Coconut oil","Mexico","Brazil","disturbance",0.525586805517876
+"Coconut oil","China","Egypt","disturbance",0.506772333012835
+"Coconut oil","Iran","Egypt","disturbance",0.237633327883046
+"Coconut oil","Vietnam","Egypt","disturbance",0.717463906856854
+"Coconut oil","Japan","Egypt","disturbance",0.725366628597155
+"Coconut oil","United States","Egypt","disturbance",0.743165177804566
+"Coconut oil","Mexico","Egypt","disturbance",0.444534869329361
+"Corn gluten meal","Thailand","Mexico","disturbance",0.14830590513449
+"Corn gluten meal","United States","Mexico","disturbance",0.540339683716931
+"Corn gluten meal","Germany","Mexico","disturbance",0.565556566475702
+"Corn gluten meal","Ethiopia","Mexico","disturbance",0.736527397414003
+"Corn gluten meal","Indonesia","Mexico","disturbance",0.486841723981166
+"Corn gluten meal","China","Mexico","disturbance",0.578932295856607
+"Corn gluten meal","Thailand","Brazil","disturbance",0.263998419486911
+"Corn gluten meal","United States","Brazil","disturbance",0.921579425863601
+"Corn gluten meal","Germany","Brazil","disturbance",0.540485030291036
+"Corn gluten meal","Ethiopia","Brazil","disturbance",0.518369504074263
+"Corn gluten meal","Indonesia","Brazil","disturbance",0.591615508093657
+"Corn gluten meal","China","Brazil","disturbance",0.59758828356305
+"Faba beans","Ethiopia","Mexico","disturbance",0.605894091270137
+"Faba beans","United States","Mexico","disturbance",0.389505476274516
+"Faba beans","Bangladesh","Mexico","disturbance",0.245952249257358
+"Faba beans","China","Mexico","disturbance",0.59544575646416
+"Faba beans","Ethiopia","Indonesia","disturbance",0.523009188647276
+"Faba beans","United States","Indonesia","disturbance",0.074458808051056
+"Faba beans","Bangladesh","Indonesia","disturbance",0.582156649678917
+"Faba beans","China","Indonesia","disturbance",0.32979803767694
+"Faba beans","Ethiopia","Bangladesh","disturbance",0.338714674370702
+"Faba beans","United States","Bangladesh","disturbance",0.650005407878373
+"Faba beans","Bangladesh","Bangladesh","disturbance",0.48818648076169
+"Faba beans","China","Bangladesh","disturbance",0.318220915080223
+"Faba beans","Ethiopia","Pakistan","disturbance",0.689794047220838
+"Faba beans","United States","Pakistan","disturbance",0.59383283476105
+"Faba beans","Bangladesh","Pakistan","disturbance",0.452909482089435
+"Faba beans","China","Pakistan","disturbance",0.356950937221677
+"Faba beans","Ethiopia","United States","disturbance",0.415755887209898
+"Faba beans","United States","United States","disturbance",0.495534544530008
+"Faba beans","Bangladesh","United States","disturbance",0.742331334213113
+"Faba beans","China","United States","disturbance",0.380481569286827
+"Fishmeal (forage)","Russia","Pakistan","disturbance",0.484895975036012
+"Fishmeal (forage)","China","Pakistan","disturbance",0.581938098352855
+"Fishmeal (forage)","Egypt","Pakistan","disturbance",0.586633719419363
+"Fishmeal (forage)","Pakistan","Pakistan","disturbance",0.0359225813250752
+"Fishmeal (forage)","Japan","Pakistan","disturbance",0.311624997946527
+"Fishmeal (forage)","Turkey","Pakistan","disturbance",0.647421650758506
+"Fishmeal (forage)","Russia","Brazil","disturbance",0.231742230288553
+"Fishmeal (forage)","China","Brazil","disturbance",0.487505047877933
+"Fishmeal (forage)","Egypt","Brazil","disturbance",0.651905494107312
+"Fishmeal (forage)","Pakistan","Brazil","disturbance",0.51032474058943
+"Fishmeal (forage)","Japan","Brazil","disturbance",0.592375676469301
+"Fishmeal (forage)","Turkey","Brazil","disturbance",0.823311894816062
+"Fishmeal (forage)","Russia","Ethiopia","disturbance",0.346110007043548
+"Fishmeal (forage)","China","Ethiopia","disturbance",0.276277844531302
+"Fishmeal (forage)","Egypt","Ethiopia","disturbance",0.846968436770836
+"Fishmeal (forage)","Pakistan","Ethiopia","disturbance",0.886410080831653
+"Fishmeal (forage)","Japan","Ethiopia","disturbance",0.55247571330697
+"Fishmeal (forage)","Turkey","Ethiopia","disturbance",0.313075258764089
+"Fishmeal (trimmings)","Pakistan","Germany","disturbance",0.209324984302382
+"Fishmeal (trimmings)","United States","Germany","disturbance",0.714457444725643
+"Fishmeal (trimmings)","Philippines","Germany","disturbance",0.47929754904309
+"Fishmeal (trimmings)","India","Germany","disturbance",0.427522174937075
+"Fishmeal (trimmings)","Nigeria","Germany","disturbance",0.608144263593397
+"Fishmeal (trimmings)","Pakistan","Bangladesh","disturbance",0.575498085908083
+"Fishmeal (trimmings)","United States","Bangladesh","disturbance",0.511993569901344
+"Fishmeal (trimmings)","Philippines","Bangladesh","disturbance",0.470083665304444
+"Fishmeal (trimmings)","India","Bangladesh","disturbance",0.344499406472942
+"Fishmeal (trimmings)","Nigeria","Bangladesh","disturbance",0.5822394954304
+"Fishmeal (trimmings)","Pakistan","Turkey","disturbance",0.77994417593562
+"Fishmeal (trimmings)","United States","Turkey","disturbance",0.302450444090857
+"Fishmeal (trimmings)","Philippines","Turkey","disturbance",0.888334501501659
+"Fishmeal (trimmings)","India","Turkey","disturbance",0.345817506979329
+"Fishmeal (trimmings)","Nigeria","Turkey","disturbance",0.503371436056658
+"Fish oil (forage)","Ethiopia","Mexico","disturbance",0.537390229196352
+"Fish oil (forage)","Mexico","Mexico","disturbance",0.68715483091686
+"Fish oil (forage)","Ethiopia","Indonesia","disturbance",0.697105604102214
+"Fish oil (forage)","Mexico","Indonesia","disturbance",0.493366301146679
+"Fish oil (forage)","Ethiopia","Brazil","disturbance",0.297990504446855
+"Fish oil (forage)","Mexico","Brazil","disturbance",0.614622339886628
+"Fish oil (forage)","Ethiopia","Germany","disturbance",0.47985053223532
+"Fish oil (forage)","Mexico","Germany","disturbance",0.548056030638839
+"Fish oil (trimmings)","Congo (DRC)","Brazil","disturbance",0.681045736086641
+"Fish oil (trimmings)","Indonesia","Brazil","disturbance",0.501460489196195
+"Fish oil (trimmings)","Congo (DRC)","Iran","disturbance",0.19639444795406
+"Fish oil (trimmings)","Indonesia","Iran","disturbance",0.354780468775427
+"Fish oil (trimmings)","Congo (DRC)","Thailand","disturbance",0.212821318788474
+"Fish oil (trimmings)","Indonesia","Thailand","disturbance",0.367659276545494
+"Fish oil (trimmings)","Congo (DRC)","Philippines","disturbance",0.288952064862045
+"Fish oil (trimmings)","Indonesia","Philippines","disturbance",0.472584118940734
+"Fish oil (trimmings)","Congo (DRC)","Turkey","disturbance",0.634095517743386
+"Fish oil (trimmings)","Indonesia","Turkey","disturbance",0.798144106211274
+"Guar meal","United States","Indonesia","disturbance",0.522048652706659
+"Guar meal","Mexico","Indonesia","disturbance",0.272265385462321
+"Guar meal","Vietnam","Indonesia","disturbance",0.590068137075878
+"Guar meal","United States","Bangladesh","disturbance",0.331528174660129
+"Guar meal","Mexico","Bangladesh","disturbance",0.636670591684304
+"Guar meal","Vietnam","Bangladesh","disturbance",0.389542424739302
+"Guar meal","United States","Iran","disturbance",0.387019822733154
+"Guar meal","Mexico","Iran","disturbance",0.861571942687346
+"Guar meal","Vietnam","Iran","disturbance",0.870954600015045
+"Guar meal","United States","Congo (DRC)","disturbance",0.763417864464565
+"Guar meal","Mexico","Congo (DRC)","disturbance",0.544975871522403
+"Guar meal","Vietnam","Congo (DRC)","disturbance",0.486795709721494
+"Guar meal","United States","Ethiopia","disturbance",0.273839780767926
+"Guar meal","Mexico","Ethiopia","disturbance",0.527239339715703
+"Guar meal","Vietnam","Ethiopia","disturbance",0.659259704341427
+"Krill meal","Philippines","Mexico","disturbance",0.331943075406263
+"Krill meal","Egypt","Mexico","disturbance",0.411844124891034
+"Krill meal","United States","Mexico","disturbance",0.591085881746007
+"Krill meal","Iran","Mexico","disturbance",0.212914749806593
+"Krill meal","Pakistan","Mexico","disturbance",0.533182459517988
+"Krill meal","Germany","Mexico","disturbance",0.399435013325006
+"Krill meal","Philippines","Nigeria","disturbance",0.508639609892734
+"Krill meal","Egypt","Nigeria","disturbance",0.388684634937749
+"Krill meal","United States","Nigeria","disturbance",0.301359856488885
+"Krill meal","Iran","Nigeria","disturbance",0.266281710605346
+"Krill meal","Pakistan","Nigeria","disturbance",0.60010733141205
+"Krill meal","Germany","Nigeria","disturbance",0.823703792677532
+"Krill meal","Philippines","United States","disturbance",0.919402216378675
+"Krill meal","Egypt","United States","disturbance",0.503270824214071
+"Krill meal","United States","United States","disturbance",0.700038868269612
+"Krill meal","Iran","United States","disturbance",0.742281307622906
+"Krill meal","Pakistan","United States","disturbance",0.435635806703846
+"Krill meal","Germany","United States","disturbance",0.49382861321235
+"Krill meal","Philippines","Pakistan","disturbance",0.72010649867069
+"Krill meal","Egypt","Pakistan","disturbance",0.619517711132731
+"Krill meal","United States","Pakistan","disturbance",0.443006744479062
+"Krill meal","Iran","Pakistan","disturbance",0.448342465793255
+"Krill meal","Pakistan","Pakistan","disturbance",0.674164318409849
+"Krill meal","Germany","Pakistan","disturbance",0.253491753896793
+"Linseed oil","Indonesia","Thailand","disturbance",0.821370646092126
+"Linseed oil","United States","Thailand","disturbance",0.8161707686894
+"Linseed oil","Vietnam","Thailand","disturbance",0.439100511754259
+"Linseed oil","Indonesia","Iran","disturbance",0.462817941434687
+"Linseed oil","United States","Iran","disturbance",0.393645137002607
+"Linseed oil","Vietnam","Iran","disturbance",0.37282844939231
+"Linseed oil","Indonesia","Ethiopia","disturbance",0.470503668550141
+"Linseed oil","United States","Ethiopia","disturbance",0.228760334630897
+"Linseed oil","Vietnam","Ethiopia","disturbance",0.574642339596803
+"Linseed oil","Indonesia","Japan","disturbance",0.0957732942248868
+"Linseed oil","United States","Japan","disturbance",0.529582433616361
+"Linseed oil","Vietnam","Japan","disturbance",0.479968258288488
+"Linseed oil","Indonesia","Mexico","disturbance",0.923197616263002
+"Linseed oil","United States","Mexico","disturbance",0.558282516986606
+"Linseed oil","Vietnam","Mexico","disturbance",0.541354281305828
+"Linseed oil","Indonesia","United States","disturbance",0.398265164632428
+"Linseed oil","United States","United States","disturbance",0.680969842536564
+"Linseed oil","Vietnam","United States","disturbance",0.656008788844694
+"Methanobacterial meal","Japan","Pakistan","disturbance",0.125165193630758
+"Methanobacterial meal","Nigeria","Pakistan","disturbance",0.373310022414142
+"Methanobacterial meal","United States","Pakistan","disturbance",0.23007198045982
+"Methanobacterial meal","Japan","Vietnam","disturbance",0.812178251574452
+"Methanobacterial meal","Nigeria","Vietnam","disturbance",0.561606845117853
+"Methanobacterial meal","United States","Vietnam","disturbance",0.47135526708411
+"Pea flour","Brazil","Vietnam","disturbance",0.483221335248739
+"Pea flour","Iran","Vietnam","disturbance",0.520230078906375
+"Pea flour","Vietnam","Vietnam","disturbance",0.529352905682657
+"Pea flour","Congo (DRC)","Vietnam","disturbance",0.241385411907374
+"Pea flour","Brazil","Pakistan","disturbance",0.765603942247648
+"Pea flour","Iran","Pakistan","disturbance",0.431604460959305
+"Pea flour","Vietnam","Pakistan","disturbance",0.310802566445285
+"Pea flour","Congo (DRC)","Pakistan","disturbance",0.338959558701599
+"Pea flour","Brazil","Turkey","disturbance",0.690659169585357
+"Pea flour","Iran","Turkey","disturbance",0.366929657343101
+"Pea flour","Vietnam","Turkey","disturbance",0.603958911482755
+"Pea flour","Congo (DRC)","Turkey","disturbance",0.57016550356468
+"Pea flour","Brazil","India","disturbance",0.540065382823871
+"Pea flour","Iran","India","disturbance",0.569859016111281
+"Pea flour","Vietnam","India","disturbance",0.533146370241821
+"Pea flour","Congo (DRC)","India","disturbance",0.17563273786614
+"Pea protein concentrate","Germany","Brazil","disturbance",0.505277942965211
+"Pea protein concentrate","Pakistan","Brazil","disturbance",0.0746304315157975
+"Pea protein concentrate","Germany","Pakistan","disturbance",0.401863005291496
+"Pea protein concentrate","Pakistan","Pakistan","disturbance",0.270030428815253
+"Pea protein concentrate","Germany","China","disturbance",0.724431544944832
+"Pea protein concentrate","Pakistan","China","disturbance",0.531747533775282
+"Soybean meal","Philippines","Ethiopia","disturbance",0.647136681633022
+"Soybean meal","Nigeria","Ethiopia","disturbance",0.553409630894166
+"Soybean meal","Pakistan","Ethiopia","disturbance",0.662957956838794
+"Soybean meal","Germany","Ethiopia","disturbance",0.0283970176003596
+"Soybean meal","Japan","Ethiopia","disturbance",0.0466171198136247
+"Soybean meal","India","Ethiopia","disturbance",1.01155486398895
+"Soybean meal","Philippines","Turkey","disturbance",0.719754957637118
+"Soybean meal","Nigeria","Turkey","disturbance",0.364516072466876
+"Soybean meal","Pakistan","Turkey","disturbance",0.456474557458289
+"Soybean meal","Germany","Turkey","disturbance",0.786242469912901
+"Soybean meal","Japan","Turkey","disturbance",0.462466335430509
+"Soybean meal","India","Turkey","disturbance",0.623191489356614
+"Soybean meal","Philippines","Philippines","disturbance",0.628980620936782
+"Soybean meal","Nigeria","Philippines","disturbance",0.725466769028674
+"Soybean meal","Pakistan","Philippines","disturbance",0.40463495706141
+"Soybean meal","Germany","Philippines","disturbance",0.693652089947418
+"Soybean meal","Japan","Philippines","disturbance",0.354060772603092
+"Soybean meal","India","Philippines","disturbance",0.717582325711183
+"Soybean meal","Philippines","China","disturbance",0.745972598707962
+"Soybean meal","Nigeria","China","disturbance",0.793537496538421
+"Soybean meal","Pakistan","China","disturbance",0.420499563457181
+"Soybean meal","Germany","China","disturbance",0.331060405982372
+"Soybean meal","Japan","China","disturbance",0.241235919217785
+"Soybean meal","India","China","disturbance",0.442365578616036
+"Soybean oil","Vietnam","Indonesia","disturbance",0.829549179798073
+"Soybean oil","Ethiopia","Indonesia","disturbance",0.428447174843099
+"Soybean oil","Iran","Indonesia","disturbance",0.878574705865079
+"Soybean oil","Pakistan","Indonesia","disturbance",0.500628736011923
+"Soybean oil","Brazil","Indonesia","disturbance",0.192436695633759
+"Soybean oil","Vietnam","Philippines","disturbance",0.503439128116912
+"Soybean oil","Ethiopia","Philippines","disturbance",0.521175455468673
+"Soybean oil","Iran","Philippines","disturbance",0.798397330379651
+"Soybean oil","Pakistan","Philippines","disturbance",0.812035359172166
+"Soybean oil","Brazil","Philippines","disturbance",0.706693537342594
+"Soy protein concentrate","Nigeria","Germany","disturbance",0.488116080328906
+"Soy protein concentrate","Congo (DRC)","Germany","disturbance",0.589886051533257
+"Soy protein concentrate","Iran","Germany","disturbance",0.488929208029697
+"Soy protein concentrate","Indonesia","Germany","disturbance",0.541247151036233
+"Soy protein concentrate","Germany","Germany","disturbance",0.54397315148563
+"Soy protein concentrate","Ethiopia","Germany","disturbance",0.440883504010523
+"Soy protein concentrate","Nigeria","Egypt","disturbance",0.557365252258277
+"Soy protein concentrate","Congo (DRC)","Egypt","disturbance",0.53252851053784
+"Soy protein concentrate","Iran","Egypt","disturbance",0.260000449943309
+"Soy protein concentrate","Indonesia","Egypt","disturbance",0.191301929719265
+"Soy protein concentrate","Germany","Egypt","disturbance",0.505964941150875
+"Soy protein concentrate","Ethiopia","Egypt","disturbance",0.275611666552178
+"Soy protein concentrate","Nigeria","Bangladesh","disturbance",0.847051537548053
+"Soy protein concentrate","Congo (DRC)","Bangladesh","disturbance",0.416485263158833
+"Soy protein concentrate","Iran","Bangladesh","disturbance",0.630988067148996
+"Soy protein concentrate","Indonesia","Bangladesh","disturbance",0.356509873338096
+"Soy protein concentrate","Germany","Bangladesh","disturbance",0.560448298864173
+"Soy protein concentrate","Ethiopia","Bangladesh","disturbance",0.589096502073466
+"Soy protein concentrate","Nigeria","Turkey","disturbance",0.509075538916806
+"Soy protein concentrate","Congo (DRC)","Turkey","disturbance",0.916396888694252
+"Soy protein concentrate","Iran","Turkey","disturbance",0.589413069848654
+"Soy protein concentrate","Indonesia","Turkey","disturbance",0.435636272966227
+"Soy protein concentrate","Germany","Turkey","disturbance",0.70808120952105
+"Soy protein concentrate","Ethiopia","Turkey","disturbance",0.502450536286457
+"Soy protein concentrate","Nigeria","Iran","disturbance",0.394434550194895
+"Soy protein concentrate","Congo (DRC)","Iran","disturbance",0.534211031121786
+"Soy protein concentrate","Iran","Iran","disturbance",0.869215178485554
+"Soy protein concentrate","Indonesia","Iran","disturbance",0.652801426597551
+"Soy protein concentrate","Germany","Iran","disturbance",0.561619757053044
+"Soy protein concentrate","Ethiopia","Iran","disturbance",0.427287542348777
+"Soy protein concentrate","Nigeria","India","disturbance",0.185683510945089
+"Soy protein concentrate","Congo (DRC)","India","disturbance",0.52729220417188
+"Soy protein concentrate","Iran","India","disturbance",0.225397019770665
+"Soy protein concentrate","Indonesia","India","disturbance",0.36696688587935
+"Soy protein concentrate","Germany","India","disturbance",0.478370211618969
+"Soy protein concentrate","Ethiopia","India","disturbance",0.428028815291307
+"Spirulina meal","China","Vietnam","disturbance",0.413811391340006
+"Spirulina meal","Thailand","Vietnam","disturbance",0.469763950082061
+"Spirulina meal","China","Turkey","disturbance",0.390752173758575
+"Spirulina meal","Thailand","Turkey","disturbance",0.411363985221413
+"Spirulina meal","China","Germany","disturbance",0.502490840281572
+"Spirulina meal","Thailand","Germany","disturbance",0.336859686883317
+"Spirulina meal","China","Brazil","disturbance",0.460405358858446
+"Spirulina meal","Thailand","Brazil","disturbance",0.321744604655096
+"Sunflower meal","Nigeria","Iran","disturbance",0.512617934927739
+"Sunflower meal","Pakistan","Iran","disturbance",0.650900511796821
+"Sunflower meal","Germany","Iran","disturbance",0.708903763018982
+"Sunflower meal","Japan","Iran","disturbance",0.733002997212527
+"Sunflower meal","Mexico","Iran","disturbance",0.431400654965273
+"Sunflower meal","Nigeria","Russia","disturbance",0.405124159831218
+"Sunflower meal","Pakistan","Russia","disturbance",0.492457365563556
+"Sunflower meal","Germany","Russia","disturbance",0.634375459957019
+"Sunflower meal","Japan","Russia","disturbance",0.322117827204341
+"Sunflower meal","Mexico","Russia","disturbance",0.238506641321422
+"Sunflower meal","Nigeria","Mexico","disturbance",0.471927222030039
+"Sunflower meal","Pakistan","Mexico","disturbance",0.941256524152692
+"Sunflower meal","Germany","Mexico","disturbance",0.328674209435153
+"Sunflower meal","Japan","Mexico","disturbance",0.346046224763953
+"Sunflower meal","Mexico","Mexico","disturbance",0.663818594068388
+"Sunflower meal","Nigeria","Bangladesh","disturbance",0.435251995644136
+"Sunflower meal","Pakistan","Bangladesh","disturbance",0.740393837392016
+"Sunflower meal","Germany","Bangladesh","disturbance",0.237505971278318
+"Sunflower meal","Japan","Bangladesh","disturbance",0.247136786516328
+"Sunflower meal","Mexico","Bangladesh","disturbance",0.523863740180924
+"Wheat","Japan","Nigeria","disturbance",0.47785008543462
+"Wheat","Ethiopia","Nigeria","disturbance",0.434230737029869
+"Wheat","Vietnam","Nigeria","disturbance",0.638265948607648
+"Wheat","United States","Nigeria","disturbance",0.658890465309834
+"Wheat","Philippines","Nigeria","disturbance",0.535587265978905
+"Wheat","Russia","Nigeria","disturbance",0.731148358261209
+"Wheat","Japan","Turkey","disturbance",0.511351345449171
+"Wheat","Ethiopia","Turkey","disturbance",0.670513010389187
+"Wheat","Vietnam","Turkey","disturbance",0.880853761625754
+"Wheat","United States","Turkey","disturbance",0.48325344105501
+"Wheat","Philippines","Turkey","disturbance",0.849680762216059
+"Wheat","Russia","Turkey","disturbance",0.776356775999192
+"Wheat","Japan","Russia","disturbance",0.457375730879049
+"Wheat","Ethiopia","Russia","disturbance",0.488058532135107
+"Wheat","Vietnam","Russia","disturbance",0.591578939273886
+"Wheat","United States","Russia","disturbance",0.841391466263562
+"Wheat","Philippines","Russia","disturbance",0.473673148139826
+"Wheat","Russia","Russia","disturbance",0.344290376559544
+"Wheat","Japan","Mexico","disturbance",0.767692023550411
+"Wheat","Ethiopia","Mexico","disturbance",0.82250883769472
+"Wheat","Vietnam","Mexico","disturbance",0.478133497882953
+"Wheat","United States","Mexico","disturbance",0.740248937221155
+"Wheat","Philippines","Mexico","disturbance",0.117003129806863
+"Wheat","Russia","Mexico","disturbance",0.792675727887838
+"Wheat","Japan","Brazil","disturbance",0.113796607029443
+"Wheat","Ethiopia","Brazil","disturbance",0.538916300498903
+"Wheat","Vietnam","Brazil","disturbance",0.435533285312892
+"Wheat","United States","Brazil","disturbance",0.626379394917623
+"Wheat","Philippines","Brazil","disturbance",0.800918284355555
+"Wheat","Russia","Brazil","disturbance",0.444598555444981
+"Wheat","Japan","Bangladesh","disturbance",0.734879539852696
+"Wheat","Ethiopia","Bangladesh","disturbance",0.471271078493149
+"Wheat","Vietnam","Bangladesh","disturbance",0.471211477389194
+"Wheat","United States","Bangladesh","disturbance",0.692381039372466
+"Wheat","Philippines","Bangladesh","disturbance",0.847277265154719
+"Wheat","Russia","Bangladesh","disturbance",0.323357944872469
+"Wheat gluten","Egypt","Russia","disturbance",0.488613336479094
+"Wheat gluten","Thailand","Russia","disturbance",0.723144373547383
+"Wheat gluten","Turkey","Russia","disturbance",0.182931496677094
+"Wheat gluten","Congo (DRC)","Russia","disturbance",0.428490079664963
+"Wheat gluten","Egypt","China","disturbance",0.725645872468424
+"Wheat gluten","Thailand","China","disturbance",0.219855441954252
+"Wheat gluten","Turkey","China","disturbance",0.59131509648817
+"Wheat gluten","Congo (DRC)","China","disturbance",0.80489167973638
+"Wheat gluten","Egypt","Philippines","disturbance",0.417358434995682
+"Wheat gluten","Thailand","Philippines","disturbance",0.437942558477891
+"Wheat gluten","Turkey","Philippines","disturbance",0.201004830831411
+"Wheat gluten","Congo (DRC)","Philippines","disturbance",0.574083864896264
+"Wheat gluten","Egypt","Iran","disturbance",0.571766466764056
+"Wheat gluten","Thailand","Iran","disturbance",0.617911786957866
+"Wheat gluten","Turkey","Iran","disturbance",0.581800985009363
+"Wheat gluten","Congo (DRC)","Iran","disturbance",0.210290229759594
+"Yeast meal","Pakistan","Russia","disturbance",0.65022246545651
+"Yeast meal","China","Russia","disturbance",0.619904489305033
+"Yeast meal","Thailand","Russia","disturbance",0.341417393956753
+"Yeast meal","Ethiopia","Russia","disturbance",0.427696773021881
+"Yeast meal","Japan","Russia","disturbance",0.414595181683496
+"Yeast meal","United States","Russia","disturbance",0.948580143185655
+"Yeast meal","Pakistan","Ethiopia","disturbance",0.390888976771597
+"Yeast meal","China","Ethiopia","disturbance",0.428150224390077
+"Yeast meal","Thailand","Ethiopia","disturbance",0.661988502365063
+"Yeast meal","Ethiopia","Ethiopia","disturbance",0.753023528060902
+"Yeast meal","Japan","Ethiopia","disturbance",0.291782378903647
+"Yeast meal","United States","Ethiopia","disturbance",0.402953958383898
+"Yeast meal","Pakistan","Philippines","disturbance",0.346437529247927
+"Yeast meal","China","Philippines","disturbance",0.190365152242803
+"Yeast meal","Thailand","Philippines","disturbance",0.694443447952532
+"Yeast meal","Ethiopia","Philippines","disturbance",0.606969527444915
+"Yeast meal","Japan","Philippines","disturbance",0.380877314213663
+"Yeast meal","United States","Philippines","disturbance",0.475785236487789
+"Microingredients","Indonesia","Ethiopia","disturbance",0.497443367839354
+"Microingredients","Iran","Ethiopia","disturbance",0.359374058449554
+"Microingredients","Egypt","Ethiopia","disturbance",0.04588760307531
+"Microingredients","Turkey","Ethiopia","disturbance",0.415938738055998
+"Microingredients","Vietnam","Ethiopia","disturbance",0.339519103823367
+"Microingredients","Indonesia","United States","disturbance",0.516509671975216
+"Microingredients","Iran","United States","disturbance",0.18350216644298
+"Microingredients","Egypt","United States","disturbance",0.545706099756217
+"Microingredients","Turkey","United States","disturbance",0.506084114676647
+"Microingredients","Vietnam","United States","disturbance",0.875895333527722
+"Microingredients","Indonesia","Germany","disturbance",0.656713924102702
+"Microingredients","Iran","Germany","disturbance",0.16538911746604
+"Microingredients","Egypt","Germany","disturbance",0.523061670740365
+"Microingredients","Turkey","Germany","disturbance",0.544170821219476
+"Microingredients","Vietnam","Germany","disturbance",0.130536213627351
+"Black soldier-fly meal","Turkey","Indonesia","ghg",0.733752589398014
+"Black soldier-fly meal","India","Indonesia","ghg",0.448936539832545
+"Black soldier-fly meal","Germany","Indonesia","ghg",0.495517544719879
+"Black soldier-fly meal","Egypt","Indonesia","ghg",0.529354940905545
+"Black soldier-fly meal","China","Indonesia","ghg",0.291400293777132
+"Black soldier-fly meal","Turkey","Iran","ghg",0.703415770103634
+"Black soldier-fly meal","India","Iran","ghg",0.389567374964301
+"Black soldier-fly meal","Germany","Iran","ghg",0.875272565418079
+"Black soldier-fly meal","Egypt","Iran","ghg",0.401177552855494
+"Black soldier-fly meal","China","Iran","ghg",0.807535104394284
+"Black soldier-fly meal","Turkey","Pakistan","ghg",0.859651131125306
+"Black soldier-fly meal","India","Pakistan","ghg",0.493948667343427
+"Black soldier-fly meal","Germany","Pakistan","ghg",0.46215667506056
+"Black soldier-fly meal","Egypt","Pakistan","ghg",0.48720714460112
+"Black soldier-fly meal","China","Pakistan","ghg",0.406800514718011
+"Canola oil","Philippines","Indonesia","ghg",0.805813743099959
+"Canola oil","Nigeria","Indonesia","ghg",0.545463424080947
+"Canola oil","Philippines","Philippines","ghg",0.604078024394338
+"Canola oil","Nigeria","Philippines","ghg",0.554511483391122
+"Canola oil","Philippines","United States","ghg",0.573068792176957
+"Canola oil","Nigeria","United States","ghg",0.668592440210162
+"Canola oil","Philippines","Turkey","ghg",0.855305257296883
+"Canola oil","Nigeria","Turkey","ghg",0.710413843963938
+"Chicken protein concentrate","Egypt","Iran","ghg",0.48052555566596
+"Chicken protein concentrate","Thailand","Iran","ghg",0.682136983535874
+"Chicken protein concentrate","Turkey","Iran","ghg",0.595775372501197
+"Chicken protein concentrate","China","Iran","ghg",0.419908106605923
+"Chicken protein concentrate","Russia","Iran","ghg",0.62079301016588
+"Chicken protein concentrate","Egypt","Congo (DRC)","ghg",0.783668168202611
+"Chicken protein concentrate","Thailand","Congo (DRC)","ghg",0.46784655101856
+"Chicken protein concentrate","Turkey","Congo (DRC)","ghg",0.513082170703227
+"Chicken protein concentrate","China","Congo (DRC)","ghg",0.379964872033046
+"Chicken protein concentrate","Russia","Congo (DRC)","ghg",0.0784181098909499
+"Chicken protein concentrate","Egypt","Indonesia","ghg",0.665654948330286
+"Chicken protein concentrate","Thailand","Indonesia","ghg",0.0922193947611852
+"Chicken protein concentrate","Turkey","Indonesia","ghg",0.282038920332012
+"Chicken protein concentrate","China","Indonesia","ghg",0.384667316578448
+"Chicken protein concentrate","Russia","Indonesia","ghg",0.58771700613418
+"Chicken protein concentrate","Egypt","Turkey","ghg",0.486373398564167
+"Chicken protein concentrate","Thailand","Turkey","ghg",0.193468270008387
+"Chicken protein concentrate","Turkey","Turkey","ghg",0.584451811621966
+"Chicken protein concentrate","China","Turkey","ghg",0.789963064744096
+"Chicken protein concentrate","Russia","Turkey","ghg",0.499675974712373
+"Chicken protein concentrate","Egypt","Thailand","ghg",0.514631371802342
+"Chicken protein concentrate","Thailand","Thailand","ghg",0.50979922619748
+"Chicken protein concentrate","Turkey","Thailand","ghg",0.379173104659969
+"Chicken protein concentrate","China","Thailand","ghg",0.727851701413666
+"Chicken protein concentrate","Russia","Thailand","ghg",0.411987578441286
+"Coconut oil","China","Brazil","ghg",0.732045828482434
+"Coconut oil","Iran","Brazil","ghg",0.341543045377639
+"Coconut oil","Vietnam","Brazil","ghg",0.807689079428701
+"Coconut oil","Japan","Brazil","ghg",0.516644129677168
+"Coconut oil","United States","Brazil","ghg",0.631078420986068
+"Coconut oil","Mexico","Brazil","ghg",0.632312689037985
+"Coconut oil","China","Egypt","ghg",0.740488856266808
+"Coconut oil","Iran","Egypt","ghg",0.569587207846665
+"Coconut oil","Vietnam","Egypt","ghg",0.766851935667829
+"Coconut oil","Japan","Egypt","ghg",0.204397947114232
+"Coconut oil","United States","Egypt","ghg",0.134699413671796
+"Coconut oil","Mexico","Egypt","ghg",0.674990131171813
+"Corn gluten meal","Thailand","Mexico","ghg",0.574990583391984
+"Corn gluten meal","United States","Mexico","ghg",0.600254673208287
+"Corn gluten meal","Germany","Mexico","ghg",0.510177178649082
+"Corn gluten meal","Ethiopia","Mexico","ghg",0.799487274688674
+"Corn gluten meal","Indonesia","Mexico","ghg",0.230803698572125
+"Corn gluten meal","China","Mexico","ghg",0.379499893322836
+"Corn gluten meal","Thailand","Brazil","ghg",0.339820519509688
+"Corn gluten meal","United States","Brazil","ghg",0.0672955604245424
+"Corn gluten meal","Germany","Brazil","ghg",0.355436086136184
+"Corn gluten meal","Ethiopia","Brazil","ghg",0.4103127882164
+"Corn gluten meal","Indonesia","Brazil","ghg",0.349739627185918
+"Corn gluten meal","China","Brazil","ghg",0.665137884887298
+"Faba beans","Ethiopia","Mexico","ghg",0.510945712525143
+"Faba beans","United States","Mexico","ghg",0.451647428435662
+"Faba beans","Bangladesh","Mexico","ghg",0.508088785699196
+"Faba beans","China","Mexico","ghg",0.176283945818791
+"Faba beans","Ethiopia","Indonesia","ghg",0.358726272676723
+"Faba beans","United States","Indonesia","ghg",0.363845226035235
+"Faba beans","Bangladesh","Indonesia","ghg",0.700166310589559
+"Faba beans","China","Indonesia","ghg",0.689078748097767
+"Faba beans","Ethiopia","Bangladesh","ghg",0.332450517159746
+"Faba beans","United States","Bangladesh","ghg",0.617117023637416
+"Faba beans","Bangladesh","Bangladesh","ghg",0.485403452076354
+"Faba beans","China","Bangladesh","ghg",0.468132229242096
+"Faba beans","Ethiopia","Pakistan","ghg",0.25191588976057
+"Faba beans","United States","Pakistan","ghg",0.538548086351452
+"Faba beans","Bangladesh","Pakistan","ghg",0.284741849709645
+"Faba beans","China","Pakistan","ghg",0.437799919412686
+"Faba beans","Ethiopia","United States","ghg",0.381134349606119
+"Faba beans","United States","United States","ghg",0.599333784491022
+"Faba beans","Bangladesh","United States","ghg",0.742587570953172
+"Faba beans","China","United States","ghg",0.358608029772647
+"Fishmeal (forage)","Russia","Pakistan","ghg",0.542327326216105
+"Fishmeal (forage)","China","Pakistan","ghg",0.40207705521417
+"Fishmeal (forage)","Egypt","Pakistan","ghg",0.519605099905834
+"Fishmeal (forage)","Pakistan","Pakistan","ghg",0.652430308780567
+"Fishmeal (forage)","Japan","Pakistan","ghg",0.177856503241489
+"Fishmeal (forage)","Turkey","Pakistan","ghg",0.654996101959486
+"Fishmeal (forage)","Russia","Brazil","ghg",0.402569953536549
+"Fishmeal (forage)","China","Brazil","ghg",0.136205613959156
+"Fishmeal (forage)","Egypt","Brazil","ghg",0.6271679443702
+"Fishmeal (forage)","Pakistan","Brazil","ghg",0.205372205999472
+"Fishmeal (forage)","Japan","Brazil","ghg",0.116135221359117
+"Fishmeal (forage)","Turkey","Brazil","ghg",0.737001925290206
+"Fishmeal (forage)","Russia","Ethiopia","ghg",0.361379202582425
+"Fishmeal (forage)","China","Ethiopia","ghg",0.549226456969888
+"Fishmeal (forage)","Egypt","Ethiopia","ghg",0.259441248210627
+"Fishmeal (forage)","Pakistan","Ethiopia","ghg",0.458143008719106
+"Fishmeal (forage)","Japan","Ethiopia","ghg",0.558344856897227
+"Fishmeal (forage)","Turkey","Ethiopia","ghg",0.983927508008514
+"Fishmeal (trimmings)","Pakistan","Germany","ghg",0.615992935153786
+"Fishmeal (trimmings)","United States","Germany","ghg",0.511280889285602
+"Fishmeal (trimmings)","Philippines","Germany","ghg",0.401793600110889
+"Fishmeal (trimmings)","India","Germany","ghg",0.667181894441315
+"Fishmeal (trimmings)","Nigeria","Germany","ghg",0.422297282541587
+"Fishmeal (trimmings)","Pakistan","Bangladesh","ghg",0.560321715199005
+"Fishmeal (trimmings)","United States","Bangladesh","ghg",0.59991161369102
+"Fishmeal (trimmings)","Philippines","Bangladesh","ghg",0.114418543823407
+"Fishmeal (trimmings)","India","Bangladesh","ghg",0.440259710594361
+"Fishmeal (trimmings)","Nigeria","Bangladesh","ghg",0.772747261177027
+"Fishmeal (trimmings)","Pakistan","Turkey","ghg",0.421716094765337
+"Fishmeal (trimmings)","United States","Turkey","ghg",0.354589173015444
+"Fishmeal (trimmings)","Philippines","Turkey","ghg",0.496554480522353
+"Fishmeal (trimmings)","India","Turkey","ghg",0.153427375293388
+"Fishmeal (trimmings)","Nigeria","Turkey","ghg",0.580391490965421
+"Fish oil (forage)","Ethiopia","Mexico","ghg",0.381945698702471
+"Fish oil (forage)","Mexico","Mexico","ghg",0.339152586025559
+"Fish oil (forage)","Ethiopia","Indonesia","ghg",0.350774052722924
+"Fish oil (forage)","Mexico","Indonesia","ghg",0.779754144707089
+"Fish oil (forage)","Ethiopia","Brazil","ghg",0.724340891012921
+"Fish oil (forage)","Mexico","Brazil","ghg",0.326434506302195
+"Fish oil (forage)","Ethiopia","Germany","ghg",0.863593298819164
+"Fish oil (forage)","Mexico","Germany","ghg",0.578887826910901
+"Fish oil (trimmings)","Congo (DRC)","Brazil","ghg",0.342047572467234
+"Fish oil (trimmings)","Indonesia","Brazil","ghg",0.677316225518489
+"Fish oil (trimmings)","Congo (DRC)","Iran","ghg",0.517258970997573
+"Fish oil (trimmings)","Indonesia","Iran","ghg",0.563443066730137
+"Fish oil (trimmings)","Congo (DRC)","Thailand","ghg",0.261394188900466
+"Fish oil (trimmings)","Indonesia","Thailand","ghg",0.383450358607802
+"Fish oil (trimmings)","Congo (DRC)","Philippines","ghg",0.6894247617792
+"Fish oil (trimmings)","Indonesia","Philippines","ghg",0.621535950431984
+"Fish oil (trimmings)","Congo (DRC)","Turkey","ghg",0.694621236089917
+"Fish oil (trimmings)","Indonesia","Turkey","ghg",0.410636564133968
+"Guar meal","United States","Indonesia","ghg",0.0925882769984316
+"Guar meal","Mexico","Indonesia","ghg",0.144752292441139
+"Guar meal","Vietnam","Indonesia","ghg",0.583169761647876
+"Guar meal","United States","Bangladesh","ghg",0.645936980942256
+"Guar meal","Mexico","Bangladesh","ghg",0.331610068854104
+"Guar meal","Vietnam","Bangladesh","ghg",0.599124350232103
+"Guar meal","United States","Iran","ghg",0.393860393076737
+"Guar meal","Mexico","Iran","ghg",0.445638745434286
+"Guar meal","Vietnam","Iran","ghg",0.356149015275808
+"Guar meal","United States","Congo (DRC)","ghg",0.585005875079212
+"Guar meal","Mexico","Congo (DRC)","ghg",0.651296490318006
+"Guar meal","Vietnam","Congo (DRC)","ghg",0.889588453731466
+"Guar meal","United States","Ethiopia","ghg",0.465693901683485
+"Guar meal","Mexico","Ethiopia","ghg",0.542139118070979
+"Guar meal","Vietnam","Ethiopia","ghg",0.322957278770157
+"Krill meal","Philippines","Mexico","ghg",0.590391772884455
+"Krill meal","Egypt","Mexico","ghg",0.619322263226065
+"Krill meal","United States","Mexico","ghg",0.47202355556096
+"Krill meal","Iran","Mexico","ghg",0.642597175197837
+"Krill meal","Pakistan","Mexico","ghg",0.691645199955417
+"Krill meal","Germany","Mexico","ghg",0.570058795420942
+"Krill meal","Philippines","Nigeria","ghg",0.69904766227794
+"Krill meal","Egypt","Nigeria","ghg",0.741043851626576
+"Krill meal","United States","Nigeria","ghg",0.443451742951849
+"Krill meal","Iran","Nigeria","ghg",0.354277814456935
+"Krill meal","Pakistan","Nigeria","ghg",0.461641076443569
+"Krill meal","Germany","Nigeria","ghg",0.783913268905916
+"Krill meal","Philippines","United States","ghg",0.811720747050108
+"Krill meal","Egypt","United States","ghg",0.156542361785498
+"Krill meal","United States","United States","ghg",0.264662657016265
+"Krill meal","Iran","United States","ghg",0.659458503176732
+"Krill meal","Pakistan","United States","ghg",0.433799443986336
+"Krill meal","Germany","United States","ghg",0.473570153659503
+"Krill meal","Philippines","Pakistan","ghg",0.495761117740738
+"Krill meal","Egypt","Pakistan","ghg",0.362062884023872
+"Krill meal","United States","Pakistan","ghg",0.358228728740327
+"Krill meal","Iran","Pakistan","ghg",0.354494153236974
+"Krill meal","Pakistan","Pakistan","ghg",0.665041941937515
+"Krill meal","Germany","Pakistan","ghg",0.61214805959147
+"Linseed oil","Indonesia","Thailand","ghg",0.820768561653257
+"Linseed oil","United States","Thailand","ghg",0.37648893098174
+"Linseed oil","Vietnam","Thailand","ghg",0.554525721800348
+"Linseed oil","Indonesia","Iran","ghg",0.512578675065665
+"Linseed oil","United States","Iran","ghg",0.532326378377049
+"Linseed oil","Vietnam","Iran","ghg",0.36150296443302
+"Linseed oil","Indonesia","Ethiopia","ghg",0.674727606202943
+"Linseed oil","United States","Ethiopia","ghg",0.773334689390079
+"Linseed oil","Vietnam","Ethiopia","ghg",0.468090073861004
+"Linseed oil","Indonesia","Japan","ghg",0.401174827711098
+"Linseed oil","United States","Japan","ghg",0.764787121788289
+"Linseed oil","Vietnam","Japan","ghg",0.268150271407231
+"Linseed oil","Indonesia","Mexico","ghg",0.277756480746291
+"Linseed oil","United States","Mexico","ghg",0.818214489737779
+"Linseed oil","Vietnam","Mexico","ghg",0.383867693008801
+"Linseed oil","Indonesia","United States","ghg",0.42178118131811
+"Linseed oil","United States","United States","ghg",0.528397632859995
+"Linseed oil","Vietnam","United States","ghg",0.265839208773361
+"Methanobacterial meal","Japan","Pakistan","ghg",0.37829902499016
+"Methanobacterial meal","Nigeria","Pakistan","ghg",0.211362880210065
+"Methanobacterial meal","United States","Pakistan","ghg",0.735325371724374
+"Methanobacterial meal","Japan","Vietnam","ghg",0.469701505134195
+"Methanobacterial meal","Nigeria","Vietnam","ghg",0.236608710734625
+"Methanobacterial meal","United States","Vietnam","ghg",0.528069294616611
+"Pea flour","Brazil","Vietnam","ghg",0.204796659829125
+"Pea flour","Iran","Vietnam","ghg",0.569969437076808
+"Pea flour","Vietnam","Vietnam","ghg",0.473322412259454
+"Pea flour","Congo (DRC)","Vietnam","ghg",0.790574333287592
+"Pea flour","Brazil","Pakistan","ghg",0.599588790135701
+"Pea flour","Iran","Pakistan","ghg",0.629188913324678
+"Pea flour","Vietnam","Pakistan","ghg",0.40312814606108
+"Pea flour","Congo (DRC)","Pakistan","ghg",0.324928417207766
+"Pea flour","Brazil","Turkey","ghg",0.605076622387515
+"Pea flour","Iran","Turkey","ghg",0.361044633762332
+"Pea flour","Vietnam","Turkey","ghg",0.696861297559673
+"Pea flour","Congo (DRC)","Turkey","ghg",0.514539484180058
+"Pea flour","Brazil","India","ghg",0.328255481902209
+"Pea flour","Iran","India","ghg",0.619343306680357
+"Pea flour","Vietnam","India","ghg",0.154243465538613
+"Pea flour","Congo (DRC)","India","ghg",0.36855941356579
+"Pea protein concentrate","Germany","Brazil","ghg",0.569747237794153
+"Pea protein concentrate","Pakistan","Brazil","ghg",0.148238248526659
+"Pea protein concentrate","Germany","Pakistan","ghg",0.75872878794064
+"Pea protein concentrate","Pakistan","Pakistan","ghg",0.512465782763787
+"Pea protein concentrate","Germany","China","ghg",0.625686095883105
+"Pea protein concentrate","Pakistan","China","ghg",0.386916349330689
+"Soybean meal","Philippines","Ethiopia","ghg",0.627751761738074
+"Soybean meal","Nigeria","Ethiopia","ghg",0.240317723335718
+"Soybean meal","Pakistan","Ethiopia","ghg",0.283093723187651
+"Soybean meal","Germany","Ethiopia","ghg",0.63487299660914
+"Soybean meal","Japan","Ethiopia","ghg",0.624396009171846
+"Soybean meal","India","Ethiopia","ghg",0.336823861498897
+"Soybean meal","Philippines","Turkey","ghg",0.467507699573602
+"Soybean meal","Nigeria","Turkey","ghg",0.582170729430124
+"Soybean meal","Pakistan","Turkey","ghg",0.375385058727286
+"Soybean meal","Germany","Turkey","ghg",0.595760304616799
+"Soybean meal","Japan","Turkey","ghg",0.399419172726052
+"Soybean meal","India","Turkey","ghg",0.44560876363896
+"Soybean meal","Philippines","Philippines","ghg",0.238424452486839
+"Soybean meal","Nigeria","Philippines","ghg",0.266879049551081
+"Soybean meal","Pakistan","Philippines","ghg",0.288214317616659
+"Soybean meal","Germany","Philippines","ghg",0.470647219715799
+"Soybean meal","Japan","Philippines","ghg",0.26308294333724
+"Soybean meal","India","Philippines","ghg",0.688286651190523
+"Soybean meal","Philippines","China","ghg",0.697666341279337
+"Soybean meal","Nigeria","China","ghg",0.355477855038928
+"Soybean meal","Pakistan","China","ghg",0.441821230949641
+"Soybean meal","Germany","China","ghg",0.425677719521854
+"Soybean meal","Japan","China","ghg",0.347439319098799
+"Soybean meal","India","China","ghg",0.760429148846227
+"Soybean oil","Vietnam","Indonesia","ghg",0.713061235547603
+"Soybean oil","Ethiopia","Indonesia","ghg",0.534724156597576
+"Soybean oil","Iran","Indonesia","ghg",0.834767185399994
+"Soybean oil","Pakistan","Indonesia","ghg",0.53168356087621
+"Soybean oil","Brazil","Indonesia","ghg",0.254344688746775
+"Soybean oil","Vietnam","Philippines","ghg",0.337615554496208
+"Soybean oil","Ethiopia","Philippines","ghg",0.646669627052491
+"Soybean oil","Iran","Philippines","ghg",0.505658890899387
+"Soybean oil","Pakistan","Philippines","ghg",0.393871970010005
+"Soybean oil","Brazil","Philippines","ghg",0.472260192086268
+"Soy protein concentrate","Nigeria","Germany","ghg",0.746009006804811
+"Soy protein concentrate","Congo (DRC)","Germany","ghg",1.01874655078412
+"Soy protein concentrate","Iran","Germany","ghg",0.286779831162489
+"Soy protein concentrate","Indonesia","Germany","ghg",0.498094622750588
+"Soy protein concentrate","Germany","Germany","ghg",0.677394175018594
+"Soy protein concentrate","Ethiopia","Germany","ghg",0.983951760433818
+"Soy protein concentrate","Nigeria","Egypt","ghg",0.62147810194173
+"Soy protein concentrate","Congo (DRC)","Egypt","ghg",0.745703649294029
+"Soy protein concentrate","Iran","Egypt","ghg",0.921307342077559
+"Soy protein concentrate","Indonesia","Egypt","ghg",0.443380725432989
+"Soy protein concentrate","Germany","Egypt","ghg",0.480111829091696
+"Soy protein concentrate","Ethiopia","Egypt","ghg",0.586963383773406
+"Soy protein concentrate","Nigeria","Bangladesh","ghg",0.864719735003636
+"Soy protein concentrate","Congo (DRC)","Bangladesh","ghg",0.500907971121183
+"Soy protein concentrate","Iran","Bangladesh","ghg",0.275948990110612
+"Soy protein concentrate","Indonesia","Bangladesh","ghg",0.156944422854252
+"Soy protein concentrate","Germany","Bangladesh","ghg",0.824018702131217
+"Soy protein concentrate","Ethiopia","Bangladesh","ghg",0.526019240242657
+"Soy protein concentrate","Nigeria","Turkey","ghg",0.42217662157753
+"Soy protein concentrate","Congo (DRC)","Turkey","ghg",0.413531369360801
+"Soy protein concentrate","Iran","Turkey","ghg",0.300236954519842
+"Soy protein concentrate","Indonesia","Turkey","ghg",0.533437936930873
+"Soy protein concentrate","Germany","Turkey","ghg",0.477764270137138
+"Soy protein concentrate","Ethiopia","Turkey","ghg",0.699866564279326
+"Soy protein concentrate","Nigeria","Iran","ghg",0.275839610573536
+"Soy protein concentrate","Congo (DRC)","Iran","ghg",0.391444218269347
+"Soy protein concentrate","Iran","Iran","ghg",0.239678927876304
+"Soy protein concentrate","Indonesia","Iran","ghg",0.441344187663573
+"Soy protein concentrate","Germany","Iran","ghg",0.744555547268272
+"Soy protein concentrate","Ethiopia","Iran","ghg",0.781280136663923
+"Soy protein concentrate","Nigeria","India","ghg",0.531149237717341
+"Soy protein concentrate","Congo (DRC)","India","ghg",0.55244389551203
+"Soy protein concentrate","Iran","India","ghg",0.137156613044953
+"Soy protein concentrate","Indonesia","India","ghg",0.605132130406443
+"Soy protein concentrate","Germany","India","ghg",0.526850028087518
+"Soy protein concentrate","Ethiopia","India","ghg",0.623045210934853
+"Spirulina meal","China","Vietnam","ghg",0.575804164921418
+"Spirulina meal","Thailand","Vietnam","ghg",0.689765652629597
+"Spirulina meal","China","Turkey","ghg",0.407017875615575
+"Spirulina meal","Thailand","Turkey","ghg",0.58554925440837
+"Spirulina meal","China","Germany","ghg",0.573075426635888
+"Spirulina meal","Thailand","Germany","ghg",0.609961209002952
+"Spirulina meal","China","Brazil","ghg",0.449937149665074
+"Spirulina meal","Thailand","Brazil","ghg",0.318603626825313
+"Sunflower meal","Nigeria","Iran","ghg",0.788471616445753
+"Sunflower meal","Pakistan","Iran","ghg",0.51494172272009
+"Sunflower meal","Germany","Iran","ghg",0.551114306513615
+"Sunflower meal","Japan","Iran","ghg",0.635675923429973
+"Sunflower meal","Mexico","Iran","ghg",0.509247585793143
+"Sunflower meal","Nigeria","Russia","ghg",0.456330202047168
+"Sunflower meal","Pakistan","Russia","ghg",0.750126852608767
+"Sunflower meal","Germany","Russia","ghg",0.210165673357096
+"Sunflower meal","Japan","Russia","ghg",0.313613563404211
+"Sunflower meal","Mexico","Russia","ghg",0.865960564289905
+"Sunflower meal","Nigeria","Mexico","ghg",0.43691301553785
+"Sunflower meal","Pakistan","Mexico","ghg",0.608638261597762
+"Sunflower meal","Germany","Mexico","ghg",0.484710346943146
+"Sunflower meal","Japan","Mexico","ghg",0.562608214605555
+"Sunflower meal","Mexico","Mexico","ghg",0.418150498763854
+"Sunflower meal","Nigeria","Bangladesh","ghg",0.395603006154183
+"Sunflower meal","Pakistan","Bangladesh","ghg",0.485192483129992
+"Sunflower meal","Germany","Bangladesh","ghg",0.383431704660139
+"Sunflower meal","Japan","Bangladesh","ghg",0.812268046340967
+"Sunflower meal","Mexico","Bangladesh","ghg",0.446809792966792
+"Wheat","Japan","Nigeria","ghg",0.77721390173382
+"Wheat","Ethiopia","Nigeria","ghg",0.483781235559037
+"Wheat","Vietnam","Nigeria","ghg",0.466701169920378
+"Wheat","United States","Nigeria","ghg",0.216915511141386
+"Wheat","Philippines","Nigeria","ghg",0.367489814076639
+"Wheat","Russia","Nigeria","ghg",0.202034673364462
+"Wheat","Japan","Turkey","ghg",0.103082265986096
+"Wheat","Ethiopia","Turkey","ghg",0.319807042412561
+"Wheat","Vietnam","Turkey","ghg",0.571781413644992
+"Wheat","United States","Turkey","ghg",0.55598694593246
+"Wheat","Philippines","Turkey","ghg",0.284048174928445
+"Wheat","Russia","Turkey","ghg",0.414319257398121
+"Wheat","Japan","Russia","ghg",0.629657077382903
+"Wheat","Ethiopia","Russia","ghg",0.571445710753211
+"Wheat","Vietnam","Russia","ghg",0.539712092660135
+"Wheat","United States","Russia","ghg",0.53203544286764
+"Wheat","Philippines","Russia","ghg",0.528325860013495
+"Wheat","Russia","Russia","ghg",0.35878553217497
+"Wheat","Japan","Mexico","ghg",0.249676998200259
+"Wheat","Ethiopia","Mexico","ghg",0.615509885505639
+"Wheat","Vietnam","Mexico","ghg",0.454116341457618
+"Wheat","United States","Mexico","ghg",0.649282230591739
+"Wheat","Philippines","Mexico","ghg",0.283306980902075
+"Wheat","Russia","Mexico","ghg",0.433673401699755
+"Wheat","Japan","Brazil","ghg",0.314599524389933
+"Wheat","Ethiopia","Brazil","ghg",0.227669562402955
+"Wheat","Vietnam","Brazil","ghg",0.4003944267845
+"Wheat","United States","Brazil","ghg",0.503815398190016
+"Wheat","Philippines","Brazil","ghg",0.57169599712589
+"Wheat","Russia","Brazil","ghg",0.286612106629666
+"Wheat","Japan","Bangladesh","ghg",0.242360219538068
+"Wheat","Ethiopia","Bangladesh","ghg",0.659189434146239
+"Wheat","Vietnam","Bangladesh","ghg",0.577712968097733
+"Wheat","United States","Bangladesh","ghg",0.37245669117846
+"Wheat","Philippines","Bangladesh","ghg",0.56122578137162
+"Wheat","Russia","Bangladesh","ghg",0.608201117449899
+"Wheat gluten","Egypt","Russia","ghg",0.519828647726084
+"Wheat gluten","Thailand","Russia","ghg",0.378291484996184
+"Wheat gluten","Turkey","Russia","ghg",0.426375472176619
+"Wheat gluten","Congo (DRC)","Russia","ghg",0.336616887846319
+"Wheat gluten","Egypt","China","ghg",0.246067088836101
+"Wheat gluten","Thailand","China","ghg",0.686627553591701
+"Wheat gluten","Turkey","China","ghg",0.979768792667759
+"Wheat gluten","Congo (DRC)","China","ghg",0.484229400999101
+"Wheat gluten","Egypt","Philippines","ghg",0.471853616604704
+"Wheat gluten","Thailand","Philippines","ghg",0.541781086341994
+"Wheat gluten","Turkey","Philippines","ghg",0.666389398678127
+"Wheat gluten","Congo (DRC)","Philippines","ghg",0.565824132659425
+"Wheat gluten","Egypt","Iran","ghg",0.405817504061711
+"Wheat gluten","Thailand","Iran","ghg",0.435845119745945
+"Wheat gluten","Turkey","Iran","ghg",0.722555542727308
+"Wheat gluten","Congo (DRC)","Iran","ghg",0.327523230652376
+"Yeast meal","Pakistan","Russia","ghg",0.290139455579184
+"Yeast meal","China","Russia","ghg",0.204962205384376
+"Yeast meal","Thailand","Russia","ghg",0.753159287625098
+"Yeast meal","Ethiopia","Russia","ghg",0.289300859588322
+"Yeast meal","Japan","Russia","ghg",0.362656134144004
+"Yeast meal","United States","Russia","ghg",0.461688285738181
+"Yeast meal","Pakistan","Ethiopia","ghg",0.503193977335589
+"Yeast meal","China","Ethiopia","ghg",0.243565045077827
+"Yeast meal","Thailand","Ethiopia","ghg",0.649580011360213
+"Yeast meal","Ethiopia","Ethiopia","ghg",0.700285943198254
+"Yeast meal","Japan","Ethiopia","ghg",0.665862597494826
+"Yeast meal","United States","Ethiopia","ghg",0.39552813185054
+"Yeast meal","Pakistan","Philippines","ghg",0.414411334074418
+"Yeast meal","China","Philippines","ghg",0.481645889596224
+"Yeast meal","Thailand","Philippines","ghg",0.750906557943109
+"Yeast meal","Ethiopia","Philippines","ghg",0.454551851866058
+"Yeast meal","Japan","Philippines","ghg",0.222003846187895
+"Yeast meal","United States","Philippines","ghg",0.176753022318
+"Microingredients","Indonesia","Ethiopia","ghg",0.531303092657751
+"Microingredients","Iran","Ethiopia","ghg",0.144724281633254
+"Microingredients","Egypt","Ethiopia","ghg",0.439382204182051
+"Microingredients","Turkey","Ethiopia","ghg",0.505579868514783
+"Microingredients","Vietnam","Ethiopia","ghg",1.08244711898918
+"Microingredients","Indonesia","United States","ghg",0.67214641449678
+"Microingredients","Iran","United States","ghg",0.526771112941782
+"Microingredients","Egypt","United States","ghg",0.628154720663264
+"Microingredients","Turkey","United States","ghg",0.461922081809574
+"Microingredients","Vietnam","United States","ghg",0.597905145141886
+"Microingredients","Indonesia","Germany","ghg",0.775513050965658
+"Microingredients","Iran","Germany","ghg",0.446833768701453
+"Microingredients","Egypt","Germany","ghg",0.346261862958832
+"Microingredients","Turkey","Germany","ghg",0.383760124045829
+"Microingredients","Vietnam","Germany","ghg",0.36563163689999
+"Black soldier-fly meal","Turkey","Indonesia","nutrients",0.341569664478722
+"Black soldier-fly meal","India","Indonesia","nutrients",0.146367966609868
+"Black soldier-fly meal","Germany","Indonesia","nutrients",0.291900677551573
+"Black soldier-fly meal","Egypt","Indonesia","nutrients",0.395398886322051
+"Black soldier-fly meal","China","Indonesia","nutrients",0.719040287490791
+"Black soldier-fly meal","Turkey","Iran","nutrients",0.57980814522509
+"Black soldier-fly meal","India","Iran","nutrients",0.40649338282532
+"Black soldier-fly meal","Germany","Iran","nutrients",0.448355731846465
+"Black soldier-fly meal","Egypt","Iran","nutrients",0.104237474983581
+"Black soldier-fly meal","China","Iran","nutrients",0.39224282853911
+"Black soldier-fly meal","Turkey","Pakistan","nutrients",0.420430513086772
+"Black soldier-fly meal","India","Pakistan","nutrients",0.401411303842209
+"Black soldier-fly meal","Germany","Pakistan","nutrients",0.257261577676396
+"Black soldier-fly meal","Egypt","Pakistan","nutrients",0.740534468001228
+"Black soldier-fly meal","China","Pakistan","nutrients",0.404087832349427
+"Canola oil","Philippines","Indonesia","nutrients",0.286915797625722
+"Canola oil","Nigeria","Indonesia","nutrients",0.455401386951095
+"Canola oil","Philippines","Philippines","nutrients",0.571040079851453
+"Canola oil","Nigeria","Philippines","nutrients",0.31255056902793
+"Canola oil","Philippines","United States","nutrients",0.578245257399643
+"Canola oil","Nigeria","United States","nutrients",0.617498207923842
+"Canola oil","Philippines","Turkey","nutrients",0.364803977772172
+"Canola oil","Nigeria","Turkey","nutrients",0.52942084560621
+"Chicken protein concentrate","Egypt","Iran","nutrients",0.338745533790065
+"Chicken protein concentrate","Thailand","Iran","nutrients",0.748844014115949
+"Chicken protein concentrate","Turkey","Iran","nutrients",0.551278645471703
+"Chicken protein concentrate","China","Iran","nutrients",0.437565727490719
+"Chicken protein concentrate","Russia","Iran","nutrients",0.85442320553041
+"Chicken protein concentrate","Egypt","Congo (DRC)","nutrients",0.252258342855449
+"Chicken protein concentrate","Thailand","Congo (DRC)","nutrients",0.616495295486193
+"Chicken protein concentrate","Turkey","Congo (DRC)","nutrients",0.402796666997402
+"Chicken protein concentrate","China","Congo (DRC)","nutrients",0.526404425666698
+"Chicken protein concentrate","Russia","Congo (DRC)","nutrients",0.475713416728926
+"Chicken protein concentrate","Egypt","Indonesia","nutrients",0.662902130438211
+"Chicken protein concentrate","Thailand","Indonesia","nutrients",0.508102836582586
+"Chicken protein concentrate","Turkey","Indonesia","nutrients",0.506109610984406
+"Chicken protein concentrate","China","Indonesia","nutrients",0.691259070594879
+"Chicken protein concentrate","Russia","Indonesia","nutrients",0.746810739159447
+"Chicken protein concentrate","Egypt","Turkey","nutrients",0.592337706771813
+"Chicken protein concentrate","Thailand","Turkey","nutrients",0.556457547060052
+"Chicken protein concentrate","Turkey","Turkey","nutrients",0.270423449699856
+"Chicken protein concentrate","China","Turkey","nutrients",0.525509582012583
+"Chicken protein concentrate","Russia","Turkey","nutrients",0.666281402879138
+"Chicken protein concentrate","Egypt","Thailand","nutrients",0.131034857372368
+"Chicken protein concentrate","Thailand","Thailand","nutrients",0.413272721971044
+"Chicken protein concentrate","Turkey","Thailand","nutrients",0.514430478247568
+"Chicken protein concentrate","China","Thailand","nutrients",0.90184019666981
+"Chicken protein concentrate","Russia","Thailand","nutrients",0.294983179226597
+"Coconut oil","China","Brazil","nutrients",0.701678675334834
+"Coconut oil","Iran","Brazil","nutrients",0.357357044166878
+"Coconut oil","Vietnam","Brazil","nutrients",0.462930251174808
+"Coconut oil","Japan","Brazil","nutrients",0.794088374348527
+"Coconut oil","United States","Brazil","nutrients",0.429133617608561
+"Coconut oil","Mexico","Brazil","nutrients",0.922064870160905
+"Coconut oil","China","Egypt","nutrients",0.566847027808141
+"Coconut oil","Iran","Egypt","nutrients",0.453053616442694
+"Coconut oil","Vietnam","Egypt","nutrients",0.548220093274624
+"Coconut oil","Japan","Egypt","nutrients",0.560319413833234
+"Coconut oil","United States","Egypt","nutrients",0.103597311581803
+"Coconut oil","Mexico","Egypt","nutrients",0.447967897381589
+"Corn gluten meal","Thailand","Mexico","nutrients",0.671706188338691
+"Corn gluten meal","United States","Mexico","nutrients",0.756699834683146
+"Corn gluten meal","Germany","Mexico","nutrients",0.272311499283299
+"Corn gluten meal","Ethiopia","Mexico","nutrients",0.248585840242292
+"Corn gluten meal","Indonesia","Mexico","nutrients",0.306685703653164
+"Corn gluten meal","China","Mexico","nutrients",0.652027899909161
+"Corn gluten meal","Thailand","Brazil","nutrients",0.858927354186888
+"Corn gluten meal","United States","Brazil","nutrients",0.457338388024338
+"Corn gluten meal","Germany","Brazil","nutrients",0.126399373915112
+"Corn gluten meal","Ethiopia","Brazil","nutrients",0.496457642978767
+"Corn gluten meal","Indonesia","Brazil","nutrients",0.504860831927272
+"Corn gluten meal","China","Brazil","nutrients",0.213573585911196
+"Faba beans","Ethiopia","Mexico","nutrients",0.868549822460506
+"Faba beans","United States","Mexico","nutrients",0.258299230387562
+"Faba beans","Bangladesh","Mexico","nutrients",0.244896516958903
+"Faba beans","China","Mexico","nutrients",0.413864654473062
+"Faba beans","Ethiopia","Indonesia","nutrients",0.363782470123586
+"Faba beans","United States","Indonesia","nutrients",0.762986526712548
+"Faba beans","Bangladesh","Indonesia","nutrients",0.394541510383816
+"Faba beans","China","Indonesia","nutrients",0.430183711845869
+"Faba beans","Ethiopia","Bangladesh","nutrients",0.642863272060844
+"Faba beans","United States","Bangladesh","nutrients",0.502166387400255
+"Faba beans","Bangladesh","Bangladesh","nutrients",0.784511246328519
+"Faba beans","China","Bangladesh","nutrients",0.332188264908012
+"Faba beans","Ethiopia","Pakistan","nutrients",0.738795446515652
+"Faba beans","United States","Pakistan","nutrients",0.787401818543781
+"Faba beans","Bangladesh","Pakistan","nutrients",0.436865628821988
+"Faba beans","China","Pakistan","nutrients",0.617089037802586
+"Faba beans","Ethiopia","United States","nutrients",0.420184910436186
+"Faba beans","United States","United States","nutrients",0.558527201007749
+"Faba beans","Bangladesh","United States","nutrients",0.358868573813918
+"Faba beans","China","United States","nutrients",1.13088433518091
+"Fishmeal (forage)","Russia","Pakistan","nutrients",0.445144978345303
+"Fishmeal (forage)","China","Pakistan","nutrients",0.246597137049984
+"Fishmeal (forage)","Egypt","Pakistan","nutrients",0.603417863585775
+"Fishmeal (forage)","Pakistan","Pakistan","nutrients",0.49896522709398
+"Fishmeal (forage)","Japan","Pakistan","nutrients",0.475501543505104
+"Fishmeal (forage)","Turkey","Pakistan","nutrients",0.615700324117224
+"Fishmeal (forage)","Russia","Brazil","nutrients",0.657897711866885
+"Fishmeal (forage)","China","Brazil","nutrients",0.837173129166566
+"Fishmeal (forage)","Egypt","Brazil","nutrients",0.17816566382323
+"Fishmeal (forage)","Pakistan","Brazil","nutrients",0.53212862542888
+"Fishmeal (forage)","Japan","Brazil","nutrients",0.37615846979258
+"Fishmeal (forage)","Turkey","Brazil","nutrients",0.594850622664827
+"Fishmeal (forage)","Russia","Ethiopia","nutrients",0.506508844150613
+"Fishmeal (forage)","China","Ethiopia","nutrients",0.254460678152612
+"Fishmeal (forage)","Egypt","Ethiopia","nutrients",0.548555925957449
+"Fishmeal (forage)","Pakistan","Ethiopia","nutrients",0.551206743134843
+"Fishmeal (forage)","Japan","Ethiopia","nutrients",0.221207560870776
+"Fishmeal (forage)","Turkey","Ethiopia","nutrients",0.569209424031416
+"Fishmeal (trimmings)","Pakistan","Germany","nutrients",0.653765950377285
+"Fishmeal (trimmings)","United States","Germany","nutrients",0.217140620366101
+"Fishmeal (trimmings)","Philippines","Germany","nutrients",0.50851965637823
+"Fishmeal (trimmings)","India","Germany","nutrients",0.607424172601974
+"Fishmeal (trimmings)","Nigeria","Germany","nutrients",0.716895032456585
+"Fishmeal (trimmings)","Pakistan","Bangladesh","nutrients",0.454646439968331
+"Fishmeal (trimmings)","United States","Bangladesh","nutrients",0.221837499027099
+"Fishmeal (trimmings)","Philippines","Bangladesh","nutrients",0.524426951982104
+"Fishmeal (trimmings)","India","Bangladesh","nutrients",0.376828700408986
+"Fishmeal (trimmings)","Nigeria","Bangladesh","nutrients",0.36765439128721
+"Fishmeal (trimmings)","Pakistan","Turkey","nutrients",0.502735566617088
+"Fishmeal (trimmings)","United States","Turkey","nutrients",0.295492837875891
+"Fishmeal (trimmings)","Philippines","Turkey","nutrients",0.42382634210285
+"Fishmeal (trimmings)","India","Turkey","nutrients",0.640487528951837
+"Fishmeal (trimmings)","Nigeria","Turkey","nutrients",0.585686939686303
+"Fish oil (forage)","Ethiopia","Mexico","nutrients",0.790569120317479
+"Fish oil (forage)","Mexico","Mexico","nutrients",0.319732490839314
+"Fish oil (forage)","Ethiopia","Indonesia","nutrients",0.544518483269735
+"Fish oil (forage)","Mexico","Indonesia","nutrients",0.578743155430864
+"Fish oil (forage)","Ethiopia","Brazil","nutrients",0.156640390598053
+"Fish oil (forage)","Mexico","Brazil","nutrients",0.658901660345968
+"Fish oil (forage)","Ethiopia","Germany","nutrients",0.853688456453291
+"Fish oil (forage)","Mexico","Germany","nutrients",0.254191449718213
+"Fish oil (trimmings)","Congo (DRC)","Brazil","nutrients",0.309572307397134
+"Fish oil (trimmings)","Indonesia","Brazil","nutrients",0.533709658400626
+"Fish oil (trimmings)","Congo (DRC)","Iran","nutrients",0.592028727209043
+"Fish oil (trimmings)","Indonesia","Iran","nutrients",0.310099312222888
+"Fish oil (trimmings)","Congo (DRC)","Thailand","nutrients",0.41853925733271
+"Fish oil (trimmings)","Indonesia","Thailand","nutrients",0.129110191750521
+"Fish oil (trimmings)","Congo (DRC)","Philippines","nutrients",0.143527781379468
+"Fish oil (trimmings)","Indonesia","Philippines","nutrients",0.502038343677359
+"Fish oil (trimmings)","Congo (DRC)","Turkey","nutrients",0.47266960609667
+"Fish oil (trimmings)","Indonesia","Turkey","nutrients",0.487751062459486
+"Guar meal","United States","Indonesia","nutrients",0.352097908096898
+"Guar meal","Mexico","Indonesia","nutrients",0.404959034720201
+"Guar meal","Vietnam","Indonesia","nutrients",0.651735057633182
+"Guar meal","United States","Bangladesh","nutrients",0.751380990059539
+"Guar meal","Mexico","Bangladesh","nutrients",0.137965763251184
+"Guar meal","Vietnam","Bangladesh","nutrients",0.560493489261708
+"Guar meal","United States","Iran","nutrients",0.407067154025178
+"Guar meal","Mexico","Iran","nutrients",0.454865248184836
+"Guar meal","Vietnam","Iran","nutrients",0.538534675975865
+"Guar meal","United States","Congo (DRC)","nutrients",0.425150247401181
+"Guar meal","Mexico","Congo (DRC)","nutrients",0.612668132900395
+"Guar meal","Vietnam","Congo (DRC)","nutrients",0.451462013230438
+"Guar meal","United States","Ethiopia","nutrients",0.697625542148416
+"Guar meal","Mexico","Ethiopia","nutrients",0.361185035936536
+"Guar meal","Vietnam","Ethiopia","nutrients",0.447678745963817
+"Krill meal","Philippines","Mexico","nutrients",0.387612025786309
+"Krill meal","Egypt","Mexico","nutrients",0.624040953651807
+"Krill meal","United States","Mexico","nutrients",0.664014044152338
+"Krill meal","Iran","Mexico","nutrients",0.796788218294123
+"Krill meal","Pakistan","Mexico","nutrients",0.740414153929469
+"Krill meal","Germany","Mexico","nutrients",0.447314132838291
+"Krill meal","Philippines","Nigeria","nutrients",0.4245114093868
+"Krill meal","Egypt","Nigeria","nutrients",0.859811598408924
+"Krill meal","United States","Nigeria","nutrients",0.550998946743381
+"Krill meal","Iran","Nigeria","nutrients",0.278284146250868
+"Krill meal","Pakistan","Nigeria","nutrients",0.250048264635239
+"Krill meal","Germany","Nigeria","nutrients",0.486697067156374
+"Krill meal","Philippines","United States","nutrients",0.376881909870138
+"Krill meal","Egypt","United States","nutrients",0.701107125747614
+"Krill meal","United States","United States","nutrients",0.104876356335707
+"Krill meal","Iran","United States","nutrients",0.391815232306073
+"Krill meal","Pakistan","United States","nutrients",0.407800245828727
+"Krill meal","Germany","United States","nutrients",0.518676974952611
+"Krill meal","Philippines","Pakistan","nutrients",0.440938363060375
+"Krill meal","Egypt","Pakistan","nutrients",0.517444436858285
+"Krill meal","United States","Pakistan","nutrients",0.5544764363198
+"Krill meal","Iran","Pakistan","nutrients",0.601913653054548
+"Krill meal","Pakistan","Pakistan","nutrients",0.340639819497218
+"Krill meal","Germany","Pakistan","nutrients",0.630288882237104
+"Linseed oil","Indonesia","Thailand","nutrients",0.725038642118723
+"Linseed oil","United States","Thailand","nutrients",0.676140506460277
+"Linseed oil","Vietnam","Thailand","nutrients",0.591931257438161
+"Linseed oil","Indonesia","Iran","nutrients",0.543350064131975
+"Linseed oil","United States","Iran","nutrients",0.306719040094692
+"Linseed oil","Vietnam","Iran","nutrients",0.35883048970789
+"Linseed oil","Indonesia","Ethiopia","nutrients",0.482347681776428
+"Linseed oil","United States","Ethiopia","nutrients",0.518408888050902
+"Linseed oil","Vietnam","Ethiopia","nutrients",0.73497413066415
+"Linseed oil","Indonesia","Japan","nutrients",0.670927546946004
+"Linseed oil","United States","Japan","nutrients",0.364026831459148
+"Linseed oil","Vietnam","Japan","nutrients",0.620834228473051
+"Linseed oil","Indonesia","Mexico","nutrients",0.427301675193592
+"Linseed oil","United States","Mexico","nutrients",0.736253114894129
+"Linseed oil","Vietnam","Mexico","nutrients",0.217599353937474
+"Linseed oil","Indonesia","United States","nutrients",0.870971773971376
+"Linseed oil","United States","United States","nutrients",0.447069460495372
+"Linseed oil","Vietnam","United States","nutrients",0.81903196840064
+"Methanobacterial meal","Japan","Pakistan","nutrients",0.610773232123899
+"Methanobacterial meal","Nigeria","Pakistan","nutrients",0.843143866207404
+"Methanobacterial meal","United States","Pakistan","nutrients",0.605833816467496
+"Methanobacterial meal","Japan","Vietnam","nutrients",0.481602589325459
+"Methanobacterial meal","Nigeria","Vietnam","nutrients",0.474866113140553
+"Methanobacterial meal","United States","Vietnam","nutrients",1.11716583015159
+"Pea flour","Brazil","Vietnam","nutrients",0.883636199543418
+"Pea flour","Iran","Vietnam","nutrients",0.40254124503798
+"Pea flour","Vietnam","Vietnam","nutrients",0.418536100846973
+"Pea flour","Congo (DRC)","Vietnam","nutrients",0.551918986825515
+"Pea flour","Brazil","Pakistan","nutrients",0.301907492526647
+"Pea flour","Iran","Pakistan","nutrients",0.528676478857017
+"Pea flour","Vietnam","Pakistan","nutrients",-0.0157001261609365
+"Pea flour","Congo (DRC)","Pakistan","nutrients",0.587060040036448
+"Pea flour","Brazil","Turkey","nutrients",0.512916212880341
+"Pea flour","Iran","Turkey","nutrients",0.475945354083358
+"Pea flour","Vietnam","Turkey","nutrients",0.626653102577186
+"Pea flour","Congo (DRC)","Turkey","nutrients",0.0431730958845424
+"Pea flour","Brazil","India","nutrients",0.573472780232292
+"Pea flour","Iran","India","nutrients",0.560967173419754
+"Pea flour","Vietnam","India","nutrients",0.705393619599016
+"Pea flour","Congo (DRC)","India","nutrients",0.319266414185218
+"Pea protein concentrate","Germany","Brazil","nutrients",0.118173277870414
+"Pea protein concentrate","Pakistan","Brazil","nutrients",-0.00543832657086285
+"Pea protein concentrate","Germany","Pakistan","nutrients",0.270302545160105
+"Pea protein concentrate","Pakistan","Pakistan","nutrients",0.723802636791455
+"Pea protein concentrate","Germany","China","nutrients",0.473874973331382
+"Pea protein concentrate","Pakistan","China","nutrients",0.409628005023164
+"Soybean meal","Philippines","Ethiopia","nutrients",0.622804251350932
+"Soybean meal","Nigeria","Ethiopia","nutrients",0.552805790293262
+"Soybean meal","Pakistan","Ethiopia","nutrients",0.269170718953951
+"Soybean meal","Germany","Ethiopia","nutrients",0.376002625307995
+"Soybean meal","Japan","Ethiopia","nutrients",0.734249638859986
+"Soybean meal","India","Ethiopia","nutrients",0.358911468685651
+"Soybean meal","Philippines","Turkey","nutrients",0.948730988333004
+"Soybean meal","Nigeria","Turkey","nutrients",0.253485923359739
+"Soybean meal","Pakistan","Turkey","nutrients",0.410961189779829
+"Soybean meal","Germany","Turkey","nutrients",0.646631647483404
+"Soybean meal","Japan","Turkey","nutrients",0.772499434433928
+"Soybean meal","India","Turkey","nutrients",0.602563822334431
+"Soybean meal","Philippines","Philippines","nutrients",0.55004985282545
+"Soybean meal","Nigeria","Philippines","nutrients",0.677291617771693
+"Soybean meal","Pakistan","Philippines","nutrients",0.705767418524836
+"Soybean meal","Germany","Philippines","nutrients",0.46761132558894
+"Soybean meal","Japan","Philippines","nutrients",0.597087968294627
+"Soybean meal","India","Philippines","nutrients",0.34387231682176
+"Soybean meal","Philippines","China","nutrients",0.62500803754757
+"Soybean meal","Nigeria","China","nutrients",0.577999432243151
+"Soybean meal","Pakistan","China","nutrients",0.384869784508186
+"Soybean meal","Germany","China","nutrients",0.115206289859908
+"Soybean meal","Japan","China","nutrients",0.448990300220039
+"Soybean meal","India","China","nutrients",0.791514590057707
+"Soybean oil","Vietnam","Indonesia","nutrients",0.471594972846914
+"Soybean oil","Ethiopia","Indonesia","nutrients",0.670798148510527
+"Soybean oil","Iran","Indonesia","nutrients",1.03074424041803
+"Soybean oil","Pakistan","Indonesia","nutrients",0.323429295603829
+"Soybean oil","Brazil","Indonesia","nutrients",0.648009316147956
+"Soybean oil","Vietnam","Philippines","nutrients",0.675588412575186
+"Soybean oil","Ethiopia","Philippines","nutrients",-0.150841431219706
+"Soybean oil","Iran","Philippines","nutrients",0.549896981724158
+"Soybean oil","Pakistan","Philippines","nutrients",0.606954327567336
+"Soybean oil","Brazil","Philippines","nutrients",0.349031600823952
+"Soy protein concentrate","Nigeria","Germany","nutrients",0.403409401385119
+"Soy protein concentrate","Congo (DRC)","Germany","nutrients",0.667311363175771
+"Soy protein concentrate","Iran","Germany","nutrients",0.401067151586573
+"Soy protein concentrate","Indonesia","Germany","nutrients",0.289313840028502
+"Soy protein concentrate","Germany","Germany","nutrients",0.649616714204819
+"Soy protein concentrate","Ethiopia","Germany","nutrients",0.497572781094649
+"Soy protein concentrate","Nigeria","Egypt","nutrients",0.390314245050667
+"Soy protein concentrate","Congo (DRC)","Egypt","nutrients",0.685980095331143
+"Soy protein concentrate","Iran","Egypt","nutrients",0.695347412939104
+"Soy protein concentrate","Indonesia","Egypt","nutrients",0.963473976336968
+"Soy protein concentrate","Germany","Egypt","nutrients",0.831741830807304
+"Soy protein concentrate","Ethiopia","Egypt","nutrients",0.215911855286535
+"Soy protein concentrate","Nigeria","Bangladesh","nutrients",0.641598565436509
+"Soy protein concentrate","Congo (DRC)","Bangladesh","nutrients",0.353235138263793
+"Soy protein concentrate","Iran","Bangladesh","nutrients",0.455686123774975
+"Soy protein concentrate","Indonesia","Bangladesh","nutrients",0.528112644969327
+"Soy protein concentrate","Germany","Bangladesh","nutrients",0.361036886347606
+"Soy protein concentrate","Ethiopia","Bangladesh","nutrients",0.431464051738283
+"Soy protein concentrate","Nigeria","Turkey","nutrients",0.00372089122622021
+"Soy protein concentrate","Congo (DRC)","Turkey","nutrients",0.468798004195735
+"Soy protein concentrate","Iran","Turkey","nutrients",0.544817235556188
+"Soy protein concentrate","Indonesia","Turkey","nutrients",0.81167068631655
+"Soy protein concentrate","Germany","Turkey","nutrients",0.51838325140492
+"Soy protein concentrate","Ethiopia","Turkey","nutrients",0.578712520919998
+"Soy protein concentrate","Nigeria","Iran","nutrients",0.509023816515644
+"Soy protein concentrate","Congo (DRC)","Iran","nutrients",0.406081259878321
+"Soy protein concentrate","Iran","Iran","nutrients",0.500543572192764
+"Soy protein concentrate","Indonesia","Iran","nutrients",0.367828891217976
+"Soy protein concentrate","Germany","Iran","nutrients",0.720762727436735
+"Soy protein concentrate","Ethiopia","Iran","nutrients",0.949158697166312
+"Soy protein concentrate","Nigeria","India","nutrients",0.527346614525326
+"Soy protein concentrate","Congo (DRC)","India","nutrients",0.411645354622051
+"Soy protein concentrate","Iran","India","nutrients",0.463230006694871
+"Soy protein concentrate","Indonesia","India","nutrients",0.298418060775278
+"Soy protein concentrate","Germany","India","nutrients",0.370020860225272
+"Soy protein concentrate","Ethiopia","India","nutrients",0.729216134241987
+"Spirulina meal","China","Vietnam","nutrients",0.607636924354737
+"Spirulina meal","Thailand","Vietnam","nutrients",0.477894519749548
+"Spirulina meal","China","Turkey","nutrients",0.83222751900346
+"Spirulina meal","Thailand","Turkey","nutrients",0.756723137300492
+"Spirulina meal","China","Germany","nutrients",0.233467227634478
+"Spirulina meal","Thailand","Germany","nutrients",0.833725750661116
+"Spirulina meal","China","Brazil","nutrients",0.292072658054693
+"Spirulina meal","Thailand","Brazil","nutrients",0.176554470327341
+"Sunflower meal","Nigeria","Iran","nutrients",0.446729898599488
+"Sunflower meal","Pakistan","Iran","nutrients",0.606399832324252
+"Sunflower meal","Germany","Iran","nutrients",0.405975534799719
+"Sunflower meal","Japan","Iran","nutrients",0.574892059416575
+"Sunflower meal","Mexico","Iran","nutrients",0.6237185469705
+"Sunflower meal","Nigeria","Russia","nutrients",0.786967853078261
+"Sunflower meal","Pakistan","Russia","nutrients",-0.0844542197873831
+"Sunflower meal","Germany","Russia","nutrients",0.320729027810313
+"Sunflower meal","Japan","Russia","nutrients",0.4456903723608
+"Sunflower meal","Mexico","Russia","nutrients",0.616033609773404
+"Sunflower meal","Nigeria","Mexico","nutrients",0.587685599933789
+"Sunflower meal","Pakistan","Mexico","nutrients",0.991429006874025
+"Sunflower meal","Germany","Mexico","nutrients",0.535856645488735
+"Sunflower meal","Japan","Mexico","nutrients",0.306658373311401
+"Sunflower meal","Mexico","Mexico","nutrients",0.200046738472997
+"Sunflower meal","Nigeria","Bangladesh","nutrients",0.60437108972426
+"Sunflower meal","Pakistan","Bangladesh","nutrients",0.731784660173744
+"Sunflower meal","Germany","Bangladesh","nutrients",0.650527068619376
+"Sunflower meal","Japan","Bangladesh","nutrients",0.467590929808816
+"Sunflower meal","Mexico","Bangladesh","nutrients",0.584612763740523
+"Wheat","Japan","Nigeria","nutrients",0.422834374486721
+"Wheat","Ethiopia","Nigeria","nutrients",0.326772433307366
+"Wheat","Vietnam","Nigeria","nutrients",0.28320630592424
+"Wheat","United States","Nigeria","nutrients",0.501124553220186
+"Wheat","Philippines","Nigeria","nutrients",0.640806180034186
+"Wheat","Russia","Nigeria","nutrients",0.539785134176144
+"Wheat","Japan","Turkey","nutrients",0.337333609581023
+"Wheat","Ethiopia","Turkey","nutrients",0.486411371701496
+"Wheat","Vietnam","Turkey","nutrients",0.287770037541737
+"Wheat","United States","Turkey","nutrients",0.191251105198859
+"Wheat","Philippines","Turkey","nutrients",0.50288716811882
+"Wheat","Russia","Turkey","nutrients",0.56921523854673
+"Wheat","Japan","Russia","nutrients",0.49464374362048
+"Wheat","Ethiopia","Russia","nutrients",0.648905281115675
+"Wheat","Vietnam","Russia","nutrients",0.360371751080805
+"Wheat","United States","Russia","nutrients",0.549541801989903
+"Wheat","Philippines","Russia","nutrients",0.552715404534799
+"Wheat","Russia","Russia","nutrients",0.778312171523467
+"Wheat","Japan","Mexico","nutrients",0.666603336298208
+"Wheat","Ethiopia","Mexico","nutrients",0.267970364271349
+"Wheat","Vietnam","Mexico","nutrients",0.539685325754091
+"Wheat","United States","Mexico","nutrients",0.345625971802751
+"Wheat","Philippines","Mexico","nutrients",0.209250685006963
+"Wheat","Russia","Mexico","nutrients",0.681077688365022
+"Wheat","Japan","Brazil","nutrients",0.668150033103419
+"Wheat","Ethiopia","Brazil","nutrients",0.733041602987726
+"Wheat","Vietnam","Brazil","nutrients",0.082007164144752
+"Wheat","United States","Brazil","nutrients",0.480272492813933
+"Wheat","Philippines","Brazil","nutrients",0.823943182489913
+"Wheat","Russia","Brazil","nutrients",1.01192240690046
+"Wheat","Japan","Bangladesh","nutrients",0.284858932294229
+"Wheat","Ethiopia","Bangladesh","nutrients",0.719590927113591
+"Wheat","Vietnam","Bangladesh","nutrients",0.69494118991166
+"Wheat","United States","Bangladesh","nutrients",0.67198687802721
+"Wheat","Philippines","Bangladesh","nutrients",0.0624012434154744
+"Wheat","Russia","Bangladesh","nutrients",-0.0217712579827889
+"Wheat gluten","Egypt","Russia","nutrients",0.263125863376192
+"Wheat gluten","Thailand","Russia","nutrients",0.805622490842381
+"Wheat gluten","Turkey","Russia","nutrients",0.0244329087465265
+"Wheat gluten","Congo (DRC)","Russia","nutrients",-0.0798398579663218
+"Wheat gluten","Egypt","China","nutrients",0.253873340363201
+"Wheat gluten","Thailand","China","nutrients",0.446238849976861
+"Wheat gluten","Turkey","China","nutrients",0.648310102012657
+"Wheat gluten","Congo (DRC)","China","nutrients",0.811335219953764
+"Wheat gluten","Egypt","Philippines","nutrients",0.252995446474388
+"Wheat gluten","Thailand","Philippines","nutrients",0.601708159447754
+"Wheat gluten","Turkey","Philippines","nutrients",-0.0355922115287082
+"Wheat gluten","Congo (DRC)","Philippines","nutrients",0.534501127103218
+"Wheat gluten","Egypt","Iran","nutrients",0.42866226741716
+"Wheat gluten","Thailand","Iran","nutrients",0.780799654833961
+"Wheat gluten","Turkey","Iran","nutrients",0.675770332302859
+"Wheat gluten","Congo (DRC)","Iran","nutrients",0.708546554721258
+"Yeast meal","Pakistan","Russia","nutrients",0.469918585842953
+"Yeast meal","China","Russia","nutrients",0.281486189408003
+"Yeast meal","Thailand","Russia","nutrients",0.376737106460088
+"Yeast meal","Ethiopia","Russia","nutrients",0.788257756736936
+"Yeast meal","Japan","Russia","nutrients",0.668269877367738
+"Yeast meal","United States","Russia","nutrients",0.245072624928272
+"Yeast meal","Pakistan","Ethiopia","nutrients",0.680583202183318
+"Yeast meal","China","Ethiopia","nutrients",0.358123311437674
+"Yeast meal","Thailand","Ethiopia","nutrients",0.561002218391175
+"Yeast meal","Ethiopia","Ethiopia","nutrients",0.734643139758298
+"Yeast meal","Japan","Ethiopia","nutrients",0.352587313251813
+"Yeast meal","United States","Ethiopia","nutrients",0.392326325873536
+"Yeast meal","Pakistan","Philippines","nutrients",0.854179724261904
+"Yeast meal","China","Philippines","nutrients",0.448448883016911
+"Yeast meal","Thailand","Philippines","nutrients",0.740539552528382
+"Yeast meal","Ethiopia","Philippines","nutrients",0.292720404830793
+"Yeast meal","Japan","Philippines","nutrients",0.643922512994775
+"Yeast meal","United States","Philippines","nutrients",0.706184630277623
+"Microingredients","Indonesia","Ethiopia","nutrients",0.719273653951561
+"Microingredients","Iran","Ethiopia","nutrients",0.422696351660474
+"Microingredients","Egypt","Ethiopia","nutrients",0.759937747821726
+"Microingredients","Turkey","Ethiopia","nutrients",0.459373901428342
+"Microingredients","Vietnam","Ethiopia","nutrients",0.363785496623845
+"Microingredients","Indonesia","United States","nutrients",0.333175824688878
+"Microingredients","Iran","United States","nutrients",0.6418688136262
+"Microingredients","Egypt","United States","nutrients",0.493874879876727
+"Microingredients","Turkey","United States","nutrients",0.46728670088396
+"Microingredients","Vietnam","United States","nutrients",0.634919019362354
+"Microingredients","Indonesia","Germany","nutrients",0.352195062215829
+"Microingredients","Iran","Germany","nutrients",0.366758173934741
+"Microingredients","Egypt","Germany","nutrients",0.609006737818087
+"Microingredients","Turkey","Germany","nutrients",0.337658332332047
+"Microingredients","Vietnam","Germany","nutrients",0.377922541131511
+"Black soldier-fly meal","Turkey","Indonesia","water",0.571617273786888
+"Black soldier-fly meal","India","Indonesia","water",0.367434525638842
+"Black soldier-fly meal","Germany","Indonesia","water",0.579506622779334
+"Black soldier-fly meal","Egypt","Indonesia","water",0.74788231144639
+"Black soldier-fly meal","China","Indonesia","water",0.221156520430666
+"Black soldier-fly meal","Turkey","Iran","water",0.586960277137049
+"Black soldier-fly meal","India","Iran","water",0.525977408917651
+"Black soldier-fly meal","Germany","Iran","water",0.473352920054868
+"Black soldier-fly meal","Egypt","Iran","water",0.637959361500816
+"Black soldier-fly meal","China","Iran","water",0.313602240407315
+"Black soldier-fly meal","Turkey","Pakistan","water",0.611544601871544
+"Black soldier-fly meal","India","Pakistan","water",0.536714279457516
+"Black soldier-fly meal","Germany","Pakistan","water",0.594141887327511
+"Black soldier-fly meal","Egypt","Pakistan","water",0.489753909196358
+"Black soldier-fly meal","China","Pakistan","water",0.636037831974237
+"Canola oil","Philippines","Indonesia","water",0.401891634757961
+"Canola oil","Nigeria","Indonesia","water",0.972543772216058
+"Canola oil","Philippines","Philippines","water",0.308844216433352
+"Canola oil","Nigeria","Philippines","water",0.351697905394834
+"Canola oil","Philippines","United States","water",0.584406885433676
+"Canola oil","Nigeria","United States","water",0.0774033470904014
+"Canola oil","Philippines","Turkey","water",0.849370057296136
+"Canola oil","Nigeria","Turkey","water",0.720243270539902
+"Chicken protein concentrate","Egypt","Iran","water",0.421763421162213
+"Chicken protein concentrate","Thailand","Iran","water",0.700003987637181
+"Chicken protein concentrate","Turkey","Iran","water",0.625864571431608
+"Chicken protein concentrate","China","Iran","water",0.539749935008137
+"Chicken protein concentrate","Russia","Iran","water",0.470010962660922
+"Chicken protein concentrate","Egypt","Congo (DRC)","water",0.542763981116419
+"Chicken protein concentrate","Thailand","Congo (DRC)","water",0.815679334022245
+"Chicken protein concentrate","Turkey","Congo (DRC)","water",0.347785214205912
+"Chicken protein concentrate","China","Congo (DRC)","water",0.268297393192596
+"Chicken protein concentrate","Russia","Congo (DRC)","water",0.124230409550889
+"Chicken protein concentrate","Egypt","Indonesia","water",0.506965559737543
+"Chicken protein concentrate","Thailand","Indonesia","water",0.546551451308216
+"Chicken protein concentrate","Turkey","Indonesia","water",0.276063353737897
+"Chicken protein concentrate","China","Indonesia","water",0.426845938531577
+"Chicken protein concentrate","Russia","Indonesia","water",0.597441398049718
+"Chicken protein concentrate","Egypt","Turkey","water",0.699708109943689
+"Chicken protein concentrate","Thailand","Turkey","water",0.647396827921617
+"Chicken protein concentrate","Turkey","Turkey","water",0.492623784181213
+"Chicken protein concentrate","China","Turkey","water",0.338490137717678
+"Chicken protein concentrate","Russia","Turkey","water",0.483753646367345
+"Chicken protein concentrate","Egypt","Thailand","water",0.801687129928376
+"Chicken protein concentrate","Thailand","Thailand","water",0.311163063243564
+"Chicken protein concentrate","Turkey","Thailand","water",0.276252556569156
+"Chicken protein concentrate","China","Thailand","water",0.560222826790182
+"Chicken protein concentrate","Russia","Thailand","water",0.645002148553169
+"Coconut oil","China","Brazil","water",0.657890462721837
+"Coconut oil","Iran","Brazil","water",0.246475301286293
+"Coconut oil","Vietnam","Brazil","water",0.267881904927012
+"Coconut oil","Japan","Brazil","water",0.778489509545895
+"Coconut oil","United States","Brazil","water",0.554430474719806
+"Coconut oil","Mexico","Brazil","water",0.699224394273513
+"Coconut oil","China","Egypt","water",0.235494418344137
+"Coconut oil","Iran","Egypt","water",0.41219667695151
+"Coconut oil","Vietnam","Egypt","water",0.222264924278151
+"Coconut oil","Japan","Egypt","water",0.506471275357314
+"Coconut oil","United States","Egypt","water",0.356275920343199
+"Coconut oil","Mexico","Egypt","water",0.583124494205798
+"Corn gluten meal","Thailand","Mexico","water",0.418032745673913
+"Corn gluten meal","United States","Mexico","water",0.805788124895032
+"Corn gluten meal","Germany","Mexico","water",0.578382257732197
+"Corn gluten meal","Ethiopia","Mexico","water",0.277092764257727
+"Corn gluten meal","Indonesia","Mexico","water",0.653461748428422
+"Corn gluten meal","China","Mexico","water",0.377471285180135
+"Corn gluten meal","Thailand","Brazil","water",0.198719236166113
+"Corn gluten meal","United States","Brazil","water",0.572882882699002
+"Corn gluten meal","Germany","Brazil","water",0.415994855056305
+"Corn gluten meal","Ethiopia","Brazil","water",0.681106913772581
+"Corn gluten meal","Indonesia","Brazil","water",0.677730356075454
+"Corn gluten meal","China","Brazil","water",0.464093659786858
+"Faba beans","Ethiopia","Mexico","water",0.437628123726779
+"Faba beans","United States","Mexico","water",0.510733457936308
+"Faba beans","Bangladesh","Mexico","water",0.444430632833645
+"Faba beans","China","Mexico","water",0.616750068917759
+"Faba beans","Ethiopia","Indonesia","water",0.397360258820511
+"Faba beans","United States","Indonesia","water",0.865129292563925
+"Faba beans","Bangladesh","Indonesia","water",0.430051230587966
+"Faba beans","China","Indonesia","water",0.545249088952379
+"Faba beans","Ethiopia","Bangladesh","water",0.610460483796389
+"Faba beans","United States","Bangladesh","water",0.205471357693892
+"Faba beans","Bangladesh","Bangladesh","water",0.463129457807628
+"Faba beans","China","Bangladesh","water",0.577842157034878
+"Faba beans","Ethiopia","Pakistan","water",0.526030529638977
+"Faba beans","United States","Pakistan","water",0.344577392773557
+"Faba beans","Bangladesh","Pakistan","water",0.684496726082026
+"Faba beans","China","Pakistan","water",0.137977354473313
+"Faba beans","Ethiopia","United States","water",0.564759655897965
+"Faba beans","United States","United States","water",0.597095872286423
+"Faba beans","Bangladesh","United States","water",0.316634347422305
+"Faba beans","China","United States","water",0.772390632236707
+"Fishmeal (forage)","Russia","Pakistan","water",0.630173720388995
+"Fishmeal (forage)","China","Pakistan","water",0.368367673345957
+"Fishmeal (forage)","Egypt","Pakistan","water",0.625385285387917
+"Fishmeal (forage)","Pakistan","Pakistan","water",0.384814279023729
+"Fishmeal (forage)","Japan","Pakistan","water",0.73770294382154
+"Fishmeal (forage)","Turkey","Pakistan","water",0.487149978003778
+"Fishmeal (forage)","Russia","Brazil","water",1.01502548695661
+"Fishmeal (forage)","China","Brazil","water",0.623988355753229
+"Fishmeal (forage)","Egypt","Brazil","water",0.420310112105477
+"Fishmeal (forage)","Pakistan","Brazil","water",0.338102240834544
+"Fishmeal (forage)","Japan","Brazil","water",0.269361151798606
+"Fishmeal (forage)","Turkey","Brazil","water",0.643698262609011
+"Fishmeal (forage)","Russia","Ethiopia","water",0.716879450794972
+"Fishmeal (forage)","China","Ethiopia","water",0.408676959164569
+"Fishmeal (forage)","Egypt","Ethiopia","water",0.712979350766377
+"Fishmeal (forage)","Pakistan","Ethiopia","water",0.437502819117359
+"Fishmeal (forage)","Japan","Ethiopia","water",0.523361583229063
+"Fishmeal (forage)","Turkey","Ethiopia","water",0.0694575250146338
+"Fishmeal (trimmings)","Pakistan","Germany","water",0.396399710878759
+"Fishmeal (trimmings)","United States","Germany","water",0.442132127076343
+"Fishmeal (trimmings)","Philippines","Germany","water",0.550591866683828
+"Fishmeal (trimmings)","India","Germany","water",0.268355459200135
+"Fishmeal (trimmings)","Nigeria","Germany","water",0.789436631739726
+"Fishmeal (trimmings)","Pakistan","Bangladesh","water",0.563108300561731
+"Fishmeal (trimmings)","United States","Bangladesh","water",0.317321396625638
+"Fishmeal (trimmings)","Philippines","Bangladesh","water",0.318074002752601
+"Fishmeal (trimmings)","India","Bangladesh","water",0.724083198640675
+"Fishmeal (trimmings)","Nigeria","Bangladesh","water",0.615994939385871
+"Fishmeal (trimmings)","Pakistan","Turkey","water",0.679961789541112
+"Fishmeal (trimmings)","United States","Turkey","water",0.734158081909
+"Fishmeal (trimmings)","Philippines","Turkey","water",0.615401445044461
+"Fishmeal (trimmings)","India","Turkey","water",0.292221396815896
+"Fishmeal (trimmings)","Nigeria","Turkey","water",0.50241326159872
+"Fish oil (forage)","Ethiopia","Mexico","water",0.839470867857632
+"Fish oil (forage)","Mexico","Mexico","water",0.667868397863415
+"Fish oil (forage)","Ethiopia","Indonesia","water",0.397711424355801
+"Fish oil (forage)","Mexico","Indonesia","water",0.779338429428784
+"Fish oil (forage)","Ethiopia","Brazil","water",0.164051910903652
+"Fish oil (forage)","Mexico","Brazil","water",0.464393964893368
+"Fish oil (forage)","Ethiopia","Germany","water",0.38166249733677
+"Fish oil (forage)","Mexico","Germany","water",0.636608092804334
+"Fish oil (trimmings)","Congo (DRC)","Brazil","water",0.661977875699466
+"Fish oil (trimmings)","Indonesia","Brazil","water",0.733563292356192
+"Fish oil (trimmings)","Congo (DRC)","Iran","water",0.820165574031462
+"Fish oil (trimmings)","Indonesia","Iran","water",0.766240479044236
+"Fish oil (trimmings)","Congo (DRC)","Thailand","water",0.0816180504251066
+"Fish oil (trimmings)","Indonesia","Thailand","water",0.48100882049718
+"Fish oil (trimmings)","Congo (DRC)","Philippines","water",0.629833784524517
+"Fish oil (trimmings)","Indonesia","Philippines","water",0.252273809046701
+"Fish oil (trimmings)","Congo (DRC)","Turkey","water",0.639278986816357
+"Fish oil (trimmings)","Indonesia","Turkey","water",0.207865559473998
+"Guar meal","United States","Indonesia","water",0.381202342527234
+"Guar meal","Mexico","Indonesia","water",0.490004803609174
+"Guar meal","Vietnam","Indonesia","water",0.180862992127971
+"Guar meal","United States","Bangladesh","water",0.366021252886658
+"Guar meal","Mexico","Bangladesh","water",0.347172048729782
+"Guar meal","Vietnam","Bangladesh","water",0.479761729816807
+"Guar meal","United States","Iran","water",0.55099310411496
+"Guar meal","Mexico","Iran","water",0.480047074854123
+"Guar meal","Vietnam","Iran","water",0.470701608811739
+"Guar meal","United States","Congo (DRC)","water",0.655696951149229
+"Guar meal","Mexico","Congo (DRC)","water",0.788797237356634
+"Guar meal","Vietnam","Congo (DRC)","water",0.44232082918124
+"Guar meal","United States","Ethiopia","water",0.630651542736202
+"Guar meal","Mexico","Ethiopia","water",0.216108374473693
+"Guar meal","Vietnam","Ethiopia","water",0.277181265344303
+"Krill meal","Philippines","Mexico","water",0.291072948695439
+"Krill meal","Egypt","Mexico","water",0.956103183764442
+"Krill meal","United States","Mexico","water",0.753218804411215
+"Krill meal","Iran","Mexico","water",0.263073598358303
+"Krill meal","Pakistan","Mexico","water",0.500446751293689
+"Krill meal","Germany","Mexico","water",0.267824352675326
+"Krill meal","Philippines","Nigeria","water",0.471183672969598
+"Krill meal","Egypt","Nigeria","water",0.934315121199486
+"Krill meal","United States","Nigeria","water",0.199931851194893
+"Krill meal","Iran","Nigeria","water",0.421912738475489
+"Krill meal","Pakistan","Nigeria","water",0.433833313278347
+"Krill meal","Germany","Nigeria","water",0.669067518367223
+"Krill meal","Philippines","United States","water",0.505830180333762
+"Krill meal","Egypt","United States","water",0.251808529114487
+"Krill meal","United States","United States","water",0.687017795143131
+"Krill meal","Iran","United States","water",0.23441669145454
+"Krill meal","Pakistan","United States","water",-0.0964061820375489
+"Krill meal","Germany","United States","water",0.398058212811685
+"Krill meal","Philippines","Pakistan","water",0.431751460864479
+"Krill meal","Egypt","Pakistan","water",0.474276122145631
+"Krill meal","United States","Pakistan","water",0.516196475786891
+"Krill meal","Iran","Pakistan","water",0.890012596672933
+"Krill meal","Pakistan","Pakistan","water",0.596208362718994
+"Krill meal","Germany","Pakistan","water",0.574166546711241
+"Linseed oil","Indonesia","Thailand","water",0.793300628840204
+"Linseed oil","United States","Thailand","water",-0.0389374226875056
+"Linseed oil","Vietnam","Thailand","water",0.946102708516085
+"Linseed oil","Indonesia","Iran","water",0.691990265042969
+"Linseed oil","United States","Iran","water",0.624064510340598
+"Linseed oil","Vietnam","Iran","water",0.468643693862403
+"Linseed oil","Indonesia","Ethiopia","water",0.358680439746642
+"Linseed oil","United States","Ethiopia","water",0.44989001420601
+"Linseed oil","Vietnam","Ethiopia","water",0.551156489384525
+"Linseed oil","Indonesia","Japan","water",0.397424421363722
+"Linseed oil","United States","Japan","water",0.381945559915446
+"Linseed oil","Vietnam","Japan","water",0.312333622711691
+"Linseed oil","Indonesia","Mexico","water",0.870414420162764
+"Linseed oil","United States","Mexico","water",0.25688485474389
+"Linseed oil","Vietnam","Mexico","water",0.397011570594531
+"Linseed oil","Indonesia","United States","water",0.568227576923985
+"Linseed oil","United States","United States","water",0.45834977258866
+"Linseed oil","Vietnam","United States","water",0.432080604562383
+"Methanobacterial meal","Japan","Pakistan","water",0.570423463255854
+"Methanobacterial meal","Nigeria","Pakistan","water",0.369069952966209
+"Methanobacterial meal","United States","Pakistan","water",0.581834164898832
+"Methanobacterial meal","Japan","Vietnam","water",0.510773218412438
+"Methanobacterial meal","Nigeria","Vietnam","water",0.0854421102397226
+"Methanobacterial meal","United States","Vietnam","water",0.381969764725919
+"Pea flour","Brazil","Vietnam","water",0.0124232746424714
+"Pea flour","Iran","Vietnam","water",0.386644888306599
+"Pea flour","Vietnam","Vietnam","water",0.420177879076764
+"Pea flour","Congo (DRC)","Vietnam","water",0.610043955780499
+"Pea flour","Brazil","Pakistan","water",0.513679021999613
+"Pea flour","Iran","Pakistan","water",0.582425522733639
+"Pea flour","Vietnam","Pakistan","water",0.262883370507837
+"Pea flour","Congo (DRC)","Pakistan","water",0.180656772672182
+"Pea flour","Brazil","Turkey","water",0.19136904591252
+"Pea flour","Iran","Turkey","water",0.332753916332548
+"Pea flour","Vietnam","Turkey","water",0.380519604527579
+"Pea flour","Congo (DRC)","Turkey","water",0.35180812852543
+"Pea flour","Brazil","India","water",0.561890162977046
+"Pea flour","Iran","India","water",0.535572811885851
+"Pea flour","Vietnam","India","water",0.410301620310334
+"Pea flour","Congo (DRC)","India","water",0.573920352353658
+"Pea protein concentrate","Germany","Brazil","water",0.15302280638611
+"Pea protein concentrate","Pakistan","Brazil","water",0.847198944822877
+"Pea protein concentrate","Germany","Pakistan","water",0.216617231389499
+"Pea protein concentrate","Pakistan","Pakistan","water",0.428365951215753
+"Pea protein concentrate","Germany","China","water",0.345183656866701
+"Pea protein concentrate","Pakistan","China","water",0.391147510063311
+"Soybean meal","Philippines","Ethiopia","water",1.05690144297937
+"Soybean meal","Nigeria","Ethiopia","water",0.72968743109138
+"Soybean meal","Pakistan","Ethiopia","water",0.514504184226919
+"Soybean meal","Germany","Ethiopia","water",0.428858954785201
+"Soybean meal","Japan","Ethiopia","water",0.352717698723947
+"Soybean meal","India","Ethiopia","water",0.454076100211454
+"Soybean meal","Philippines","Turkey","water",0.203477137128229
+"Soybean meal","Nigeria","Turkey","water",0.459066189468812
+"Soybean meal","Pakistan","Turkey","water",0.520895013596308
+"Soybean meal","Germany","Turkey","water",0.122193125656046
+"Soybean meal","Japan","Turkey","water",0.579620108172849
+"Soybean meal","India","Turkey","water",0.337551281211015
+"Soybean meal","Philippines","Philippines","water",0.643864385608408
+"Soybean meal","Nigeria","Philippines","water",0.835189306859043
+"Soybean meal","Pakistan","Philippines","water",0.725330470599756
+"Soybean meal","Germany","Philippines","water",0.5937740508604
+"Soybean meal","Japan","Philippines","water",0.413203418980942
+"Soybean meal","India","Philippines","water",0.889236238496007
+"Soybean meal","Philippines","China","water",0.900868201272229
+"Soybean meal","Nigeria","China","water",0.76811533727316
+"Soybean meal","Pakistan","China","water",0.572132784097394
+"Soybean meal","Germany","China","water",0.588021932572895
+"Soybean meal","Japan","China","water",0.613258837149136
+"Soybean meal","India","China","water",0.452179296514755
+"Soybean oil","Vietnam","Indonesia","water",0.643125312203108
+"Soybean oil","Ethiopia","Indonesia","water",0.1179718931219
+"Soybean oil","Iran","Indonesia","water",0.384803253796284
+"Soybean oil","Pakistan","Indonesia","water",0.629888418646782
+"Soybean oil","Brazil","Indonesia","water",0.166906698465829
+"Soybean oil","Vietnam","Philippines","water",0.835862878656169
+"Soybean oil","Ethiopia","Philippines","water",0.433022129612734
+"Soybean oil","Iran","Philippines","water",0.223627357737631
+"Soybean oil","Pakistan","Philippines","water",0.591956341705141
+"Soybean oil","Brazil","Philippines","water",0.617708335869771
+"Soy protein concentrate","Nigeria","Germany","water",0.326107509099534
+"Soy protein concentrate","Congo (DRC)","Germany","water",0.663377330389622
+"Soy protein concentrate","Iran","Germany","water",0.748832924418503
+"Soy protein concentrate","Indonesia","Germany","water",0.465142152840743
+"Soy protein concentrate","Germany","Germany","water",0.807218091019288
+"Soy protein concentrate","Ethiopia","Germany","water",1.01325933578257
+"Soy protein concentrate","Nigeria","Egypt","water",0.592521214881879
+"Soy protein concentrate","Congo (DRC)","Egypt","water",0.350388003139352
+"Soy protein concentrate","Iran","Egypt","water",0.648062796809846
+"Soy protein concentrate","Indonesia","Egypt","water",0.603405148927336
+"Soy protein concentrate","Germany","Egypt","water",0.467349694258277
+"Soy protein concentrate","Ethiopia","Egypt","water",0.568483992439531
+"Soy protein concentrate","Nigeria","Bangladesh","water",0.669707661269249
+"Soy protein concentrate","Congo (DRC)","Bangladesh","water",0.30579877533921
+"Soy protein concentrate","Iran","Bangladesh","water",0.883411221402279
+"Soy protein concentrate","Indonesia","Bangladesh","water",0.466506357068471
+"Soy protein concentrate","Germany","Bangladesh","water",0.595486513229999
+"Soy protein concentrate","Ethiopia","Bangladesh","water",0.631351708177716
+"Soy protein concentrate","Nigeria","Turkey","water",0.0258284110222596
+"Soy protein concentrate","Congo (DRC)","Turkey","water",0.459454447201901
+"Soy protein concentrate","Iran","Turkey","water",0.452440582368041
+"Soy protein concentrate","Indonesia","Turkey","water",0.472179746392605
+"Soy protein concentrate","Germany","Turkey","water",0.493415914916518
+"Soy protein concentrate","Ethiopia","Turkey","water",0.197336938629782
+"Soy protein concentrate","Nigeria","Iran","water",0.268162696586364
+"Soy protein concentrate","Congo (DRC)","Iran","water",0.414790803160101
+"Soy protein concentrate","Iran","Iran","water",0.451781007303493
+"Soy protein concentrate","Indonesia","Iran","water",0.347805423783942
+"Soy protein concentrate","Germany","Iran","water",0.644655643205519
+"Soy protein concentrate","Ethiopia","Iran","water",0.723952814959815
+"Soy protein concentrate","Nigeria","India","water",0.636528642641538
+"Soy protein concentrate","Congo (DRC)","India","water",0.526429766352868
+"Soy protein concentrate","Iran","India","water",0.230818937830517
+"Soy protein concentrate","Indonesia","India","water",0.42634659305006
+"Soy protein concentrate","Germany","India","water",0.377010509752414
+"Soy protein concentrate","Ethiopia","India","water",0.799027956209736
+"Spirulina meal","China","Vietnam","water",0.309003572024609
+"Spirulina meal","Thailand","Vietnam","water",0.343968875700618
+"Spirulina meal","China","Turkey","water",0.500617784917219
+"Spirulina meal","Thailand","Turkey","water",0.500397757714608
+"Spirulina meal","China","Germany","water",0.797266447939869
+"Spirulina meal","Thailand","Germany","water",0.306208784899629
+"Spirulina meal","China","Brazil","water",0.672145819662522
+"Spirulina meal","Thailand","Brazil","water",0.620758333210129
+"Sunflower meal","Nigeria","Iran","water",0.483562415779047
+"Sunflower meal","Pakistan","Iran","water",0.630765660599511
+"Sunflower meal","Germany","Iran","water",0.186917395584344
+"Sunflower meal","Japan","Iran","water",0.519737875993811
+"Sunflower meal","Mexico","Iran","water",0.38499708664869
+"Sunflower meal","Nigeria","Russia","water",0.631456542142717
+"Sunflower meal","Pakistan","Russia","water",0.568059733429125
+"Sunflower meal","Germany","Russia","water",0.935814618753746
+"Sunflower meal","Japan","Russia","water",0.483446279487022
+"Sunflower meal","Mexico","Russia","water",0.536117569878211
+"Sunflower meal","Nigeria","Mexico","water",0.811970987126861
+"Sunflower meal","Pakistan","Mexico","water",0.583362209857904
+"Sunflower meal","Germany","Mexico","water",0.500503808009958
+"Sunflower meal","Japan","Mexico","water",0.661927660132712
+"Sunflower meal","Mexico","Mexico","water",0.315960386080365
+"Sunflower meal","Nigeria","Bangladesh","water",0.447687711222257
+"Sunflower meal","Pakistan","Bangladesh","water",0.23783203035447
+"Sunflower meal","Germany","Bangladesh","water",0.64839258957034
+"Sunflower meal","Japan","Bangladesh","water",0.654097285834316
+"Sunflower meal","Mexico","Bangladesh","water",0.65609638010064
+"Wheat","Japan","Nigeria","water",0.409394996531813
+"Wheat","Ethiopia","Nigeria","water",0.411771995346639
+"Wheat","Vietnam","Nigeria","water",0.738989057257911
+"Wheat","United States","Nigeria","water",0.394086085342784
+"Wheat","Philippines","Nigeria","water",0.426129267585667
+"Wheat","Russia","Nigeria","water",0.262256958006059
+"Wheat","Japan","Turkey","water",0.374289897762251
+"Wheat","Ethiopia","Turkey","water",0.470863059761977
+"Wheat","Vietnam","Turkey","water",0.337862842262469
+"Wheat","United States","Turkey","water",0.569119421007482
+"Wheat","Philippines","Turkey","water",0.23626533747339
+"Wheat","Russia","Turkey","water",0.640641600586223
+"Wheat","Japan","Russia","water",0.562928065520208
+"Wheat","Ethiopia","Russia","water",0.376793902795393
+"Wheat","Vietnam","Russia","water",0.240059264110616
+"Wheat","United States","Russia","water",0.507431491367798
+"Wheat","Philippines","Russia","water",0.41291381388238
+"Wheat","Russia","Russia","water",0.535397358228073
+"Wheat","Japan","Mexico","water",0.299056913607357
+"Wheat","Ethiopia","Mexico","water",0.573985280734017
+"Wheat","Vietnam","Mexico","water",0.727124456754436
+"Wheat","United States","Mexico","water",0.708078915069739
+"Wheat","Philippines","Mexico","water",0.377276776366493
+"Wheat","Russia","Mexico","water",0.463604505256119
+"Wheat","Japan","Brazil","water",0.398274318844584
+"Wheat","Ethiopia","Brazil","water",0.51702754534783
+"Wheat","Vietnam","Brazil","water",0.434173348797891
+"Wheat","United States","Brazil","water",0.10979000216671
+"Wheat","Philippines","Brazil","water",0.431682868168719
+"Wheat","Russia","Brazil","water",0.470416825310631
+"Wheat","Japan","Bangladesh","water",0.393631926327299
+"Wheat","Ethiopia","Bangladesh","water",0.703757307766389
+"Wheat","Vietnam","Bangladesh","water",0.585806428080952
+"Wheat","United States","Bangladesh","water",0.297137280119957
+"Wheat","Philippines","Bangladesh","water",0.350227808241953
+"Wheat","Russia","Bangladesh","water",0.360033462663273
+"Wheat gluten","Egypt","Russia","water",0.563375138284194
+"Wheat gluten","Thailand","Russia","water",0.647134068233483
+"Wheat gluten","Turkey","Russia","water",0.556778305663529
+"Wheat gluten","Congo (DRC)","Russia","water",0.512070041258601
+"Wheat gluten","Egypt","China","water",0.264898206683676
+"Wheat gluten","Thailand","China","water",0.677934367547867
+"Wheat gluten","Turkey","China","water",0.714228073794616
+"Wheat gluten","Congo (DRC)","China","water",0.657836609980648
+"Wheat gluten","Egypt","Philippines","water",0.331718428614489
+"Wheat gluten","Thailand","Philippines","water",0.507665492472806
+"Wheat gluten","Turkey","Philippines","water",0.357778669183708
+"Wheat gluten","Congo (DRC)","Philippines","water",0.899125738522588
+"Wheat gluten","Egypt","Iran","water",0.772519219584187
+"Wheat gluten","Thailand","Iran","water",0.607491205453599
+"Wheat gluten","Turkey","Iran","water",0.481851244666367
+"Wheat gluten","Congo (DRC)","Iran","water",0.45624878119209
+"Yeast meal","Pakistan","Russia","water",0.55709340148314
+"Yeast meal","China","Russia","water",0.653356246111037
+"Yeast meal","Thailand","Russia","water",0.438396349527822
+"Yeast meal","Ethiopia","Russia","water",0.563846198233484
+"Yeast meal","Japan","Russia","water",0.592019521595867
+"Yeast meal","United States","Russia","water",0.328159072675321
+"Yeast meal","Pakistan","Ethiopia","water",0.0318727042458785
+"Yeast meal","China","Ethiopia","water",0.428381728922384
+"Yeast meal","Thailand","Ethiopia","water",0.275254892149989
+"Yeast meal","Ethiopia","Ethiopia","water",0.249808918004786
+"Yeast meal","Japan","Ethiopia","water",0.562492209940817
+"Yeast meal","United States","Ethiopia","water",0.494724857327921
+"Yeast meal","Pakistan","Philippines","water",0.356874474703857
+"Yeast meal","China","Philippines","water",0.676565407604989
+"Yeast meal","Thailand","Philippines","water",0.307879468602744
+"Yeast meal","Ethiopia","Philippines","water",0.692944488256838
+"Yeast meal","Japan","Philippines","water",0.547623794387016
+"Yeast meal","United States","Philippines","water",0.46645736761687
+"Microingredients","Indonesia","Ethiopia","water",0.402780048890271
+"Microingredients","Iran","Ethiopia","water",0.184492153529303
+"Microingredients","Egypt","Ethiopia","water",0.357954035741235
+"Microingredients","Turkey","Ethiopia","water",0.505931600968577
+"Microingredients","Vietnam","Ethiopia","water",0.366396895374286
+"Microingredients","Indonesia","United States","water",0.54359953846113
+"Microingredients","Iran","United States","water",0.445392321645415
+"Microingredients","Egypt","United States","water",0.317372313914208
+"Microingredients","Turkey","United States","water",0.799391186779793
+"Microingredients","Vietnam","United States","water",0.634915291095925
+"Microingredients","Indonesia","Germany","water",0.612720772883868
+"Microingredients","Iran","Germany","water",0.356668407715241
+"Microingredients","Egypt","Germany","water",0.756357450880837
+"Microingredients","Turkey","Germany","water",0.431759701594416
+"Microingredients","Vietnam","Germany","water",0.448919795408255

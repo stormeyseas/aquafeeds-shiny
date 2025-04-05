@@ -1,0 +1,210 @@
+// Variables
+$theme-colors: (
+  'light': (
+    primary: #2c7a4d,    // Forest green
+    secondary: #5b8c5a,   // Sage green
+    background: #ffffff,  // White
+    surface: #ffffff,     // White
+    text: #1a472a,       // Dark green
+    border: #c9d6c7      // Light sage
+  ),
+  'dark': (
+    primary: #ff8533,    // Orange
+    secondary: #cc5200,   // Dark orange
+    background: #1c1c1c,  // Almost black
+    surface: #2d2d2d,    // Dark grey
+    text: #f0f0f0,       // Off-white
+    border: #404040      // Medium grey
+  )
+);
+
+// Mixins
+@mixin theme($theme) {
+  $colors: map-get($theme-colors, $theme);
+  
+  background-color: map-get($colors, 'background');
+  color: map-get($colors, 'text');
+
+  // Tab styling
+  .nav-tabs {
+    border-bottom: 1px solid map-get($colors, 'border');
+    
+    .nav-link {
+      color: map-get($colors, 'text');
+      &.active {
+        background-color: map-get($colors, 'surface');
+        border-color: map-get($colors, 'border');
+      }
+      &:hover {
+        border-color: map-get($colors, 'border');
+      }
+    }
+  }
+
+  // Sidebar styling
+  .sidebar {
+    background-color: map-get($colors, 'surface');
+    border-right: 1px solid map-get($colors, 'border');
+    padding: 1rem;
+
+    input, select {
+      background-color: map-get($colors, 'background');
+      border: 1px solid map-get($colors, 'border');
+      color: map-get($colors, 'text');
+    }
+
+    .row {
+      margin: 0 -8px;
+      
+      [class*="col-"] {
+        padding: 0 8px;
+        
+        .form-group {
+          margin-bottom: 1rem;
+        }
+        
+        input {
+          font-size: 0.9rem;
+        }
+      }
+    }
+  }
+
+  // Main content area
+  .main-content {
+    padding: 1rem;
+  }
+
+  // Validation messages
+  .validation-message {
+    &.warning {
+      color: #ffc107;
+    }
+    &.error {
+      color: #dc3545;
+    }
+  }
+
+  // Charts and plots
+  .plot-container {
+    background-color: map-get($colors, 'surface');
+    border: 1px solid map-get($colors, 'border');
+    border-radius: 4px;
+    padding: 1rem;
+  }
+}
+
+// Theme Implementation
+body {
+  &.light-theme {
+    @include theme('light');
+  }
+  
+  &.dark-theme {
+    @include theme('dark');
+  }
+}
+
+// Layout
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+// Components
+.numeric-input {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.help-text {
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+  opacity: 0.8;
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+  }
+}
+
+// Animations
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in;
+}
+
+// Bootstrap 5 Overrides
+.btn-primary {
+  @each $theme, $colors in $theme-colors {
+    .#{$theme}-theme & {
+      background-color: map-get($colors, 'primary');
+      border-color: map-get($colors, 'primary');
+    }
+  }
+}
+
+// Utility Classes
+.mt-1 { margin-top: 0.25rem; }
+.mt-2 { margin-top: 0.5rem; }
+.mt-3 { margin-top: 1rem; }
+.mb-1 { margin-bottom: 0.25rem; }
+.mb-2 { margin-bottom: 0.5rem; }
+.mb-3 { margin-bottom: 1rem; }
+
+// Theme toggle styling
+.theme-toggle {
+  .form-check {
+    padding-left: 0;
+  }
+  
+  .form-check-input {
+    width: 3rem;
+    height: 1.5rem;
+    margin-left: 0;
+    background-color: #6c757d;
+    border: none;
+    appearance: none;
+    border-radius: 1.5rem;
+    transition: background-color 0.15s ease-in-out;
+    cursor: pointer;
+    
+    &:checked {
+      background-color: #0d6efd;
+      border-color: #0d6efd;
+    }
+    
+    &:focus {
+      box-shadow: none;
+    }
+    
+    &::before {
+      content: '';
+      position: absolute;
+      width: 1.25rem;
+      height: 1.25rem;
+      background-color: #fff;
+      border-radius: 50%;
+      top: 0.125rem;
+      left: 0.125rem;
+      transition: transform 0.15s ease-in-out;
+    }
+    
+    &:checked::before {
+      transform: translateX(1.5rem);
+    }
+  }
+  
+  .form-check-label {
+    margin-left: 3.5rem;
+    color: var(--text-color);
+  }
+}

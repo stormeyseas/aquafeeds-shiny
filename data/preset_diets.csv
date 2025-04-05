@@ -1,0 +1,76 @@
+feed_name,ingredient,composition
+past,Black soldier-fly meal,0
+past,Canola oil,0
+past,Chicken protein concentrate,0
+past,Coconut oil,0
+past,Corn gluten meal,0.04
+past,Faba beans,0.02
+past,Fishmeal (forage),0.32
+past,Fishmeal (trimmings),0
+past,Fish oil (forage),0.23
+past,Fish oil (trimmings),0
+past,Guar meal,0
+past,Krill meal,0
+past,Linseed oil,0
+past,Methanobacterial meal,0
+past,Pea flour,0
+past,Pea protein concentrate,0
+past,Soybean meal,0.17
+past,Soybean oil,0
+past,Soy protein concentrate,0
+past,Spirulina meal,0
+past,Sunflower meal,0
+past,Wheat,0.07
+past,Wheat gluten,0.15
+past,Yeast meal,0
+past,Microingredients,0.04
+reference,Black soldier-fly meal,0
+reference,Canola oil,0.18
+reference,Chicken protein concentrate,0
+reference,Coconut oil,0.02
+reference,Corn gluten meal,0.01
+reference,Faba beans,0.04
+reference,Fishmeal (forage),0.09
+reference,Fishmeal (trimmings),0.03
+reference,Fish oil (forage),0.08
+reference,Fish oil (trimmings),0.02
+reference,Guar meal,0.04
+reference,Krill meal,0
+reference,Linseed oil,0.02
+reference,Methanobacterial meal,0
+reference,Pea flour,0.03
+reference,Pea protein concentrate,0.02
+reference,Soybean meal,0
+reference,Soybean oil,0.02
+reference,Soy protein concentrate,0.21
+reference,Spirulina meal,0
+reference,Sunflower meal,0.03
+reference,Wheat,0.06
+reference,Wheat gluten,0.1
+reference,Yeast meal,0
+reference,Microingredients,0.02
+future,Black soldier-fly meal,0.05
+future,Canola oil,0.15
+future,Chicken protein concentrate,0.1
+future,Coconut oil,0.02
+future,Corn gluten meal,0.08
+future,Faba beans,0
+future,Fishmeal (forage),0
+future,Fishmeal (trimmings),0.05
+future,Fish oil (forage),0.02
+future,Fish oil (trimmings),0.05
+future,Guar meal,0
+future,Krill meal,0.02
+future,Linseed oil,0.03
+future,Methanobacterial meal,0.07
+future,Pea flour,0
+future,Pea protein concentrate,0.05
+future,Soybean meal,0
+future,Soybean oil,0.02
+future,Soy protein concentrate,0.15
+future,Spirulina meal,0.07
+future,Sunflower meal,0
+future,Wheat,0
+future,Wheat gluten,0
+future,Yeast meal,0.07
+future,Microingredients,0.03
