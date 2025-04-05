@@ -1,5 +1,5 @@
 # nolint: line_length_linter.
-# Function to read CSV files
+# Function to safely read CSV files with error handling
 read_app_data <- function(filepath) {
   tryCatch({
     read.csv(filepath, stringsAsFactors = FALSE)
@@ -8,17 +8,22 @@ read_app_data <- function(filepath) {
   })
 }
 
-# Function to determine effective composition of ingredient
+# Function to calculate effective digestible composition of an ingredient
 digestible_composition <- function(dataframe, ingredient_name, component_name) {
-  # Check if the ingredient name is in the dataframe
+  # Check if ingredient exists
   if (!ingredient_name %in% dataframe$ingredient) {
     stop(paste("Ingredient", ingredient_name, "not found in the dataframe."))
   }
   
   # Calculate effective component composition
-  effective_composition <- dataframe$composition[dataframe$ingredient == ingredient_name & dataframe$component == component_name] * dataframe$digestibility[dataframe$ingredient == ingredient_name & dataframe$component == component_name]
+  effective_composition <- dataframe$composition[
+    dataframe$ingredient == ingredient_name & 
+    dataframe$component == component_name
+  ] * dataframe$digestibility[
+    dataframe$ingredient == ingredient_name & 
+    dataframe$component == component_name
+  ]
   
-  # Return the effective composition
   return(effective_composition)
 }
 
