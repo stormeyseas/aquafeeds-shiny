@@ -52,14 +52,103 @@ calculate_nutrient_total <- function(ingredients_df, ingredient_percentages, tar
   return(total)
 }
 
-# Function to create a centred title theme for ggplot objects
+# Function to create centered and properly styled plot theme
 my_plot_theme <- function() {
   theme(
     legend.position = "none",
-    text = element_text(size = 14),
-    axis.title = element_text(vjust = 0.5),
     plot.title = element_text(hjust = 0.5, size = 16, face = "bold"),
-    plot.title.position = "plot"
+    plot.title.position = "plot",
+    axis.line.x = element_blank(),
+    panel.border = element_blank(),
+    text = element_text(size = 12)
   )
 }
 
+# Get list of ingredients with non-zero percentages
+get_active_ingredients <- function(input, ingredients_df) {
+  all_ingredients <- sort(unique(ingredients_df$ingredient))
+  all_ingredients <- all_ingredients[!all_ingredients %in% c("Fishmeal trimmings", "Fish oil trimmings")]
+  
+  active <- sapply(all_ingredients, function(ing) {
+    value <- as.numeric(input[[paste0("ing_", make.names(ing))]]) %||% 0
+    value > 0
+  })
+  
+  return(names(active)[active])
+}
+
+# Get selected countries and their roles
+get_selected_countries <- function(input, active_ingredients) {
+  countries <- data.frame(
+    country = character(),
+    role = character(),
+    stringsAsFactors = FALSE
+  )
+  
+  for (ing in active_ingredients) {
+    source_country <- input[[paste0("source_", make.names(ing))]]
+    process_country <- input[[paste0("process_", make.names(ing))]]
+    
+    if (!is.null(source_country)) {
+      countries <- rbind(countries, 
+                        data.frame(country = source_country, 
+                                 role = "source"))
+    }
+    if (!is.null(process_country)) {
+      countries <- rbind(countries, 
+                        data.frame(country = process_country, 
+                                 role = "process"))
+    }
+  }
+  
+  # Aggregate roles for countries that appear multiple times
+  countries <- countries %>%
+    group_by(country) %>%
+    summarise(role = case_when(
+      all(role == "source") ~ "source",
+      all(role == "process") ~ "process",
+      TRUE ~ "both"
+    )) %>% 
+    mutate( 
+      role = factor(role, levels = c("source", "process", "both"))
+    )
+  
+  return(countries)
+}
+
+# Create plotly map with selected countries highlighted
+create_sourcing_map <- function(countries_data) {
+  # Define colors for different roles
+  role_colors <- c(
+    "source" = "red",
+    "process" = "blue",
+    "both" = "purple"
+  )
+  
+  # Create base map
+  plot_ly() %>%
+    add_trace(
+      type = "choropleth",
+      locationmode = "country names",
+      locations = countries_data$country,
+      z = as.numeric(factor(countries_data$role)),
+      text = paste0(
+        countries_data$country, "<br>",
+        "Role: ", countries_data$role
+      ),
+      colorscale = list(
+        list(1, role_colors["source"]),
+        list(2, role_colors["process"]),
+        list(3, role_colors["both"])
+      ),
+      showscale = FALSE
+    ) %>%
+    layout(
+      title = NULL,
+      geo = list(
+        showframe = FALSE,
+        showcoastlines = TRUE,
+        projection = list(type = 'equirectangular')
+      )
+    )
+}

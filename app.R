@@ -8,6 +8,8 @@ library(dplyr)
 library(sass)
 library(bslib)
 library(shinyWidgets)
+library(plotly)
+library(countrycode)
 
 # Global variables
 CLP_fill <- c(carbohydrate = "#FF9999", lipid = "#66B3FF", protein = "#99FF99")
@@ -59,8 +61,30 @@ ui <- fluidPage(
         )
       )
     ),
+    # Tab 2: Sourcing
+    tabPanel("Sourcing",
+      sidebarLayout(
+        sidebarPanel(
+          # Dynamic UI for ingredient sourcing/processing choices
+          uiOutput("sourcing_inputs")
+        ),
+        mainPanel(
+          # Instructions
+          card(
+            div(style = "padding: 10px;",
+              h4("Instructions"),
+              helpText(read_app_data("data/UI.csv") %>% filter(element == "sourcing_help") %>% pull(text))
+            )
+          ),
+          # Map output
+          div(style = "margin-top: 20px;",
+            h4("Map of ingredient sourcing and processing locations"),
+            plotlyOutput("sourcing_map", height = "600px")
+          )
+        )
+      )
+    ),
     # Placeholder tabs
-    tabPanel("Sourcing", "Content coming soon"),
     tabPanel("Local inputs", "Content coming soon"),
     tabPanel("Global inputs", "Content coming soon"),
     tabPanel("Biodiversity impacts", "Content coming soon"),
@@ -71,9 +95,26 @@ ui <- fluidPage(
 
 # Server Definition
 server <- function(input, output, session) {
-  # Load ingredient data
+  # Load data
   ingredients <- read_app_data("data/ingredients.csv")
   preset_diets <- read_app_data("data/preset_diets.csv")
+  sourcing_data <- read_app_data("data/sourcing_processing.csv")
+
+  # Observer for preset diet selection
+  observeEvent(input$preset_diet, {
+    if (input$preset_diet != "Custom") {
+      diet_data <- preset_diets %>%
+        filter(feed_name == input$preset_diet)
+      
+      # Update each ingredient input
+      for (i in seq_len(nrow(diet_data))) {
+        updateNumericInput(session,
+          inputId = paste0("ing_", make.names(diet_data$ingredient[i])),
+          value = diet_data$composition[i] * 100
+        )
+      }
+    }
+  })
 
   # Generate ingredient input fields
   output$ingredient_inputs <- renderUI({
@@ -277,7 +318,62 @@ server <- function(input, output, session) {
       # }
 }
 
+  # Generate sourcing input fields
+  output$sourcing_inputs <- renderUI({
+    # Get ingredients with non-zero percentages
+    active_ingredients <- get_active_ingredients(input, ingredients)
+    
+    if (length(active_ingredients) == 0) {
+      return(h4("Please select ingredients in the Feed Composition tab first"))
+    }
+
+
+    # Create input fields for each active ingredient
+    lapply(active_ingredients, function(ing) {
+      # Get unique countries from sourcing data
+      source_countries <- sort(unique(sourcing_data$raw_material[sourcing_data$ingredient == ing]))
+      process_countries <- sort(unique(sourcing_data$processing[sourcing_data$ingredient == ing]))
+
+      div(
+        # style = "margin-bottom: 20px;",
+        h4(ing),
+        fluidRow(
+          column(6,
+            selectInput(
+              inputId = paste0("source_", make.names(ing)),
+              label = NULL,
+              choices = source_countries
+            )
+          ),
+          column(6,
+            selectInput(
+              inputId = paste0("process_", make.names(ing)),
+              label = NULL,
+              choices = process_countries
+            )
+          )
+        )
+      )
+    })
+  })
+
+  # Create the sourcing map
+  output$sourcing_map <- renderPlotly({
+    # Get active ingredients and their locations
+    active_ingredients <- get_active_ingredients(input, ingredients)
+    
+    if (length(active_ingredients) == 0) {
+      return(plot_ly() %>% 
+             layout(title = "Please select ingredients in the Feed Composition tab"))
+    }
+
+    # Collect selected countries and their roles
+    countries_data <- get_selected_countries(input, active_ingredients)
+    
+    # Create the map
+    create_sourcing_map(countries_data)
+  })
+}
+
 # Run app
 shinyApp(ui = ui, server = server)
-
-
