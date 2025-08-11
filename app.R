@@ -255,6 +255,102 @@ server <- function(input, output, session) {
     return(result)
   })
 
+  # Calculate ingredient type breakdown
+  ingredient_type_breakdown <- reactive({
+    total <- total_percentage()
+    if (total == 0) return(NULL)
+
+    # Get all ingredient inputs using proper names
+    all_ingredients <- sort(unique(ingredients$ingredient))
+
+    # Create a named vector of input values
+    ing_values <- sapply(all_ingredients, function(ing) {
+      as.numeric(input[[paste0("ing_", make.names(ing))]]) %||% 0
+    })
+    names(ing_values) <- all_ingredients
+
+    # Scale inputs to 100%
+    scaled_inputs <- ing_values / sum(ing_values) * 100
+
+    # Get unique ingredient types (categories)
+    ingredient_types <- c("marine", "plant", "animal", "novel", "other")
+    components <- c("protein", "lipid", "carbohydrate")
+    
+    # Initialize result data frame
+    result <- expand.grid(
+      Type = factor(ingredient_types, levels = ingredient_types, labels = c("Marine", "Plant", "Animal", "Novel", "Other")),
+      component = components,
+      stringsAsFactors = FALSE
+    )
+    result$digestible_pct <- 0
+    result$total_pct <- 0
+
+    # Calculate total amounts for each component (for percentage calculation)
+    total_amounts <- sapply(components, function(comp) {
+      sum(sapply(names(scaled_inputs), function(ing) {
+        if (scaled_inputs[ing] > 0) {
+          scaled_inputs[ing] * simple_composition(ingredients, ing, comp) / 100
+        } else {
+          0
+        }
+      }))
+    })
+    
+    digestible_amounts <- sapply(components, function(comp) {
+      sum(sapply(names(scaled_inputs), function(ing) {
+        if (scaled_inputs[ing] > 0) {
+          scaled_inputs[ing] * digestible_composition(ingredients, ing, comp) / 100
+        } else {
+          0
+        }
+      }))
+    })
+
+    # Calculate breakdown by ingredient type
+    for (i in seq_len(nrow(result))) {
+      type <- tolower(as.character(result$Type[i]))
+      comp <- result$component[i]
+      
+      # Get ingredients of this type
+      type_ingredients <- ingredients %>%
+        filter(category == type) %>%
+        pull(ingredient) %>%
+        unique()
+      
+      # Calculate total and digestible amounts for this type and component
+      type_total <- sum(sapply(type_ingredients, function(ing) {
+        if (ing %in% names(scaled_inputs) && scaled_inputs[ing] > 0) {
+          scaled_inputs[ing] * simple_composition(ingredients, ing, comp) / 100
+        } else {
+          0
+        }
+      }))
+      
+      type_digestible <- sum(sapply(type_ingredients, function(ing) {
+        if (ing %in% names(scaled_inputs) && scaled_inputs[ing] > 0) {
+          scaled_inputs[ing] * digestible_composition(ingredients, ing, comp) / 100
+        } else {
+          0
+        }
+      }))
+      
+      # Calculate percentages
+      result$total_pct[i] <- if (total_amounts[comp] > 0) {
+        round(type_total / total_amounts[comp] * 100, 1)
+      } else {
+        0
+      }
+      
+      result$digestible_pct[i] <- if (digestible_amounts[comp] > 0) {
+        round(type_digestible / digestible_amounts[comp] * 100, 1)
+      } else {
+        0
+      }
+    }
+
+    return(result)
+  })
+
   # Render nutrition plot
   output$nutrition_plot <- renderPlot({
     # Check if we have data to plot
@@ -313,6 +409,61 @@ server <- function(input, output, session) {
       theme(legend.position = "top") +
       guides(fill = "none", linetype = "none")
     }
+  })
+
+  # Render ingredient breakdown table
+  output$ingredient_breakdown_table <- renderDT({
+    breakdown_data <- ingredient_type_breakdown()
+    if (is.null(breakdown_data)) {
+      return(NULL)
+    }
+    
+    # Reshape data for table display
+    table_data <- breakdown_data %>%
+      select(Type, component, digestible_pct, total_pct) %>%
+      pivot_wider(
+        names_from = component,
+        values_from = c(digestible_pct, total_pct),
+        names_glue = "{component}_{.value}"
+      ) %>%
+      select(
+        Type,
+        protein_digestible_pct, lipid_digestible_pct, carbohydrate_digestible_pct,
+        protein_total_pct, lipid_total_pct, carbohydrate_total_pct
+      )
+    
+    # Format the table data - add % to numeric columns only
+    table_data[, 2:7] <- lapply(table_data[, 2:7], function(x) paste0(x, "%"))
+    
+    datatable(
+      table_data,
+      options = list(
+        dom = 't',
+        paging = FALSE,
+        searching = FALSE,
+        info = FALSE,
+        ordering = FALSE,
+        columnDefs = list(
+          list(className = 'dt-center', targets = 1:6)
+        )
+      ),
+      container = htmltools::withTags(table(
+        class = 'display',
+        thead(
+          tr(
+            th(rowspan = 2, "Type"),
+            th(colspan = 3, "Digestible", style = "text-align: center; border-bottom: 1px solid #ddd;"),
+            th(colspan = 3, "Total", style = "text-align: center; border-bottom: 1px solid #ddd;")
+          ),
+          tr(
+            th("Protein"), th("Lipid"), th("Carbohydrate"),
+            th("Protein"), th("Lipid"), th("Carbohydrate")
+          )
+        )
+      )),
+      rownames = FALSE,
+      colnames = rep("", 7)
+    )
   })
 
   # Generate sourcing input fields
