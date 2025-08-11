@@ -32,7 +32,8 @@ sass(
 )
 
 # Source functions
-source("functions.R")
+source("general_functions.R")
+source("local_input_model_functions.R")
 
 # UI Definition
 ui <- fluidPage(
