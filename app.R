@@ -115,7 +115,7 @@ server <- function(input, output, session) {
       for (i in seq_len(nrow(diet_data))) {
         updateNumericInput(session,
           inputId = paste0("ing_", make.names(diet_data$ingredient[i])),
-          value = diet_data$composition[i] * 100
+          value = round(diet_data$composition[i] * 100, 1)
         )
       }
     }
@@ -123,35 +123,66 @@ server <- function(input, output, session) {
 
   # Generate ingredient input fields
   output$ingredient_inputs <- renderUI({
-    # Get all ingredients except trimmings versions
+    # Get all ingredients and group by category
     all_ingredients <- sort(unique(ingredients$ingredient))
-    mid_point <- ceiling((length(all_ingredients)-2)/2)
-
-    # Create two column layout
-    fluidRow(
-      column(6,
-        lapply(all_ingredients[1:mid_point], function(ing) {
-            numericInput(
-              inputId = paste0("ing_", make.names(ing)),
-              label = nice_ing_names(ing),
-              value = 0,
-              min = 0,
-              max = 100
-            )
-        })
-      ),
-      column(6,
-        lapply(all_ingredients[(mid_point+1):length(all_ingredients)], function(ing) {
-            numericInput(
-              inputId = paste0("ing_", make.names(ing)),
-              label = nice_ing_names(ing),
-              value = 0,
-              min = 0,
-              max = 100
-            )
-        })
+    
+    # Create a list to group ingredients by category
+    ingredient_categories <- ingredients %>%
+      select(ingredient, category) %>%
+      distinct() %>%
+      arrange(category, ingredient)
+    
+    # Get unique categories in order
+    categories <- unique(ingredient_categories$category)
+    
+    # Create sections for each category
+    category_sections <- lapply(categories, function(cat) {
+      # Get ingredients for this category
+      cat_ingredients <- ingredient_categories %>%
+        filter(category == cat) %>%
+        pull(ingredient)
+      
+      # Calculate midpoint for two-column layout
+      mid_point <- ceiling(length(cat_ingredients)/2)
+      
+      # Create category section with header and two columns
+      div(
+        style = "margin-bottom: 20px;",
+        h4(paste(toupper(substring(cat, 1, 1)), substring(cat, 2), " ingredients", sep = ""),
+           style = "color: #666; border-bottom: 1px solid #ddd; padding-bottom: 5px; margin-bottom: 10px;"),
+        fluidRow(
+          column(6,
+            if(length(cat_ingredients) > 0) {
+              lapply(cat_ingredients[1:min(mid_point, length(cat_ingredients))], function(ing) {
+                numericInput(
+                  inputId = paste0("ing_", make.names(ing)),
+                  label = nice_ing_names(ing),
+                  value = 0,
+                  min = 0,
+                  max = 100
+                )
+              })
+            }
+          ),
+          column(6,
+            if(length(cat_ingredients) > mid_point) {
+              lapply(cat_ingredients[(mid_point+1):length(cat_ingredients)], function(ing) {
+                numericInput(
+                  inputId = paste0("ing_", make.names(ing)),
+                  label = nice_ing_names(ing),
+                  value = 0,
+                  min = 0,
+                  max = 100
+                )
+              })
+            }
+          )
+        )
       )
-    )
+    })
+    
+    # Return all category sections
+    do.call(tagList, category_sections)
   })
 
   # Calculate total percentage of ingredients
