@@ -188,7 +188,6 @@ server <- function(input, output, session) {
   # Calculate total percentage of ingredients
   total_percentage <- reactive({
     all_ingredients <- sort(unique(ingredients$ingredient))
-    all_ingredients <- all_ingredients[!all_ingredients %in% c("Fishmeal trimmings", "Fish oil trimmings")]
     sum(sapply(all_ingredients, function(ing) {
       as.numeric(input[[paste0("ing_", make.names(ing))]]) %||% 0
     }))
@@ -200,7 +199,7 @@ server <- function(input, output, session) {
     if (total == 0) {
       return("Please add ingredients to your feed mix.")
     } else if (total != 100) {
-      return(sprintf("Current total: %.1f%% (ingredients will be scaled to 100%%)", total))
+      return(sprintf("Current total: %.1f%% (ingredients are automatically scaled to 100%%)", total))
     }
     return(NULL)
   })
@@ -212,20 +211,10 @@ server <- function(input, output, session) {
 
     # Get all ingredient inputs using proper names
     all_ingredients <- sort(unique(ingredients$ingredient))
-    all_ingredients <- all_ingredients[!all_ingredients %in% c("Fishmeal trimmings", "Fish oil trimmings")]
 
     # Create a named vector of input values
     ing_values <- sapply(all_ingredients, function(ing) {
-      value <- as.numeric(input[[paste0("ing_", make.names(ing))]]) %||% 0
-
-      # Handle trimmings substitution
-      if (ing == make.names("Fishmeal forage") && input$use_trimmings_Fishmeal.trimmings.) {
-        ing <- make.names("Fishmeal trimmings")
-      }
-      if (ing == make.names("Fish oil forage") && input$use_trimmings_Fish.oil.trimmings.) {
-        ing <- make.names("Fish oil trimmings")
-      }
-      value
+      as.numeric(input[[paste0("ing_", make.names(ing))]]) %||% 0
     })
     names(ing_values) <- all_ingredients
 
