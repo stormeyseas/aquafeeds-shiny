@@ -8,6 +8,22 @@ read_app_data <- function(filepath) {
   })
 }
 
+# Function to calculate total composition of an ingredient (digestible or not)
+simple_composition <- function(dataframe, ingredient_name, component_name) {
+  # Check if ingredient exists
+  if (!ingredient_name %in% dataframe$ingredient) {
+    stop(paste("Ingredient", ingredient_name, "not found in the dataframe."))
+  }
+  
+  # Calculate component composition
+  total_composition <- dataframe$composition[
+    dataframe$ingredient == ingredient_name & 
+    dataframe$component == component_name
+  ]
+
+  return(total_composition)
+}
+
 # Function to calculate effective digestible composition of an ingredient
 digestible_composition <- function(dataframe, ingredient_name, component_name) {
   # Check if ingredient exists
@@ -65,7 +81,7 @@ my_plot_theme <- function() {
     plot.title.position = "plot",
     axis.line.x = element_blank(),
     panel.border = element_blank(),
-    text = element_text(size = 12)
+    text = element_text(size = 14)
   )
 }
 
