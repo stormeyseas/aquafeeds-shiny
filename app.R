@@ -125,70 +125,30 @@ server <- function(input, output, session) {
   output$ingredient_inputs <- renderUI({
     # Get all ingredients except trimmings versions
     all_ingredients <- sort(unique(ingredients$ingredient))
-    all_ingredients <- all_ingredients[!all_ingredients %in% c("Fishmeal trimmings", "Fish oil trimmings")]
-    ing_names <- paste0("ing_", make.names(all_ingredients))
     mid_point <- ceiling((length(all_ingredients)-2)/2)
 
     # Create two column layout
     fluidRow(
       column(6,
         lapply(all_ingredients[1:mid_point], function(ing) {
-          if (ing %in% c("Fishmeal forage", "Fish oil forage")) {
-            # For forage ingredients, add a checkbox for trimmings
-            div(
-              style = "margin-bottom: 15px;",
-              numericInput(
-                inputId = paste0("ing_", make.names(ing)),
-                label = ing,
-                value = 0,
-                min = 0,
-                max = 100
-              ),
-              checkboxInput(
-                inputId = paste0("use_trimmings_", sub("forage", "trimmings", make.names(ing))),
-                label = "Use trimmings",
-                value = FALSE
-              )
-            )
-          } else {
             numericInput(
               inputId = paste0("ing_", make.names(ing)),
-              label = ing,
+              label = nice_ing_names(ing),
               value = 0,
               min = 0,
               max = 100
             )
-          }
         })
       ),
       column(6,
         lapply(all_ingredients[(mid_point+1):length(all_ingredients)], function(ing) {
-          if (ing %in% c("Fishmeal forage", "Fish oil forage")) {
-            # For forage ingredients, add a checkbox for trimmings
-            div(
-              style = "margin-bottom: 15px;",
-              numericInput(
-                inputId = paste0("ing_", make.names(ing)),
-                label = ing,
-                value = 0,
-                min = 0,
-                max = 100
-              ),
-              checkboxInput(
-                inputId = paste0("use_trimmings_", sub("forage", "trimmings", make.names(ing))),
-                label = "Use trimmings",
-                value = FALSE
-              )
-            )
-          } else {
             numericInput(
               inputId = paste0("ing_", make.names(ing)),
-              label = ing,
+              label = nice_ing_names(ing),
               value = 0,
               min = 0,
               max = 100
             )
-          }
         })
       )
     )

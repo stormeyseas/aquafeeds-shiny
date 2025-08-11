@@ -157,3 +157,13 @@ create_sourcing_map <- function(countries_data) {
       )
     )
 }
+
+# Function to fix ingredient names into nice labels for UI
+nice_ing_names <- function(ing) {
+  ing %>% 
+    str_remove("ing_") %>% 
+    str_replace_all("-", " ") %>% 
+    str_to_sentence() %>% 
+    str_replace("Bsf", "Black soldier fly") %>% 
+    str_replace("Meat bone", "Meat & bone")
+}
