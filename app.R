@@ -202,7 +202,7 @@ server <- function(input, output, session) {
   output$validation_message <- renderText({
     total <- total_percentage()
     if (total == 0) {
-      return("Please add ingredients to your feed mix")
+      return("Please add ingredients to your feed mix.")
     } else if (total != 100) {
       return(sprintf("Current total: %.1f%% (ingredients will be scaled to 100%%)", total))
     }
@@ -284,17 +284,21 @@ server <- function(input, output, session) {
     # Add salmon requirements if checkbox is checked
     if (input$show_requirements) {
       salmon_requirements <- read_app_data("data/salmon_requirements.csv")
+      p_seg <- list()
       # Add segments for each component's requirements
       for (comp in c("carbohydrate", "lipid", "protein")) {
         req <- salmon_requirements[salmon_requirements$component == comp, ]
         if (!is.na(req$min)) {
-          p <- p + geom_segment(
+          p_seg[[comp]] <- geom_segment(
             data = req,
-            aes(x = comp, xend = comp,
-                y = min * 100, yend = max * 100),
-            linetype = "dashed", size = 1
+            aes(x = component, xend = component, y = min * 100, yend = max * 100),
+            linewidth = 1
           )
+        } else {p_seg[[comp]] <- NA}
         }
+      # Add each non-NA segment to the plot
+      for (seg in seq_along(p_seg)) {
+        if (!any(is.na(p_seg[[seg]]))) {p <- p + p_seg[[seg]]}
       }
     }
     p
