@@ -5,6 +5,7 @@ library(shiny)
 library(readr)
 library(ggplot2)
 library(dplyr)
+library(tidyr)
 library(sass)
 library(bslib)
 library(shinyWidgets)
@@ -225,21 +226,32 @@ server <- function(input, output, session) {
     components <- unique(ingredients$component)
     result <- data.frame(
       component = components,
-      amount = numeric(length(components))
+      total = numeric(length(components)),
+      digestible = numeric(length(components))
     )
 
     # Calculate amount for each component
     for (i in seq_along(components)) {
       comp <- components[i]
-      result$amount[i] <- sum(sapply(names(scaled_inputs), function(ing) {
+      result$total[i] <- sum(sapply(names(scaled_inputs), function(ing) {
+        if (scaled_inputs[ing] > 0) {
+          scaled_inputs[ing] * simple_composition(ingredients, ing, comp) / 100
+        } else {
+          0
+        }}))
+      result$digestible[i] <- sum(sapply(names(scaled_inputs), function(ing) {
         if (scaled_inputs[ing] > 0) {
           scaled_inputs[ing] * digestible_composition(ingredients, ing, comp) / 100
         } else {
           0
-        }
-      }))
+        }}))
     }
-
+    result <- result %>% 
+      pivot_longer(
+        names_to = "type", names_transform = list(type = as.factor),
+        values_to = "amount",
+        cols = c("digestible", "total")
+      )
     return(result)
   })
 
@@ -255,38 +267,48 @@ server <- function(input, output, session) {
         ylim(0, 1)
     } else {
       # Create nutrition composition plot
-      p <- ggplot(nutrition_data(), aes(x = component, y = amount*100, fill = component)) +
-        geom_bar(stat = "identity", colour = "black") +
-        scale_x_discrete(limits = c("carbohydrate", "lipid", "protein"),
-                        labels = c("Carbohydrate", "Lipid", "Protein")) +
-        scale_fill_manual(values = CLP_fill) +
-        labs(title = "Nutritional Composition of Aquafeed",
-             x = "Component",
-             y = "Amount (%)") +
-        theme_classic() +
-        my_plot_theme()
+      p <- ggplot(nutrition_data(), aes(x = component, y = amount*100, fill = component, alpha = type)) +
+        geom_bar(
+          position = position_dodge(), 
+          width = 0.95,
+          stat = "identity", 
+          colour = "black"
+        )
+      # See below for plot display specs
 
     # Add salmon requirements if checkbox is checked
     if (input$show_requirements) {
       salmon_requirements <- read_app_data("data/salmon_requirements.csv")
-      p_seg <- list()
-      # Add segments for each component's requirements
-      for (comp in c("carbohydrate", "lipid", "protein")) {
-        req <- salmon_requirements[salmon_requirements$component == comp, ]
-        if (!is.na(req$min)) {
-          p_seg[[comp]] <- geom_segment(
-            data = req,
-            aes(x = component, xend = component, y = min * 100, yend = max * 100),
-            linewidth = 1
+      salmon_requirements <- rbind(
+        salmon_requirements %>% mutate(type = "digestible"),
+        salmon_requirements %>% mutate(type = "total")
+      ) %>% 
+        mutate(
+          min = case_when(type == "total" ~ NA, T ~ min),
+          max = case_when(type == "total" ~ NA, T ~ max),
+          type = as.factor(type)
+      )
+
+      p <- p + 
+        geom_errorbar(
+            data = salmon_requirements,
+            aes(x = component, ymin = min * 100, ymax = max * 100, fill = component, linetype = type),
+            position = position_dodge(width = 0.95),
+            width = 0.25,
+            linewidth = 1, 
+            inherit.aes = F
           )
-        } else {p_seg[[comp]] <- NA}
-      }
-      # Add each non-NA segment to the plot
-      for (seg in seq_along(p_seg)) {
-        if (!any(is.na(p_seg[[seg]]))) {p <- p + p_seg[[seg]]}
-      }
     }
-    p
+    p +
+      scale_x_discrete(limits = c("carbohydrate", "lipid", "protein"),
+                      labels = c("Carbohydrate", "Lipid", "Protein")) +
+      scale_fill_manual(values = CLP_fill) +
+      scale_alpha_manual(values = c("total" = 1, "digestible" = 0.25)) +
+      labs(title = "Nutritional Composition of Aquafeed",
+            x = "Component", y = "Amount (%)") +
+      theme_classic() +
+      my_plot_theme() +
+      theme(legend.position = "top")
     }
   })
 
