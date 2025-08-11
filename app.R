@@ -303,12 +303,15 @@ server <- function(input, output, session) {
       scale_x_discrete(limits = c("carbohydrate", "lipid", "protein"),
                       labels = c("Carbohydrate", "Lipid", "Protein")) +
       scale_fill_manual(values = CLP_fill) +
-      scale_alpha_manual(values = c("total" = 1, "digestible" = 0.25)) +
+      scale_alpha_manual(values = c("total" = 1, "digestible" = 0.25),
+                        labels = c("digestible" = "Digestible", "total" = "Total"),
+                        name = NULL) +
       labs(title = "Nutritional Composition of Aquafeed",
             x = "Component", y = "Amount (%)") +
       theme_classic() +
       my_plot_theme() +
-      theme(legend.position = "top")
+      theme(legend.position = "top") +
+      guides(fill = "none", linetype = "none")
     }
   })
 
