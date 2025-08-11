@@ -36,7 +36,12 @@ ui <- fluidPage(
       sidebarLayout(
         sidebarPanel(
           selectInput("preset_diet", "Select preset diet:", 
-                      choices = c("Custom", "Past" = "past", "Reference" = "reference", "Future" = "future")),
+                      choices = c(
+                      "Custom", 
+                      "Marine-dominant" = "marine_dominant", 
+                      "Plant-dominant" = "plant_dominant", 
+                      "Novel-inclusive" = "novel_inclusive"
+                    )),
           # Ingredient inputs will be generated dynamically
           uiOutput("ingredient_inputs"),
           tags$div(
@@ -295,7 +300,7 @@ server <- function(input, output, session) {
             linewidth = 1
           )
         } else {p_seg[[comp]] <- NA}
-        }
+      }
       # Add each non-NA segment to the plot
       for (seg in seq_along(p_seg)) {
         if (!any(is.na(p_seg[[seg]]))) {p <- p + p_seg[[seg]]}

@@ -1,76 +1,103 @@
 feed_name,ingredient,composition
-past,Black soldier-fly meal,0
-past,Canola oil,0
-past,Chicken protein concentrate,0
-past,Coconut oil,0
-past,Corn gluten meal,0.04
-past,Faba beans,0.02
-past,Fishmeal forage,0.32
-past,Fishmeal trimmings,0
-past,Fish oil forage,0.23
-past,Fish oil trimmings,0
-past,Guar meal,0
-past,Krill meal,0
-past,Linseed oil,0
-past,Methanobacterial meal,0
-past,Pea flour,0
-past,Pea protein concentrate,0
-past,Soybean meal,0.17
-past,Soybean oil,0
-past,Soy protein concentrate,0
-past,Spirulina meal,0
-past,Sunflower meal,0
-past,Wheat,0.07
-past,Wheat gluten,0.15
-past,Yeast meal,0
-past,Microingredients,0.04
-reference,Black soldier-fly meal,0
-reference,Canola oil,0.18
-reference,Chicken protein concentrate,0
-reference,Coconut oil,0.02
-reference,Corn gluten meal,0.01
-reference,Faba beans,0.04
-reference,Fishmeal forage,0.09
-reference,Fishmeal trimmings,0.03
-reference,Fish oil forage,0.08
-reference,Fish oil trimmings,0.02
-reference,Guar meal,0.04
-reference,Krill meal,0
-reference,Linseed oil,0.02
-reference,Methanobacterial meal,0
-reference,Pea flour,0.03
-reference,Pea protein concentrate,0.02
-reference,Soybean meal,0
-reference,Soybean oil,0.02
-reference,Soy protein concentrate,0.21
-reference,Spirulina meal,0
-reference,Sunflower meal,0.03
-reference,Wheat,0.06
-reference,Wheat gluten,0.1
-reference,Yeast meal,0
-reference,Microingredients,0.02
-future,Black soldier-fly meal,0.05
-future,Canola oil,0.15
-future,Chicken protein concentrate,0.1
-future,Coconut oil,0.02
-future,Corn gluten meal,0.08
-future,Faba beans,0
-future,Fishmeal forage,0
-future,Fishmeal trimmings,0.05
-future,Fish oil forage,0.02
-future,Fish oil trimmings,0.05
-future,Guar meal,0
-future,Krill meal,0.02
-future,Linseed oil,0.03
-future,Methanobacterial meal,0.07
-future,Pea flour,0
-future,Pea protein concentrate,0.05
-future,Soybean meal,0
-future,Soybean oil,0.02
-future,Soy protein concentrate,0.15
-future,Spirulina meal,0.07
-future,Sunflower meal,0
-future,Wheat,0
-future,Wheat gluten,0
-future,Yeast meal,0.07
-future,Microingredients,0.03
+marine_dominant,chicken-protein-concentrate,0
+marine_dominant,feather-meal,0
+marine_dominant,meat-bone-meal,0
+marine_dominant,ovine-meal,0
+marine_dominant,poultry-meal,0
+marine_dominant,fishmeal-forage,0.307101727
+marine_dominant,fishmeal-trimmings,0
+marine_dominant,fish-oil-forage,0.220729367
+marine_dominant,fish-oil-trimmings,0
+marine_dominant,krill-meal,0
+marine_dominant,bsf-meal,0
+marine_dominant,single-cell-protein,0
+marine_dominant,spirulina-meal,0
+marine_dominant,yeast-meal,0
+marine_dominant,microingredients,0.040307102
+marine_dominant,canola-meal,0
+marine_dominant,canola-oil,0
+marine_dominant,coconut-oil,0
+marine_dominant,corn-gluten,0.038387716
+marine_dominant,faba-beans,0.019193858
+marine_dominant,guar-meal,0
+marine_dominant,guar-meal-high-protein,0
+marine_dominant,linseed-oil,0
+marine_dominant,pea-flour,0
+marine_dominant,pea-protein-concentrate,0
+marine_dominant,rapeseed-oil,0
+marine_dominant,soybean-meal,0.163147793
+marine_dominant,soybean-oil,0
+marine_dominant,soy-protein-concentrate,0
+marine_dominant,sunflower-meal,0
+marine_dominant,sunflower-meal-high-protein,0
+marine_dominant,tapioca,0
+marine_dominant,wheat,0.067178503
+marine_dominant,wheat-gluten,0.143953935
+plant_dominant,chicken-protein-concentrate,0
+plant_dominant,feather-meal,0
+plant_dominant,meat-bone-meal,0
+plant_dominant,ovine-meal,0
+plant_dominant,poultry-meal,0
+plant_dominant,fishmeal-forage,0.08365019
+plant_dominant,fishmeal-trimmings,0.031368821
+plant_dominant,fish-oil-forage,0.079847909
+plant_dominant,fish-oil-trimmings,0.019011407
+plant_dominant,krill-meal,0.003802281
+plant_dominant,bsf-meal,0
+plant_dominant,single-cell-protein,0
+plant_dominant,spirulina-meal,0
+plant_dominant,yeast-meal,0
+plant_dominant,microingredients,0.039923954
+plant_dominant,canola-meal,0
+plant_dominant,canola-oil,0.171102662
+plant_dominant,coconut-oil,0.009505703
+plant_dominant,corn-gluten,0.006653992
+plant_dominant,faba-beans,0.034220532
+plant_dominant,guar-meal,0.040874525
+plant_dominant,guar-meal-high-protein,0.040874525
+plant_dominant,linseed-oil,0.012357414
+plant_dominant,pea-flour,0.023764259
+plant_dominant,pea-protein-concentrate,0.013307985
+plant_dominant,rapeseed-oil,0
+plant_dominant,soybean-meal,0
+plant_dominant,soybean-oil,0.003802281
+plant_dominant,soy-protein-concentrate,0.198669202
+plant_dominant,sunflower-meal,0.032319392
+plant_dominant,sunflower-meal-high-protein,0
+plant_dominant,tapioca,0
+plant_dominant,wheat,0.061787072
+plant_dominant,wheat-gluten,0.093155894
+novel_inclusive,chicken-protein-concentrate,0.097370983
+novel_inclusive,feather-meal,0
+novel_inclusive,meat-bone-meal,0
+novel_inclusive,ovine-meal,0
+novel_inclusive,poultry-meal,0
+novel_inclusive,fishmeal-forage,0
+novel_inclusive,fishmeal-trimmings,0.048685492
+novel_inclusive,fish-oil-forage,0.019474197
+novel_inclusive,fish-oil-trimmings,0.048685492
+novel_inclusive,krill-meal,0.019474197
+novel_inclusive,bsf-meal,0.048685492
+novel_inclusive,single-cell-protein,0.068159688
+novel_inclusive,spirulina-meal,0.068159688
+novel_inclusive,yeast-meal,0.068159688
+novel_inclusive,microingredients,0.045764362
+novel_inclusive,canola-meal,0
+novel_inclusive,canola-oil,0.146056475
+novel_inclusive,coconut-oil,
+novel_inclusive,corn-gluten,0.077896787
+novel_inclusive,faba-beans,0
+novel_inclusive,guar-meal,0
+novel_inclusive,guar-meal-high-protein,0
+novel_inclusive,linseed-oil,0.029211295
+novel_inclusive,pea-flour,0
+novel_inclusive,pea-protein-concentrate,0.048685492
+novel_inclusive,rapeseed-oil,0
+novel_inclusive,soybean-meal,0
+novel_inclusive,soybean-oil,0.019474197
+novel_inclusive,soy-protein-concentrate,0.146056475
+novel_inclusive,sunflower-meal,0
+novel_inclusive,sunflower-meal-high-protein,0
+novel_inclusive,tapioca,0
+novel_inclusive,wheat,0
+novel_inclusive,wheat-gluten,0
