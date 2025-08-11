@@ -11,9 +11,18 @@ library(bslib)
 library(shinyWidgets)
 library(plotly)
 library(countrycode)
+library(DT)
+library(RColorBrewer)
 
 # Global variables
-CLP_fill <- c(carbohydrate = "#FF9999", lipid = "#66B3FF", protein = "#99FF99")
+CLP_fill <- c(
+  protein = "#8B0000", # "darkred"
+  P = "#8B0000", 
+  carbohydrate = "#4682B4", # "steelblue"
+  C = "#4682B4", 
+  lipid = "#FFB90F", # "darkgoldenrod1", 
+  L = "#FFB90F"
+)
 
 # Compile SCSS to CSS
 sass(
@@ -63,7 +72,14 @@ ui <- fluidPage(
             plotOutput("nutrition_plot")
           ),
 
-          checkboxInput("show_requirements", "Show requirements for salmon", FALSE)
+          checkboxInput("show_requirements", "Show requirements for salmon", FALSE),
+          
+          # Ingredient type breakdown table
+          div(style = "margin-top: 30px;",
+            h4("Feed component breakdown"),
+            helpText(read_app_data("data/UI.csv") %>% filter(element == "feed_component_breakdown") %>% pull(text)),
+            DTOutput("ingredient_breakdown_table")
+          )
         )
       )
     ),
