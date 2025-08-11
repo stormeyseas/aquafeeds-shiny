@@ -6,6 +6,7 @@ library(readr)
 library(ggplot2)
 library(dplyr)
 library(tidyr)
+library(stringr)
 library(sass)
 library(bslib)
 library(shinyWidgets)
@@ -500,19 +501,19 @@ server <- function(input, output, session) {
 
       div(
         # style = "margin-bottom: 20px;",
-        h4(ing),
+        h4(nice_ing_names(ing)),
         fluidRow(
           column(6,
             selectInput(
               inputId = paste0("source_", make.names(ing)),
-              label = NULL,
+              label = NULL, # "Source country:",
               choices = source_countries
             )
           ),
           column(6,
             selectInput(
               inputId = paste0("process_", make.names(ing)),
-              label = NULL,
+              label = NULL, # "Processing country:",
               choices = process_countries
             )
           )

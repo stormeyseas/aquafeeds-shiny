@@ -1,3 +1,4 @@
 element,text
-feed_mix_help,"Build your feed by selecting the % composition of each ingredient to the left, or by selecting a preset diet to start with. Use the checkbox below the plot to see how well your feed fulfils the nutritional requirements of farmed Atlantic salmon."
-sourcing_help,Text text text
+feed_mix_help,"Build your feed by selecting the % composition of each ingredient to the left, or by selecting a preset diet to start with. Use the checkbox below the plot to see how well your feed fulfils the digestible nutritional requirements of farmed Atlantic salmon."
+sourcing_help,sourcing_help text text text
+feed_component_breakdown,"The table below shows what categories of feed ingredient are contributing to the total and digestible portions of your feed. For example, the marine-dominant feed preset is 52.8% marine-sourced ingredients. However, because the plant-derived ingredients within it are higher in protein than fishmeal, 52.2% of the total protein within the feed is from plant-derived ingredients. Plant-derived ingredients are slightly less digestible, however, so overall 52% of the digestible protein comes from plant-derived ingredients."
